@@ -29,6 +29,8 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git remote set-url origin https://x-access-token:${GH_PAT}@github.com/orion0616/dev-hatena-rss.git
+          git fetch origin gh-pages
+          git checkout gh-pages
           mkdir -p public/rss
           mv hatena_dev_entries.xml public/rss/
           git add public/rss/hatena_dev_entries.xml

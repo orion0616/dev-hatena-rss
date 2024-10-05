@@ -21,7 +21,11 @@ def fetch_articles(url):
         link = article_tag['href']
         guid = link  # GUIDとしてリンクを使用
         pub_date = datetime.datetime.now(datetime.timezone.utc).strftime('%a, %d %b %Y %H:%M:%S %z')  # 現在日時を仮の公開日時として使用
-        articles.append({'title': title, 'link': link, 'guid': guid, 'pub_date': pub_date})
+        
+        # サムネイル画像の取得
+        thumbnail_tag = article_tag.select_one('div.styles_ogImage__h5s_T img')
+        thumbnail = thumbnail_tag['src'] if thumbnail_tag else None
+        articles.append({'title': title, 'link': link, 'guid': guid, 'pub_date': pub_date, 'thumbnail': thumbnail})
 
     return articles
 
@@ -39,6 +43,10 @@ def create_rss_feed(articles):
         fe.link(href=article['link'])
         fe.pubDate(article['pub_date'])
         fe.guid(article['guid'], permalink=True)
+
+        # サムネイル画像の追加
+        if article['thumbnail']:
+            fe.enclosure(url=article['thumbnail'], type='image/jpeg')
 
     fg.rss_file(RSS_OUTPUT_FILE, pretty=True)
     print(f"RSSフィードが {RSS_OUTPUT_FILE} に生成されました。")

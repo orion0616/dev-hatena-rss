@@ -23,9 +23,12 @@ jobs:
       - name: Generate RSS Feed
         run: poetry run python create_rss_feed.py
       - name: Deploy to GitHub Pages
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
+          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/orion0616/dev-hatena-rss.git
           mkdir -p public/rss
           mv hatena_dev_entries.xml public/rss/
           git add public/rss/hatena_dev_entries.xml

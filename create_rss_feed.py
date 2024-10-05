@@ -46,7 +46,8 @@ def create_rss_feed(articles):
 
         # サムネイル画像の追加
         if article['thumbnail']:
-            fe.enclosure(url=article['thumbnail'], type='image/jpeg')
+            mime_type = 'image/png' if article['thumbnail'].endswith('.png') else 'image/jpeg'
+            fe.enclosure(url=article['thumbnail'], type=mime_type)
 
     fg.rss_file(RSS_OUTPUT_FILE, pretty=True)
     print(f"RSSフィードが {RSS_OUTPUT_FILE} に生成されました。")

@@ -1,0 +1,33 @@
+name: Generate Hatena RSS Feed
+
+on:
+  schedule:
+    - cron: "0 3 * * *"  # 日本時間の正午に実行
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+      - name: Install poetry
+        uses: abatilo/actions-poetry@v2
+      - name: Install dependencies and create virtual environment
+        run: |
+          poetry install
+      - name: Generate RSS Feed
+        run: poetry run python create_rss_feed.py
+      - name: Deploy to GitHub Pages
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          mkdir -p public/rss
+          mv hatena_dev_entries.xml public/rss/
+          git add public/rss/hatena_dev_entries.xml
+          git commit -m "Update RSS Feed"
+          git push origin HEAD:gh-pages

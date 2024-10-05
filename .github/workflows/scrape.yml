@@ -21,7 +21,10 @@ jobs:
         run: |
           poetry install
       - name: Generate RSS Feed
-        run: poetry run python create_rss_feed.py
+        run: |
+          mkdir -p output
+          poetry run python create_rss_feed.py
+          mv hatena_dev_entries.xml output/
       - name: Deploy to GitHub Pages
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
@@ -32,7 +35,7 @@ jobs:
           git fetch origin gh-pages
           git checkout gh-pages
           mkdir -p public/rss
-          mv hatena_dev_entries.xml public/rss/
+          mv output/hatena_dev_entries.xml public/rss/
           git add public/rss/hatena_dev_entries.xml
           git commit -m "Update RSS Feed"
           git push origin HEAD:gh-pages

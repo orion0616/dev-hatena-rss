@@ -17,7 +17,9 @@ def fetch_articles(url):
     articles = []
     # 新着記事のリストを探す
     for article_tag in soup.select('div.Entries_columns__GI_fe > div[data-gtm-track-area="entries"] ul > li > div > a.styles_entryLink__DEklK'):
-        title = article_tag.get_text(strip=True)
+        title_tag = article_tag.select_one('div.styles_title__cR9Ui > h4')
+        title = title_tag.get_text(strip=True) if title_tag else "No Title"
+        # title = article_tag.get_text(strip=True)
         link = article_tag['href']
         guid = link  # GUIDとしてリンクを使用
 

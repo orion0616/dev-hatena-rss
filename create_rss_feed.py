@@ -49,9 +49,7 @@ def create_rss_feed(articles):
             mime_type = 'image/png' if article['thumbnail'].endswith('.png') else 'image/jpeg'
             
             # サムネイルのサイズを取得する
-            response = requests.head(article['thumbnail'])
-            length = response.headers.get('Content-Length', '0')
-            fe.enclosure(url=article['thumbnail'], type=mime_type, length=length)
+            fe.enclosure(url=article['thumbnail'], type=mime_type)
 
     fg.rss_file(RSS_OUTPUT_FILE, pretty=True)
     print(f"RSSフィードが {RSS_OUTPUT_FILE} に生成されました。")

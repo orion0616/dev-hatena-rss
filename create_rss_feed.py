@@ -20,7 +20,19 @@ def fetch_articles(url):
         title = article_tag.get_text(strip=True)
         link = article_tag['href']
         guid = link  # GUIDとしてリンクを使用
-        pub_date = datetime.datetime.now(datetime.timezone.utc).strftime('%a, %d %b %Y %H:%M:%S %z')  # 現在日時を仮の公開日時として使用
+
+        # 各記事のページを取得して公開日時を取得
+        article_response = requests.get(link)
+        article_response.raise_for_status()
+        article_soup = BeautifulSoup(article_response.text, 'html.parser')
+
+        pub_date_tag = article_soup.find('meta', property='article:published_time')
+        if pub_date_tag and pub_date_tag.get('content'):
+            pub_date_unix = int(pub_date_tag['content'])
+            pub_date = datetime.datetime.fromtimestamp(pub_date_unix, tz=datetime.timezone.utc).strftime('%a, %d %b %Y %H:%M:%S %z')
+        else:
+            # 公開日時が取得できない場合は現在日時を使用
+            pub_date = datetime.now(datetime.timezone.utc).strftime('%a, %d %b %Y %H:%M:%S %z')
         
         # サムネイル画像の取得
         thumbnail_tag = article_tag.select_one('div.styles_ogImage__h5s_T img')

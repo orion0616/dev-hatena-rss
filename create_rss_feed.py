@@ -1,30 +1,54 @@
+import json
 import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
-import os
 import datetime
 
 # 設定
-TARGET_BASE_URL = "https://hatena.blog/dev/entries"
+TARGET_BASE_URL = "https://hatena.blog/dev"
 RSS_OUTPUT_FILE = "hatena_dev_entries.xml"
 MAX_ITEMS = 30
 
+def fetch_articles(skip=0, limit=20):
+    headers = {
+        'Content-Type': 'application/json',
+    }
 
-def fetch_articles(url):
-    response = requests.get(url)
+    query = """
+    query EntriesQuery($skip: Int, $limit: Int!) {
+      recentEntries(skip: $skip, limit: $limit) {
+        entries {
+          id
+          title
+          url
+          created
+          imageUrl
+        }
+        hasNextPage
+      }
+    }
+    """
+
+    payload = {
+        "query": query,
+        "operationName": "EntriesQuery",
+        "variables": {
+            "skip": skip,
+            "limit": limit
+        }
+    }
+
+    response = requests.post(TARGET_BASE_URL + "/api/graphql", headers=headers, data=json.dumps(payload))
     response.raise_for_status()
-    soup = BeautifulSoup(response.text, 'html.parser')
-    articles = []
-    # 新着記事のリストを探す
-    for article_tag in soup.select('div.Entries_columns__GI_fe > div[data-gtm-track-area="entries"] ul > li > div > a.styles_entryLink__DEklK'):
-        title_tag = article_tag.select_one('div.styles_title__cR9Ui > h4')
-        title = title_tag.get_text(strip=True) if title_tag else "No Title"
-        # title = article_tag.get_text(strip=True)
-        link = article_tag['href']
-        guid = link  # GUIDとしてリンクを使用
 
+    data = response.json()
+    articles = []
+
+    # 記事リストの解析
+    recent_entries = data.get("data", {}).get("recentEntries", {}).get("entries", [])
+    for entry in recent_entries:
         # 各記事のページを取得して公開日時を取得
-        article_response = requests.get(link)
+        article_response = requests.get(entry['url'])
         article_response.raise_for_status()
         article_soup = BeautifulSoup(article_response.text, 'html.parser')
 
@@ -35,19 +59,21 @@ def fetch_articles(url):
         else:
             # 公開日時が取得できない場合は現在日時を使用
             pub_date = datetime.now(datetime.timezone.utc).strftime('%a, %d %b %Y %H:%M:%S %z')
-        
-        # サムネイル画像の取得
-        thumbnail_tag = article_tag.select_one('div.styles_ogImage__h5s_T img')
-        thumbnail = thumbnail_tag['src'] if thumbnail_tag else None
-        articles.append({'title': title, 'link': link, 'guid': guid, 'pub_date': pub_date, 'thumbnail': thumbnail})
+
+        articles.append({
+            'title': entry['title'],
+            'link': entry['url'],
+            'guid': entry['url'],
+            'pub_date': pub_date,
+            'thumbnail': entry.get('imageUrl')
+        })
 
     return articles
-
 
 def create_rss_feed(articles):
     fg = FeedGenerator()
     fg.title('Hatena Dev Entries')
-    fg.link(href=TARGET_BASE_URL, rel='alternate')
+    fg.link(href=TARGET_BASE_URL + "/entries", rel='alternate')
     fg.description('最新のHatena Devブログ記事')
     fg.language('ja')
 
@@ -61,23 +87,17 @@ def create_rss_feed(articles):
         # サムネイル画像の追加
         if article['thumbnail']:
             mime_type = 'image/png' if article['thumbnail'].endswith('.png') else 'image/jpeg'
-            
-            # サムネイルのサイズを取得する
             fe.enclosure(url=article['thumbnail'], type=mime_type)
 
     fg.rss_file(RSS_OUTPUT_FILE, pretty=True)
     print(f"RSSフィードが {RSS_OUTPUT_FILE} に生成されました。")
 
-
 def main():
     try:
         articles = []
-        page = 1
+        page = 0
         while len(articles) < MAX_ITEMS:
-            url = f"{TARGET_BASE_URL}?page={page}#recent"
-            new_articles = fetch_articles(url)
-            if not new_articles:
-                break
+            new_articles = fetch_articles(page*20,20)
             articles.extend(new_articles)
             page += 1
 
@@ -90,7 +110,6 @@ def main():
         print(f"エラーが発生しました: {e}")
         # 必要に応じて通知機能を追加
         raise  # エラーを再スローしてワークフローが失敗と認識するように
-
 
 if __name__ == "__main__":
     main()

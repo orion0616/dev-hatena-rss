@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 06 Oct 2024 05:54:17 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft Entra ID と IAM Identity Center を連携させて、AWS アカウントへのログインを実現させる</title>
-      <link>https://blog.serverworks.co.jp/saml-entraid-identitycenter</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/saml-entraid-identitycenter</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8705c20c4eca63c99e300d8851245ac421ef7de8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-yamaguchi%2F20241001%2F20241001162713.png" length="None" type="image/png"/>
-      <pubDate>Fri, 04 Oct 2024 02:54:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 07 Oct 2024 03:18:08 +0000</lastBuildDate>
     <item>
       <title>AWS Fargate Spot が中断されにくいのはいつ？</title>
       <link>https://developer.hatenastaff.com/entry/2024/10/04/120000</link>
@@ -205,6 +198,12 @@
       <link>https://blog.smtps.jp/entry/2024/10/05/222047</link>
       <guid isPermaLink="true">https://blog.smtps.jp/entry/2024/10/05/222047</guid>
       <pubDate>Sat, 05 Oct 2024 13:20:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>IBM Qiskitでベル状態の量子回路を作る</title>
+      <link>https://www.mof-mof.co.jp/tech-blog/2024/10/06/233110</link>
+      <guid isPermaLink="true">https://www.mof-mof.co.jp/tech-blog/2024/10/06/233110</guid>
+      <pubDate>Sun, 06 Oct 2024 14:31:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

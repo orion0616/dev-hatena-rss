@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 09 Nov 2024 03:04:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 03:06:36 +0000</lastBuildDate>
     <item>
       <title>英語学習を通じて楽天グループのブランドコンセプト「信念不抜　-GET THINGS DONE-」を体感</title>
       <link>https://commerce-engineer.rakuten.careers/entry/benefit/0040</link>
@@ -65,7 +65,7 @@
       <pubDate>Fri, 08 Nov 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>生成AIボランティアプロジェクトの裏側</title>
+      <title>生成AIボランティアプロジェクトの裏話</title>
       <link>https://creators.oisixradaichi.co.jp/entry/2024/11/08/150640</link>
       <guid isPermaLink="true">https://creators.oisixradaichi.co.jp/entry/2024/11/08/150640</guid>
       <pubDate>Fri, 08 Nov 2024 06:06:40 +0000</pubDate>
@@ -127,18 +127,18 @@
       <pubDate>Fri, 08 Nov 2024 10:39:00 +0000</pubDate>
     </item>
     <item>
-      <title>Console-to-Code使ってみた</title>
-      <link>https://blog.serverworks.co.jp/2024/11/07/130244</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/2024/11/07/130244</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/b74b33b456cfe546f87cf5aba463a762953e2b70/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-kento-takizawa%2F20241031%2F20241031170857.png" length="None" type="image/png"/>
-      <pubDate>Thu, 07 Nov 2024 04:02:44 +0000</pubDate>
+      <title>AWS WAF での SQL インジェクション対策と誤検知への対応方法</title>
+      <link>https://blog.serverworks.co.jp/AWS_WAF-SQL_Injection</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/AWS_WAF-SQL_Injection</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/b2023bd9dc698bb58c413740999ae264e04c8d30/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-yamamoto%2F20241109%2F20241109040118.png" length="None" type="image/png"/>
+      <pubDate>Fri, 08 Nov 2024 19:04:20 +0000</pubDate>
     </item>
     <item>
-      <title>Keyword Mask for Secure RAG のご紹介</title>
-      <link>https://blog.fltech.dev/entry/2024/11/07/keywordmask-ja</link>
-      <guid isPermaLink="true">https://blog.fltech.dev/entry/2024/11/07/keywordmask-ja</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/bf8aa65ed423c1c10eb066df24ba94764c67265b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Ffltech%2F20241022%2F20241022171514.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Thu, 07 Nov 2024 04:09:56 +0000</pubDate>
+      <title> OCHaCafe Season 9 #2 『Platform Engineeringことはじめ』／『Backstage入門』</title>
+      <link>https://techblog.ap-com.co.jp/entry/2024/11/09/110924</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2024/11/09/110924</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/94cd30bfd94432d57a10ca6492e273dbd29a8d3c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Fturtle2005%2F20230303%2F20230303210336.png" length="None" type="image/png"/>
+      <pubDate>Sat, 09 Nov 2024 02:09:24 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Keyword Mask for Secure RAG</title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 17 Nov 2024 03:13:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 03:13:53 +0000</lastBuildDate>
     <item>
       <title>コスト削減率最大74.6%！？簡単設定で業務時間外のEC2インスタンスの無駄をなくす</title>
       <link>https://blog.serverworks.co.jp/aws-ssm-quick-setup-resource-scheduler</link>
@@ -194,24 +194,25 @@
       <pubDate>Sat, 16 Nov 2024 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>○○に依存しつづけてはや6年〜Dependency Injection（依存性の注入）〜</title>
-      <link>https://tech.iimon.co.jp/entry/2024/11/15/072610</link>
-      <guid isPermaLink="true">https://tech.iimon.co.jp/entry/2024/11/15/072610</guid>
-      <pubDate>Thu, 14 Nov 2024 22:26:10 +0000</pubDate>
+      <title>成長するスタートアップ労務の醍醐味と挑戦をUXリサーチャーが聞いてみた！</title>
+      <link>https://blog.smartbank.co.jp/entry/sb_advent_calendar_2024_day5</link>
+      <guid isPermaLink="true">https://blog.smartbank.co.jp/entry/sb_advent_calendar_2024_day5</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/7ebbc91395cfeecb66ad0860fea0d610d9370b7e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmartbank%2F20241115%2F20241115184257.png" length="None" type="image/png"/>
+      <pubDate>Sun, 17 Nov 2024 01:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>フルリモート下で風化したエンジニア文化の再定義合宿の計画と実施のすゝめ</title>
-      <link>https://made.livesense.co.jp/entry/2024/11/15/080000</link>
-      <guid isPermaLink="true">https://made.livesense.co.jp/entry/2024/11/15/080000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/9a0f60f810b6d46e547e460fc9a1ad07438c0fc0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyjszk%2F20241113%2F20241113154100.png" length="None" type="image/png"/>
-      <pubDate>Thu, 14 Nov 2024 23:00:00 +0000</pubDate>
+      <title>SIGQのエンジニアブログを開設しました</title>
+      <link>https://sigq.hatenablog.com/entry/2024/11/17/110436</link>
+      <guid isPermaLink="true">https://sigq.hatenablog.com/entry/2024/11/17/110436</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/4f7d983c2d97b4da6e4a3822d8dbcf1975a0bcb4/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsigq%2F20241117%2F20241117104024.png" length="None" type="image/png"/>
+      <pubDate>Sun, 17 Nov 2024 02:04:36 +0000</pubDate>
     </item>
     <item>
-      <title>Intuneでタスクスケジューラーから端末同期を実施する</title>
-      <link>https://blog.jbs.co.jp/entry/2024/11/15/084512</link>
-      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2024/11/15/084512</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/a0aa2abe550e88ef56681e65a54e163f65327117/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjbs_nazumaya%2F20240822%2F20240822230135.png" length="None" type="image/png"/>
-      <pubDate>Thu, 14 Nov 2024 23:45:12 +0000</pubDate>
+      <title>Next.jsでのlottie-react導入＆デザイナーと課題探求をしてみた話</title>
+      <link>https://tech.furyu.jp/entry/2024/11/17/180000</link>
+      <guid isPermaLink="true">https://tech.furyu.jp/entry/2024/11/17/180000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/ceaa21a0884fd8122b3cbaf52edb1ef425b6a3bd/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Ffuryu-tech%2F20241117%2F20241117180009.png" length="None" type="image/png"/>
+      <pubDate>Sun, 17 Nov 2024 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

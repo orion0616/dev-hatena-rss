@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 23 Nov 2024 03:09:29 +0000</lastBuildDate>
-    <item>
-      <title>ISUCON14でISUポンサーとして協賛します！</title>
-      <link>https://tech.every.tv/entry/2024/11/22/104813</link>
-      <guid isPermaLink="true">https://tech.every.tv/entry/2024/11/22/104813</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/977efd084f1efe2becd5ee71f61d53e6c35a8bb9/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Frymiyamoto%2F20241121%2F20241121160948.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 22 Nov 2024 01:48:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 24 Nov 2024 03:14:39 +0000</lastBuildDate>
     <item>
       <title>NRIネットコムBlog Advent Calendar 2024 はじまります！</title>
       <link>https://tech.nri-net.com/entry/advent_calendar_2024_start</link>
@@ -199,18 +192,25 @@
       <pubDate>Fri, 22 Nov 2024 11:56:05 +0000</pubDate>
     </item>
     <item>
-      <title>社内ものづくりイベント「Builders Day」を初開催した話</title>
-      <link>https://tech.kanmu.co.jp/entry/2024/11/22/074903</link>
-      <guid isPermaLink="true">https://tech.kanmu.co.jp/entry/2024/11/22/074903</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/58dcdb26f6165f143211139437e98c96ee147d8d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnakaji_dayo_knm%2F20241029%2F20241029160003.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Thu, 21 Nov 2024 22:49:03 +0000</pubDate>
+      <title>忖度なし！？業務委託エンジニアが語るスマートバンクの真実</title>
+      <link>https://blog.smartbank.co.jp/entry/2024/11/23/103000</link>
+      <guid isPermaLink="true">https://blog.smartbank.co.jp/entry/2024/11/23/103000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/13b01c6e111b2767d4de88f0b6089632bab58f44/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmartbank%2F20241121%2F20241121230219.png" length="None" type="image/png"/>
+      <pubDate>Sat, 23 Nov 2024 01:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft Intune iOS】Microsoft TeamsやMicrosoft Outlookへの個人アカウント追加をブロックする</title>
-      <link>https://blog.jbs.co.jp/entry/2024/11/22/085514</link>
-      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2024/11/22/085514</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/4194a08b3546c2a0dee55609e35b494375480f37/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjbs_mlee%2F20241024%2F20241024142805.png" length="None" type="image/png"/>
-      <pubDate>Thu, 21 Nov 2024 23:55:14 +0000</pubDate>
+      <title>GitLab 17.6の紹介: Self-hosted model for Duo Chat / Merge request reviwer候補の表示 / CI/CD job token Allowlistの強制</title>
+      <link>https://techblog.ap-com.co.jp/entry/2024/11/23/103000</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2024/11/23/103000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/982850efc7052e6ff98be78ddb2dcfac11eb9738/height=144;version=1;width=224/https%3A%2F%2Fabout.gitlab.com%2Fimages%2F17_6%2Fself-hosted-models-ui-17.6.png" length="None" type="image/png"/>
+      <pubDate>Sat, 23 Nov 2024 01:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MemoryDB for Valkey へCLIアクセス/プログラムアクセスやってみた【valkey-cli】【Valkey GLIDE】</title>
+      <link>https://blog.serverworks.co.jp/memorydb-valkey</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/memorydb-valkey</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/5dcb85cc60e4ace7f156846f327ebfcd26305801/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-hiramatsu%2F20241123%2F20241123165056.png" length="None" type="image/png"/>
+      <pubDate>Sat, 23 Nov 2024 07:52:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

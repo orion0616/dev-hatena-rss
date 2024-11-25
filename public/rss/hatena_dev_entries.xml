@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 24 Nov 2024 03:14:39 +0000</lastBuildDate>
-    <item>
-      <title>NRIネットコムBlog Advent Calendar 2024 はじまります！</title>
-      <link>https://tech.nri-net.com/entry/advent_calendar_2024_start</link>
-      <guid isPermaLink="true">https://tech.nri-net.com/entry/advent_calendar_2024_start</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/9ef5922baa9d5d3e153e70fa119ca870888ca9d1/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm2-kojima%2F20241122%2F20241122101137.png" length="None" type="image/png"/>
-      <pubDate>Fri, 22 Nov 2024 01:53:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Nov 2024 03:13:38 +0000</lastBuildDate>
     <item>
       <title>Aurora Blue/Green Deploymentsによるダウンタイムを最小限に抑えたメジャーアップグレードの実現</title>
       <link>https://techblog.zozo.com/entry/aurora-blue-green-deployments</link>
@@ -211,6 +204,13 @@
       <guid isPermaLink="true">https://blog.serverworks.co.jp/memorydb-valkey</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/5dcb85cc60e4ace7f156846f327ebfcd26305801/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-hiramatsu%2F20241123%2F20241123165056.png" length="None" type="image/png"/>
       <pubDate>Sat, 23 Nov 2024 07:52:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>マーケターとして成果を出すN1分析の実践と活用</title>
+      <link>https://blog.smartbank.co.jp/entry/2024/11/24/104936</link>
+      <guid isPermaLink="true">https://blog.smartbank.co.jp/entry/2024/11/24/104936</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/38b7ea195d8764996afecb5793c34acae90dd7d2/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmartbank%2F20241118%2F20241118083148.png" length="None" type="image/png"/>
+      <pubDate>Sun, 24 Nov 2024 01:49:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

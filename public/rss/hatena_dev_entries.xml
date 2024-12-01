@@ -7,41 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 30 Nov 2024 03:10:31 +0000</lastBuildDate>
-    <item>
-      <title>ugoに入社しました</title>
-      <link>https://ugo-robot.hatenablog.com/entry/2024/11/29/114527</link>
-      <guid isPermaLink="true">https://ugo-robot.hatenablog.com/entry/2024/11/29/114527</guid>
-      <pubDate>Fri, 29 Nov 2024 02:45:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Privateな環境でMigrationをAWS CodeBuildで実行した話</title>
-      <link>https://tech.buysell-technologies.com/entry/2024/11/29/120000</link>
-      <guid isPermaLink="true">https://tech.buysell-technologies.com/entry/2024/11/29/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/1a31004134628a708aedce212db299cc5dc7be40/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbst-tech%2F20241018%2F20241018151958.png" length="None" type="image/png"/>
-      <pubDate>Fri, 29 Nov 2024 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>大規模調査を支えるアンケートシステムのアーキテクチャ</title>
-      <link>https://tech.emotion-tech.co.jp/entry/2024/11/29/120000</link>
-      <guid isPermaLink="true">https://tech.emotion-tech.co.jp/entry/2024/11/29/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/a195d133dcd02cc4dee25cb51b769886ba176460/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fe%2Fet-otawara%2F20241120%2F20241120124621.png" length="None" type="image/png"/>
-      <pubDate>Fri, 29 Nov 2024 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dagger Go SDKからgo-gitとgo-githubへ ~ モノレポのCIの書き換えと実装比較 ~</title>
-      <link>https://developersblog.dmm.com/entry/2024/11/29/120000</link>
-      <guid isPermaLink="true">https://developersblog.dmm.com/entry/2024/11/29/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/ca4bc4bab3dcd4c6f66970d70eeb0beae40a02c4/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FD%2FDMMTech%2F20241125%2F20241125150412.png" length="None" type="image/png"/>
-      <pubDate>Fri, 29 Nov 2024 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>オペレーション再現性を高めるための作業用ホスト使い捨て戦略</title>
-      <link>https://techblog.kayac.com/ecs-task-as-disposable-work-host</link>
-      <guid isPermaLink="true">https://techblog.kayac.com/ecs-task-as-disposable-work-host</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/2d51f50a56999926c6711dff16b4c4ab69eae005/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F95576601%2F1721751066204626" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 29 Nov 2024 03:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Dec 2024 03:20:51 +0000</lastBuildDate>
     <item>
       <title>UIKitベースのiOSアプリにSwiftUIを導入する際に直面した課題と取り組み</title>
       <link>https://devblog.thebase.in/entry/2024/11/29/120000</link>
@@ -206,6 +172,40 @@
       <guid isPermaLink="true">https://blog.serverworks.co.jp/ecr-region-default-100000</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/198edb417a40df93627923be2cea1e46b1f1e5e9/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-yamamoto%2F20241129%2F20241129192742.png" length="None" type="image/png"/>
       <pubDate>Fri, 29 Nov 2024 10:29:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS 初学者にもオススメ AWS Jam / GameDay</title>
+      <link>https://kaminashi-developer.hatenablog.jp/entry/2024/11/30/aws-jam-gameday-recommend</link>
+      <guid isPermaLink="true">https://kaminashi-developer.hatenablog.jp/entry/2024/11/30/aws-jam-gameday-recommend</guid>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISMS認証取得の対応をした話</title>
+      <link>https://techblog.tetemarche.co.jp/entry/2024/11/30/100000</link>
+      <guid isPermaLink="true">https://techblog.tetemarche.co.jp/entry/2024/11/30/100000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/88fa44005b50245d2f007deac858aaccea1c11ff/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftetemarche_moroishi%2F20241129%2F20241129094830.png" length="None" type="image/png"/>
+      <pubDate>Sat, 30 Nov 2024 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>システムリニューアルでNext.jsのApp Router/Server Actionを使って便利だと思ったところ</title>
+      <link>https://devblog.thebase.in/entry/2024/11/30/110000</link>
+      <guid isPermaLink="true">https://devblog.thebase.in/entry/2024/11/30/110000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/4a595212d9b99db43b348eb3dcda79a9eaa6b08d/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F153078222%2F1614340287711564" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 30 Nov 2024 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>いよいよ開幕！every Tech Blog Advent Calendar 2024</title>
+      <link>https://tech.every.tv/entry/2024/11/30/120000</link>
+      <guid isPermaLink="true">https://tech.every.tv/entry/2024/11/30/120000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/daf73f2f45fefb1b5dc4a5dd01b4d8df72f3edee/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnaoki-haba%2F20241128%2F20241128110006.png" length="None" type="image/png"/>
+      <pubDate>Sat, 30 Nov 2024 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎄🎅 BASE PRODUCT TEAM BLOG Advent Calendar 2024 🎅🎄</title>
+      <link>https://devblog.thebase.in/entry/2024/11/30/160000</link>
+      <guid isPermaLink="true">https://devblog.thebase.in/entry/2024/11/30/160000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/637f37415232b4d3705d86ed5dd7b5e5a2948828/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fz%2Fzan_gi%2F20241129%2F20241129202407.png" length="None" type="image/png"/>
+      <pubDate>Sat, 30 Nov 2024 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

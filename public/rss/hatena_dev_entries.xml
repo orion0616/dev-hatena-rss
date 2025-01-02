@@ -7,49 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Jan 2025 03:10:08 +0000</lastBuildDate>
-    <item>
-      <title>enechain CTOの2024年振り返り</title>
-      <link>https://techblog.enechain.com/entry/enechain-cto-2024-retro</link>
-      <guid isPermaLink="true">https://techblog.enechain.com/entry/enechain-cto-2024-retro</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/ad09a93ba0744206127108b16936c89e9a32bc1a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fe%2Fenechain%2F20241227%2F20241227175657.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 27 Dec 2024 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【イベントレポート】「AWS re:Invent 2024 Recap in ZOZO」を開催しました！</title>
-      <link>https://techblog.zozo.com/entry/20241217-aws-reinvent-recap</link>
-      <guid isPermaLink="true">https://techblog.zozo.com/entry/20241217-aws-reinvent-recap</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/7d8db0f8216206f58af9acd2a7e6623916a7980f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20241227%2F20241227122616.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 27 Dec 2024 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Docker を使った Redis Cluster 開発環境を構築し Rails などのアプリから接続する方法</title>
-      <link>https://developers.play.jp/entry/2024/12/27/184241</link>
-      <guid isPermaLink="true">https://developers.play.jp/entry/2024/12/27/184241</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/7b8daf1e6eb3f183043be18b84229fd05ed9caba/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fp%2Fplayjp%2F20241227%2F20241227184117.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 27 Dec 2024 09:42:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spring Bootにおいて、Controllerで全てのリクエストを受け取る方法</title>
-      <link>https://tech.excite.co.jp/entry/2024/12/27/185729</link>
-      <guid isPermaLink="true">https://tech.excite.co.jp/entry/2024/12/27/185729</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/7b7b0d9c17248dc2c9aea3132e8d31c4360945c9/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fo%2Fooo-ka999%2F20241224%2F20241224091859.png" length="None" type="image/png"/>
-      <pubDate>Fri, 27 Dec 2024 09:57:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>【初心者向け】ウェブパフォーマンスチューニングで役立つツールのご紹介</title>
-      <link>https://blog.serverworks.co.jp/2024/12/27/195153</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/2024/12/27/195153</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 27 Dec 2024 10:51:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Qiita Bash】アドベントカレンダーお疲れ様会、開催！会場スポンサーとして参加しました！</title>
-      <link>https://tech.smarthr.jp/entry/2024/12/27/202040</link>
-      <guid isPermaLink="true">https://tech.smarthr.jp/entry/2024/12/27/202040</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8d1c10a7dee2849f7652fb61bf2d1e9baa09fb79/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20241227%2F20241227202047.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 27 Dec 2024 11:20:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Jan 2025 03:05:01 +0000</lastBuildDate>
     <item>
       <title>2024年も終わりなので、来年の目標達成のための計画を作ってくれるMulti-Agentの仕組みを作ってみました。</title>
       <link>https://techblog.cccmkhd.co.jp/entry/2024/12/30/101527</link>
@@ -210,6 +168,48 @@
       <link>https://developer.hatenastaff.com/entry/2024/12/31/233000</link>
       <guid isPermaLink="true">https://developer.hatenastaff.com/entry/2024/12/31/233000</guid>
       <pubDate>Tue, 31 Dec 2024 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Findyのエンジニアおみくじの舞台裏を大公開！</title>
+      <link>https://tech.findy.co.jp/entry/2025/01/01/070000</link>
+      <guid isPermaLink="true">https://tech.findy.co.jp/entry/2025/01/01/070000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/5d4299eb865ea9f39e45e2c1846919a76918f53d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fp%2Fpuku0x%2F20241215%2F20241215225738.png" length="None" type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPTで悩みを整理！ユニークな人生相談を分析して解決策を考える</title>
+      <link>https://techblog.ap-com.co.jp/entry/2025/01/01/070000</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/01/01/070000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/0f03fcdaed264b647d11608721a38012dcc6cdf5/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F91061897%2F163480237573261" length="None" type="image/jpeg"/>
+      <pubDate>Tue, 31 Dec 2024 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>あけましておめでとうございます</title>
+      <link>https://blog.tech-monex.com/entry/2025/01/01/090000</link>
+      <guid isPermaLink="true">https://blog.tech-monex.com/entry/2025/01/01/090000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/76f51d1d3bbb078f5de177384528fae653dffdb5/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyuki_yoshizawa%2F20241230%2F20241230105956.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LACP関連コマンドの復習</title>
+      <link>https://tech.synapse.jp/entry/2025/01/01/100000</link>
+      <guid isPermaLink="true">https://tech.synapse.jp/entry/2025/01/01/100000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/a5f5c75969e382b5ed36813634538415c58f4324/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsynapse-wakamatsu%2F20241220%2F20241220114122.png" length="None" type="image/png"/>
+      <pubDate>Wed, 01 Jan 2025 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【AWS re:Invent 2024】セッションレポート：COP304 | Monitor end user experience with Amazon CloudWatch</title>
+      <link>https://blog.serverworks.co.jp/2025/01/01/155849</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2025/01/01/155849</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/47f9d149182d989343fdd19f11eb4343b6866746/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-taniuchi%2F20241212%2F20241212003726.png" length="None" type="image/png"/>
+      <pubDate>Wed, 01 Jan 2025 06:58:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Backstageのアップデートを楽にするyarn pluginのご紹介</title>
+      <link>https://techblog.ap-com.co.jp/entry/2025/01/01/215958</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/01/01/215958</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/94cd30bfd94432d57a10ca6492e273dbd29a8d3c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Fturtle2005%2F20230303%2F20230303210336.png" length="None" type="image/png"/>
+      <pubDate>Wed, 01 Jan 2025 12:59:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

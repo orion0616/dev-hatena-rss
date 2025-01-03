@@ -7,27 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Jan 2025 03:05:01 +0000</lastBuildDate>
-    <item>
-      <title>2024年も終わりなので、来年の目標達成のための計画を作ってくれるMulti-Agentの仕組みを作ってみました。</title>
-      <link>https://techblog.cccmkhd.co.jp/entry/2024/12/30/101527</link>
-      <guid isPermaLink="true">https://techblog.cccmkhd.co.jp/entry/2024/12/30/101527</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/814f0d747ef6777cc72fc47d6b0f7524edec80fb/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmiu4930%2F20241230%2F20241230101316.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Mon, 30 Dec 2024 01:15:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Action Mailerに学ぶ闇の魔術と闇の魔術に対する防衛術</title>
-      <link>https://product.st.inc/entry/2024/12/30/110000</link>
-      <guid isPermaLink="true">https://product.st.inc/entry/2024/12/30/110000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/2885ceabd0ea49e8e9f38c488a1691c401f325b3/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fstores-tech%2F20241230%2F20241230110006.png" length="None" type="image/png"/>
-      <pubDate>Mon, 30 Dec 2024 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2024年の学び</title>
-      <link>https://blog.ingage.jp/entry/2024/12/30/123904</link>
-      <guid isPermaLink="true">https://blog.ingage.jp/entry/2024/12/30/123904</guid>
-      <pubDate>Mon, 30 Dec 2024 03:39:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Jan 2025 03:05:44 +0000</lastBuildDate>
     <item>
       <title>AIチームGoogle Kubernetes Engineオンボーディングチュートリアル</title>
       <link>https://www.m3tech.blog/entry/2024/12/30/170000</link>
@@ -96,6 +76,19 @@
       <guid isPermaLink="true">https://blog.serverworks.co.jp/2024/12/29/231020</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/47f9d149182d989343fdd19f11eb4343b6866746/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-taniuchi%2F20241212%2F20241212003726.png" length="None" type="image/png"/>
       <pubDate>Sun, 29 Dec 2024 14:10:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bicepで新しい関数 deployer()  が追加されました</title>
+      <link>https://techblog.ap-com.co.jp/entry/2025/01/02/183000</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/01/02/183000</guid>
+      <pubDate>Thu, 02 Jan 2025 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SageMaker AI での非同期推論エンドポイントの作成方法</title>
+      <link>https://blog.serverworks.co.jp/sagemaker-async-inference-demo</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/sagemaker-async-inference-demo</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
+      <pubDate>Thu, 02 Jan 2025 11:45:22 +0000</pubDate>
     </item>
     <item>
       <title>Azure Functions (.NET 9 Isolated) でSemantic Kernelを使用する</title>
@@ -210,6 +203,13 @@
       <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/01/01/215958</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/94cd30bfd94432d57a10ca6492e273dbd29a8d3c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Fturtle2005%2F20230303%2F20230303210336.png" length="None" type="image/png"/>
       <pubDate>Wed, 01 Jan 2025 12:59:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>.NET 6から.NET 8へバージョンアップしました</title>
+      <link>https://tech.robotpayment.co.jp/entry/2025/01/02/070000</link>
+      <guid isPermaLink="true">https://tech.robotpayment.co.jp/entry/2025/01/02/070000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/0b7efd405d4e63666cde811209d2e6a1770b3641/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F156629454%2F1680830065760968" length="None" type="image/jpeg"/>
+      <pubDate>Wed, 01 Jan 2025 22:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

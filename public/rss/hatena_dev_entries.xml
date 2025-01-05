@@ -7,19 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 04 Jan 2025 03:04:27 +0000</lastBuildDate>
-    <item>
-      <title>AIチームGoogle Kubernetes Engineオンボーディングチュートリアル</title>
-      <link>https://www.m3tech.blog/entry/2024/12/30/170000</link>
-      <guid isPermaLink="true">https://www.m3tech.blog/entry/2024/12/30/170000</guid>
-      <pubDate>Mon, 30 Dec 2024 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Jan 2025 03:09:04 +0000</lastBuildDate>
     <item>
       <title>プライベートなEC2(Windows)に対してRDP接続する方法</title>
       <link>https://blog.serverworks.co.jp/rdp-connect-to-private-ec2</link>
       <guid isPermaLink="true">https://blog.serverworks.co.jp/rdp-connect-to-private-ec2</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/c204e9eeb0dbd675c37079f32ef4e8d7d8823966/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-iori-abe%2F20241226%2F20241226144937.png" length="None" type="image/png"/>
       <pubDate>Mon, 30 Dec 2024 23:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leveragesで働くってどんな感じ？内定者インターンをした感想を綴る。</title>
+      <link>https://tech.leverages.jp/entry/2025/01/04/090000</link>
+      <guid isPermaLink="true">https://tech.leverages.jp/entry/2025/01/04/090000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6a51ac300258464b5498762254a41c446e516671/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fi%2Fi-mitani-lvgs%2F20241224%2F20241224162955.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ジオコーディングとGeolocation APIを用いて店舗と現在地との距離を計算する</title>

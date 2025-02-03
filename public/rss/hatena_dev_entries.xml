@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 02 Feb 2025 03:03:43 +0000</lastBuildDate>
-    <item>
-      <title>ACM's O'Reilly Online Learning Platformの活用状況や感想についてアンケートとってみました！</title>
-      <link>https://quo-digital.hatenablog.com/entry/2025/01/31/140716</link>
-      <guid isPermaLink="true">https://quo-digital.hatenablog.com/entry/2025/01/31/140716</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/0184bd5c07ddee90e077e206331f5650cb36417f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fq%2Fquo-digital-kaneko%2F20250130%2F20250130175607.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 31 Jan 2025 05:07:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>エンタープライズ向けSaaSのPdMの難しさと面白さ</title>
-      <link>https://techblog.raksul.com/entry/2025/01/31/143349</link>
-      <guid isPermaLink="true">https://techblog.raksul.com/entry/2025/01/31/143349</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/7b259c2561db7fd542bbca152b51df24922a75ee/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Fraksuldev%2F20250131%2F20250131143253.png" length="None" type="image/png"/>
-      <pubDate>Fri, 31 Jan 2025 05:33:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Feb 2025 03:03:54 +0000</lastBuildDate>
     <item>
       <title>東武鉄道のシーズン料金の表示に対応しました</title>
       <link>https://blog.ekispert.com/2025/01/31/tobu_seasonal_rate</link>
@@ -212,6 +198,19 @@
       <guid isPermaLink="true">https://blog.serverworks.co.jp/2025/02/01/100100</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/8a252f2dbaf468e84b9693bf285f65e951a46df0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-domyo%2F20250127%2F20250127142523.png" length="None" type="image/png"/>
       <pubDate>Sat, 01 Feb 2025 01:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Azure DevOps Demo Generatorのコンソールアプリケーションが公開されました</title>
+      <link>https://aadojo.alterbooth.com/entry/2025/02/02/144613</link>
+      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2025/02/02/144613</guid>
+      <pubDate>Sun, 02 Feb 2025 05:46:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>コードの複雑さを定量化してみよう</title>
+      <link>https://blog.serverworks.co.jp/2025/02/02/150230</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2025/02/02/150230</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/42e6b15d856e8c922bd1a097d5167c27d422d7ef/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-hayato-watanabe%2F20250202%2F20250202145105.png" length="None" type="image/png"/>
+      <pubDate>Sun, 02 Feb 2025 06:02:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

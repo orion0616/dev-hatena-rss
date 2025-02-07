@@ -54,8 +54,10 @@ def fetch_articles(skip=0, limit=20):
 
         pub_date_tag = article_soup.find('meta', property='article:published_time')
         if pub_date_tag and pub_date_tag.get('content'):
-            pub_date_unix = int(pub_date_tag['content'])
-            pub_date = datetime.datetime.fromtimestamp(pub_date_unix, tz=datetime.timezone.utc).strftime('%a, %d %b %Y %H:%M:%S %z')
+            pub_date_str = pub_date_tag['content']
+            pub_date = datetime.datetime.strptime(pub_date_str, '%Y-%m-%d')
+            pub_date = pub_date.replace(tzinfo=datetime.timezone.utc)
+            pub_date = pub_date.strftime('%a, %d %b %Y %H:%M:%S %z')
         else:
             # 公開日時が取得できない場合は現在日時を使用
             pub_date = datetime.now(datetime.timezone.utc).strftime('%a, %d %b %Y %H:%M:%S %z')

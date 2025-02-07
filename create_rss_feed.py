@@ -79,14 +79,6 @@ def fetch_articles(skip=0, limit=20):
             print(f"警告: 記事の処理中にエラーが発生しました: {entry['url']} - {str(e)}")
             continue
 
-        articles.append({
-            'title': entry['title'],
-            'link': entry['url'],
-            'guid': entry['url'],
-            'pub_date': pub_date,
-            'thumbnail': entry.get('imageUrl')
-        })
-
     return articles
 
 def create_rss_feed(articles):

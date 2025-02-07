@@ -47,20 +47,37 @@ def fetch_articles(skip=0, limit=20):
     # 記事リストの解析
     recent_entries = data.get("data", {}).get("recentEntries", {}).get("entries", [])
     for entry in recent_entries:
-        # 各記事のページを取得して公開日時を取得
-        article_response = requests.get(entry['url'])
-        article_response.raise_for_status()
-        article_soup = BeautifulSoup(article_response.text, 'html.parser')
+        try:
+            # 各記事のページを取得して公開日時を取得
+            article_response = requests.get(entry['url'])
+            article_response.raise_for_status()
+            article_soup = BeautifulSoup(article_response.text, 'html.parser')
 
-        pub_date_tag = article_soup.find('meta', property='article:published_time')
-        if pub_date_tag and pub_date_tag.get('content'):
-            pub_date_str = pub_date_tag['content']
-            pub_date = datetime.datetime.strptime(pub_date_str, '%Y-%m-%d')
-            pub_date = pub_date.replace(tzinfo=datetime.timezone.utc)
-            pub_date = pub_date.strftime('%a, %d %b %Y %H:%M:%S %z')
-        else:
-            # 公開日時が取得できない場合は現在日時を使用
-            pub_date = datetime.now(datetime.timezone.utc).strftime('%a, %d %b %Y %H:%M:%S %z')
+            pub_date_tag = article_soup.find('meta', property='article:published_time')
+            if pub_date_tag and pub_date_tag.get('content'):
+                pub_date_str = pub_date_tag['content']
+                pub_date = datetime.datetime.strptime(pub_date_str, '%Y-%m-%d')
+                pub_date = pub_date.replace(tzinfo=datetime.timezone.utc)
+                pub_date = pub_date.strftime('%a, %d %b %Y %H:%M:%S %z')
+            else:
+                # 公開日時が取得できない場合は現在日時を使用
+                pub_date = datetime.datetime.now(datetime.timezone.utc).strftime('%a, %d %b %Y %H:%M:%S %z')
+
+            articles.append({
+                'title': entry['title'],
+                'link': entry['url'],
+                'guid': entry['url'],
+                'pub_date': pub_date,
+                'thumbnail': entry.get('imageUrl')
+            })
+        except requests.exceptions.HTTPError as e:
+            if e.response.status_code == 404:
+                print(f"警告: 記事が見つかりません: {entry['url']}")
+                continue
+            raise
+        except Exception as e:
+            print(f"警告: 記事の処理中にエラーが発生しました: {entry['url']} - {str(e)}")
+            continue
 
         articles.append({
             'title': entry['title'],

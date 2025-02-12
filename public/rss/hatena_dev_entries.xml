@@ -7,27 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Feb 2025 03:05:14 +0000</lastBuildDate>
-    <item>
-      <title>【GitHub Models】最近のアップデート紹介【2024年12月 ～ 2025年1月】</title>
-      <link>https://tech.kentem.jp/entry/2025/02/10/090000</link>
-      <guid isPermaLink="true">https://tech.kentem.jp/entry/2025/02/10/090000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/bebcbb28a4bbc9a48a08666a3594c8c630931c6b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkentem_dev_yoshi%2F20250116%2F20250116151113.png" length="None" type="image/png"/>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>React Suspense と Zustand の createStore を使って型安全に状態管理を行う</title>
-      <link>https://kakehashi-dev.hatenablog.com/entry/2025/02/10/090000</link>
-      <guid isPermaLink="true">https://kakehashi-dev.hatenablog.com/entry/2025/02/10/090000</guid>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>データ駆動型回帰分析を実装してみた</title>
-      <link>https://techblog.insightedge.jp/entry/non-semipara</link>
-      <guid isPermaLink="true">https://techblog.insightedge.jp/entry/non-semipara</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/c1d6277725e9923111651180aadd2a14f30de8fc/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fi%2Finsightedge%2F20250210%2F20250210090005.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Feb 2025 03:04:22 +0000</lastBuildDate>
     <item>
       <title>Cloud RunからSecret Managerのシークレットにアクセスする</title>
       <link>https://blog.g-gen.co.jp/entry/secret-manager-with-cloud-run</link>
@@ -209,6 +189,26 @@
       <guid isPermaLink="true">https://blog.fltech.dev/entry/2024/10/15/Fujitsu-LLM-KG-ja</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/08d9c65905c663f02d124a23ea17963ddb73115b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Ffltech%2F20241011%2F20241011163040.png" length="None" type="image/png"/>
       <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【re:Invent 2024】はじめてのアメリカとre:Invent：(09) 間食・補給編</title>
+      <link>https://blog.serverworks.co.jp/2025/02/11/100000</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2025/02/11/100000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8a252f2dbaf468e84b9693bf285f65e951a46df0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-domyo%2F20250127%2F20250127142523.png" length="None" type="image/png"/>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>信頼性を保つ方法を考えてたらインシデントレスポンスの改善を進めてた話</title>
+      <link>https://techblog.hacomono.jp/entry/2025/02/11/110000</link>
+      <guid isPermaLink="true">https://techblog.hacomono.jp/entry/2025/02/11/110000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6bda35835547ca3fe344f2f8cd8ebb8fb12b0742/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhacomono-tech%2F20250210%2F20250210200448.png" length="None" type="image/png"/>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title> Postman の環境を整備し開発のしやすさをちょっと上げた話</title>
+      <link>https://tech.every.tv/entry/2025/02/11/163356</link>
+      <guid isPermaLink="true">https://tech.every.tv/entry/2025/02/11/163356</guid>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

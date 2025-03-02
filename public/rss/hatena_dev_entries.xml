@@ -7,20 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Mar 2025 03:11:46 +0000</lastBuildDate>
-    <item>
-      <title>“TabGLM: Tabular Graph Language Model for Learning Transferable Representations through Multi-Modal Consistency Minimization” accepted at AAAI 2025</title>
-      <link>https://blog-en.fltech.dev/entry/2025/02/28/AAAI-TabGLM-en</link>
-      <guid isPermaLink="true">https://blog-en.fltech.dev/entry/2025/02/28/AAAI-TabGLM-en</guid>
-      <pubDate>Fri, 28 Feb 2025 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SwiftUI vs UIKit: iOS開発の比較</title>
-      <link>https://techblog.spiderplus.co.jp/entry/2025/02/28/120000</link>
-      <guid isPermaLink="true">https://techblog.spiderplus.co.jp/entry/2025/02/28/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/5216a558d3c2a9062cef26a609377b0e418f001d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fspiderplus%2F20250228%2F20250228100601.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 28 Feb 2025 03:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Mar 2025 03:10:00 +0000</lastBuildDate>
     <item>
       <title>【QAエンジニア考案】スクラムチームの品質保証を強化する「不安ニングポーカー」</title>
       <link>https://tech.smarthr.jp/entry/qa_series_article_vol10</link>
@@ -45,13 +32,6 @@
       <link>https://blog.jbs.co.jp/entry/2025/02/28/133056</link>
       <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2025/02/28/133056</guid>
       <pubDate>Fri, 28 Feb 2025 04:30:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>RESTからGraphQL への迅速かつ安全な移行</title>
-      <link>https://www.estie.jp/blog/entry/2025/02/28/134200</link>
-      <guid isPermaLink="true">https://www.estie.jp/blog/entry/2025/02/28/134200</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/552e0e157cf950b987bd9de440ea86171fdd20ac/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fe%2Festie-contributor%2F20250228%2F20250228132509.png" length="None" type="image/png"/>
-      <pubDate>Fri, 28 Feb 2025 04:42:00 +0000</pubDate>
     </item>
     <item>
       <title>AWS Lambda カスタムランタイムと並列処理を駆使した性能改善</title>
@@ -210,6 +190,26 @@
       <guid isPermaLink="true">https://blog.serverworks.co.jp/lambda-node-module-error</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
       <pubDate>Fri, 28 Feb 2025 13:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>NotebookLMで週報70件を分析してみた──AIで見えた業務の課題と改善点</title>
+      <link>https://techblog.ap-com.co.jp/entry/2025/03/01/070000</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/03/01/070000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/121336cfdf511d4d7b02b7b882fe113ca07d3291/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmuriwashinai%2F20250228%2F20250228220701.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Fri, 28 Feb 2025 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TSKaigi 2025 学生旅費支援制度の募集を開始します</title>
+      <link>https://tskaigi.hatenablog.com/entry/2025/03/01/162119</link>
+      <guid isPermaLink="true">https://tskaigi.hatenablog.com/entry/2025/03/01/162119</guid>
+      <pubDate>Sat, 01 Mar 2025 07:21:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude 3.7 Sonnetの実力を見る</title>
+      <link>https://techblog.ap-com.co.jp/entry/2025/03/01/180000</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/03/01/180000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/57aea2b6ff9cc08300a465f935daecf992c50d38/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Fta__maru%2F20250227%2F20250227135405.png" length="None" type="image/png"/>
+      <pubDate>Sat, 01 Mar 2025 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,26 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Mar 2025 03:02:05 +0000</lastBuildDate>
-    <item>
-      <title>IntuneからWindowsアプリを任意配信するときの注意点</title>
-      <link>https://blog.jbs.co.jp/entry/2025/03/07/124426</link>
-      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2025/03/07/124426</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6443748ca4e4e080a14ae377941ff9dbcedbcc60/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjbs_hirkimura%2F20250120%2F20250120181735.png" length="None" type="image/png"/>
-      <pubDate>Fri, 07 Mar 2025 03:44:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Webhook APIを使ってメールを処理する（AWS Lambda + Ruby）</title>
-      <link>https://blog.smtps.jp/entry/2025/03/07/134320</link>
-      <guid isPermaLink="true">https://blog.smtps.jp/entry/2025/03/07/134320</guid>
-      <pubDate>Fri, 07 Mar 2025 04:43:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS Lambda + RubyでメールステータスWebhookを受け取る</title>
-      <link>https://blog.smtps.jp/entry/2025/03/07/134636</link>
-      <guid isPermaLink="true">https://blog.smtps.jp/entry/2025/03/07/134636</guid>
-      <pubDate>Fri, 07 Mar 2025 04:46:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Mar 2025 03:02:13 +0000</lastBuildDate>
     <item>
       <title>Webhook APIを使って添付ファイル付きメールを処理する（AWS Lambda + Ruby）</title>
       <link>https://blog.smtps.jp/entry/2025/03/07/135337</link>
@@ -209,6 +190,26 @@
       <guid isPermaLink="true">https://tech.uzabase.com/entry/2025/03/07/191323</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/306d1d3f54ce369456dc38f22899bb21bfa73107/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmerlionk%2F20250307%2F20250307161915.jpg" length="None" type="image/jpeg"/>
       <pubDate>Fri, 07 Mar 2025 10:13:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon ECRの拡張スキャンを始める前に知っておきたい設定ポイント2つ</title>
+      <link>https://tech.enechange.co.jp/entry/2025/03/09/145926</link>
+      <guid isPermaLink="true">https://tech.enechange.co.jp/entry/2025/03/09/145926</guid>
+      <pubDate>Sun, 09 Mar 2025 05:59:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>systemd timer にちゃんと向き合ってみる</title>
+      <link>https://blog.serverworks.co.jp/about-systemd-timer</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/about-systemd-timer</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
+      <pubDate>Sun, 09 Mar 2025 07:19:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>【きのこカンファレンス2025】ランチスポンサーとして協賛！ブース展示 &amp;登壇全文公開！</title>
+      <link>https://techblog.cartaholdings.co.jp/entry/kinoko-conf-2025-report</link>
+      <guid isPermaLink="true">https://techblog.cartaholdings.co.jp/entry/kinoko-conf-2025-report</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/74372458746cc10f77be3981d147dd01edc34b29/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcarta_engineers%2F20250309%2F20250309172254.png" length="None" type="image/png"/>
+      <pubDate>Sun, 09 Mar 2025 09:27:20 +0000</pubDate>
     </item>
   </channel>
 </rss>

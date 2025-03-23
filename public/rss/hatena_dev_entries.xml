@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Mar 2025 03:11:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Mar 2025 03:15:00 +0000</lastBuildDate>
+    <item>
+      <title>ADEによる暗号化～その２　新規仮想マシン編</title>
+      <link>https://blog.jbs.co.jp/entry/2025/03/21/113247</link>
+      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2025/03/21/113247</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/3c6006276c0fb2eecd54de02f7f156b0039f316c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjbs_stomishima%2F20241224%2F20241224180825.png" length="None" type="image/png"/>
+      <pubDate>Fri, 21 Mar 2025 02:32:47 +0000</pubDate>
+    </item>
     <item>
       <title>言語・プロダクト・技術領域ごとになっていたWebエンジニアの採用ポジションを統合します</title>
       <link>https://product.st.inc/entry/2025/03/21/115739</link>
@@ -75,13 +82,6 @@
       <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2025/03/21/133751</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/8a30448570a6275f85d82ef45ff3185976b09a55/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjbs_akatsur%2F20250131%2F20250131213803.png" length="None" type="image/png"/>
       <pubDate>Fri, 21 Mar 2025 04:37:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>デザインエンジニア組織拡大の背景 ーフロントエンドとデザインの力で事業を加速</title>
-      <link>https://www.estie.jp/blog/entry/2025/03/21/140000</link>
-      <guid isPermaLink="true">https://www.estie.jp/blog/entry/2025/03/21/140000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/4a86020151728fb17ad643fc3da04840b9964e24/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fe%2Festie-contributor%2F20250317%2F20250317194219.png" length="None" type="image/png"/>
-      <pubDate>Fri, 21 Mar 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AWS DataSyncを使ってAmazon S3のログを移行させてみた。#2 実践編</title>
@@ -190,25 +190,23 @@
       <pubDate>Fri, 21 Mar 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>生成AI機能（Amazon Q）を使用したCodeCatalystの初期構築を試してみた</title>
-      <link>https://blog.serverworks.co.jp/codecatalyst-202503</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/codecatalyst-202503</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
-      <pubDate>Thu, 20 Mar 2025 16:00:00 +0000</pubDate>
+      <title>CodeBuild-hosted GitHub Actions runner使ってみた①〜紹介編〜</title>
+      <link>https://techblog.dt-dynamics.com/entry/2025/03/22/120319</link>
+      <guid isPermaLink="true">https://techblog.dt-dynamics.com/entry/2025/03/22/120319</guid>
+      <pubDate>Sat, 22 Mar 2025 03:03:19 +0000</pubDate>
     </item>
     <item>
-      <title>【やってみた】New Relicのネットワーク監視(NPM)用コンテナKtranslateをECSで動作させる</title>
-      <link>https://blog.serverworks.co.jp/running-ktranslate-newrelic-network-monitoring-on-ecs</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/running-ktranslate-newrelic-network-monitoring-on-ecs</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
-      <pubDate>Thu, 20 Mar 2025 22:00:00 +0000</pubDate>
+      <title>TSKaigi 2025 プロポーザル採択者発表</title>
+      <link>https://tskaigi.hatenablog.com/entry/2025/03/22/130000</link>
+      <guid isPermaLink="true">https://tskaigi.hatenablog.com/entry/2025/03/22/130000</guid>
+      <pubDate>Sat, 22 Mar 2025 04:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>助けて！ CloudWatch Logs のコストが急上昇!! ログ管理の最適化でコストを 1/3 にした話</title>
-      <link>https://kaminashi-developer.hatenablog.jp/entry/2025/3/21/aws-cloudwatch-cost-optimization</link>
-      <guid isPermaLink="true">https://kaminashi-developer.hatenablog.jp/entry/2025/3/21/aws-cloudwatch-cost-optimization</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e519490f594a647c098fbeb310089e67dbd429f3/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaminashi-developer%2F20250314%2F20250314120651.png" length="None" type="image/png"/>
-      <pubDate>Thu, 20 Mar 2025 23:00:00 +0000</pubDate>
+      <title>LLMによるRDRA　RDRAZeroOneの紹介</title>
+      <link>https://blog.nextscape.net/archives/2025/03/22/224011</link>
+      <guid isPermaLink="true">https://blog.nextscape.net/archives/2025/03/22/224011</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/df6d186bd749f0b6afd56bab86fceb4589337702/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F158346556%2F1633330490515050" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 22 Mar 2025 13:40:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

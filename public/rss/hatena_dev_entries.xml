@@ -7,27 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 29 Mar 2025 03:11:30 +0000</lastBuildDate>
-    <item>
-      <title>初心者向け解説_SlackAPI &amp; GASでGoogleスプレッドシート上からSlack通知を送る方法</title>
-      <link>https://engineers.safie.link/entry/slack_integration</link>
-      <guid isPermaLink="true">https://engineers.safie.link/entry/slack_integration</guid>
-      <pubDate>Fri, 28 Mar 2025 01:10:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>プライベート環境のFargateにサードパーティ製EDRを導入してみた</title>
-      <link>https://techblog.jmdc.co.jp/entry/2025/03/28/110000</link>
-      <guid isPermaLink="true">https://techblog.jmdc.co.jp/entry/2025/03/28/110000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d3fc40997057c801e4b442598ebb9507118e7471/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjmdc_htarumizu%2F20250311%2F20250311121203.png" length="None" type="image/png"/>
-      <pubDate>Fri, 28 Mar 2025 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>941さんに教わったカンファレンスブース設計の秘訣</title>
-      <link>https://techblog.cartaholdings.co.jp/entry/booth-design-learned-from-941</link>
-      <guid isPermaLink="true">https://techblog.cartaholdings.co.jp/entry/booth-design-learned-from-941</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/35ad14230e5f40cc2e35b3f701c6990baa747d19/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnamu_r21%2F20250327%2F20250327135250.png" length="None" type="image/png"/>
-      <pubDate>Fri, 28 Mar 2025 02:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 30 Mar 2025 03:16:36 +0000</lastBuildDate>
     <item>
       <title>【meviy 開発チーム紹介】板金・溶接Webチーム</title>
       <link>https://techblog.dt-dynamics.com/entry/2025/03/28/115126</link>
@@ -208,11 +188,29 @@
       <pubDate>Fri, 28 Mar 2025 11:06:14 +0000</pubDate>
     </item>
     <item>
-      <title>EMConf JP 2025に行ってきました！</title>
-      <link>https://made.livesense.co.jp/entry/2025/03/28/080000</link>
-      <guid isPermaLink="true">https://made.livesense.co.jp/entry/2025/03/28/080000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/0078f8dae8f8af789eaa06519c4ebe4a3ad2a1bb/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyjszk%2F20250327%2F20250327183231.png" length="None" type="image/png"/>
-      <pubDate>Thu, 27 Mar 2025 23:00:00 +0000</pubDate>
+      <title>ステークホルダーからの理解できないフィードバックにどう向き合うか</title>
+      <link>https://blog.ingage.jp/entry/2025/03/29/080000</link>
+      <guid isPermaLink="true">https://blog.ingage.jp/entry/2025/03/29/080000</guid>
+      <pubDate>Fri, 28 Mar 2025 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scalaの.copyについて</title>
+      <link>https://techblog.dt-dynamics.com/entry/2025/03/29/120248</link>
+      <guid isPermaLink="true">https://techblog.dt-dynamics.com/entry/2025/03/29/120248</guid>
+      <pubDate>Sat, 29 Mar 2025 03:02:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft AI Tour Tokyo 2025セッションレポート: 「開発者のためのAIモデル: GitHub Models を使用すれば簡単かつ無料」</title>
+      <link>https://aadojo.alterbooth.com/entry/2025/03/29/141650</link>
+      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2025/03/29/141650</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/838ed528594c1e40585de842adf0b1787fd644e7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshowm001%2F20250329%2F20250329135246.png" length="None" type="image/png"/>
+      <pubDate>Sat, 29 Mar 2025 05:16:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>SIGQ Cloud Linkerを多言語対応しました！</title>
+      <link>https://developer.sigq.jp/entry/2025/03/29/172410</link>
+      <guid isPermaLink="true">https://developer.sigq.jp/entry/2025/03/29/172410</guid>
+      <pubDate>Sat, 29 Mar 2025 08:24:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

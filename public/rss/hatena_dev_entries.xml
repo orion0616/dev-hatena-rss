@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Mar 2025 03:16:36 +0000</lastBuildDate>
-    <item>
-      <title>【meviy 開発チーム紹介】板金・溶接Webチーム</title>
-      <link>https://techblog.dt-dynamics.com/entry/2025/03/28/115126</link>
-      <guid isPermaLink="true">https://techblog.dt-dynamics.com/entry/2025/03/28/115126</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/cc3c6d6695bf52226f6408e917a4f8a7490e62b4/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fd%2Fdtd-keisuke-kohira%2F20250324%2F20250324213521.png" length="None" type="image/png"/>
-      <pubDate>Fri, 28 Mar 2025 02:51:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 31 Mar 2025 03:16:28 +0000</lastBuildDate>
     <item>
       <title>Network Link Conditionerで遅い環境をシミュレートする</title>
       <link>https://iridge-tech.hatenablog.com/entry/2025/03/28/120000</link>
@@ -211,6 +204,12 @@
       <link>https://developer.sigq.jp/entry/2025/03/29/172410</link>
       <guid isPermaLink="true">https://developer.sigq.jp/entry/2025/03/29/172410</guid>
       <pubDate>Sat, 29 Mar 2025 08:24:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>ScalaのOptionってなんやねん</title>
+      <link>https://techblog.dt-dynamics.com/entry/2025/03/30/120519</link>
+      <guid isPermaLink="true">https://techblog.dt-dynamics.com/entry/2025/03/30/120519</guid>
+      <pubDate>Sun, 30 Mar 2025 03:05:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

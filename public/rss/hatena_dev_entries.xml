@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 05 Apr 2025 03:12:01 +0000</lastBuildDate>
-    <item>
-      <title>東京Ruby会議12参加レポート＆RubyKaigi2025参加のお知らせ</title>
-      <link>https://rni-dev.hatenablog.com/entry/2025/04/04/105833</link>
-      <guid isPermaLink="true">https://rni-dev.hatenablog.com/entry/2025/04/04/105833</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/b3f43e9613eae775c105d3bc7349a7bbd5a60f8d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Fr-n-i%2F20250403%2F20250403200734.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 04 Apr 2025 01:58:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>DevinとClineをDMMで導入しました〜トライアルから見えた成果の共有〜</title>
-      <link>https://developersblog.dmm.com/entry/2025/04/04/110000</link>
-      <guid isPermaLink="true">https://developersblog.dmm.com/entry/2025/04/04/110000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/ccb8cb4d949963c01ae5004cf47ec485175b3b78/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FD%2FDMMTech%2F20250401%2F20250401104353.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 04 Apr 2025 02:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 06 Apr 2025 03:15:17 +0000</lastBuildDate>
     <item>
       <title>Rails7で標準となったimportmapとは何者か</title>
       <link>https://techblog.jmdc.co.jp/entry/2025/04/04/110000</link>
@@ -208,6 +194,19 @@
       <guid isPermaLink="true">https://developer.dip-net.co.jp/entry/2025/04/04/Knip%E3%81%A7%E5%AE%89%E5%BF%83%E3%81%97%E3%81%A6%E3%83%87%E3%83%83%E3%83%89%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%92%B2%E6%BB%85%E3%81%99%E3%82%8B</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/fd422fc7548e214d065524181cfc0871a754097d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fh_yokoyama%2F20250404%2F20250404201445.jpg" length="None" type="image/jpeg"/>
       <pubDate>Fri, 04 Apr 2025 11:18:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>【KubeCon 2025 London 速報】DaprでDurable Executionを!</title>
+      <link>https://techblog.ap-com.co.jp/entry/2025/04/05/044434</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/04/05/044434</guid>
+      <pubDate>Fri, 04 Apr 2025 19:44:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>【KubeCon 2025 London】Feature Flagで高頻度のリリースを実現する</title>
+      <link>https://techblog.ap-com.co.jp/entry/2025/04/05/161521</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/04/05/161521</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d303c60c71e69d49ecdcf91753af890049394148/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Fturtle2005%2F20250320%2F20250320113911.png" length="None" type="image/png"/>
+      <pubDate>Sat, 05 Apr 2025 07:15:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

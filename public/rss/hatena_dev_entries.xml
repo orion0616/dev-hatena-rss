@@ -7,41 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 12 Apr 2025 03:12:49 +0000</lastBuildDate>
-    <item>
-      <title>Return-Pathとは？メール配信の信頼性を高める仕組みと設定方法</title>
-      <link>https://blog.smtps.jp/entry/2025/04/11/142722</link>
-      <guid isPermaLink="true">https://blog.smtps.jp/entry/2025/04/11/142722</guid>
-      <pubDate>Fri, 11 Apr 2025 05:27:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unlock the Potential of Swift Code Generation | try! Swift Tokyo 2025</title>
-      <link>https://blog.smartbank.co.jp/entry/2025/04/11/unlock-the-potential-of-swift-code-generation</link>
-      <guid isPermaLink="true">https://blog.smartbank.co.jp/entry/2025/04/11/unlock-the-potential-of-swift-code-generation</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/221ec87233f1c71b234a57ae45e080814f7266dd/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Frockname%2F20250411%2F20250411075908.png" length="None" type="image/png"/>
-      <pubDate>Fri, 11 Apr 2025 05:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Devinで「社会のバグ」を駆逐する</title>
-      <link>https://tech.mntsq.co.jp/entry/2025/04/11/143023</link>
-      <guid isPermaLink="true">https://tech.mntsq.co.jp/entry/2025/04/11/143023</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/7e89ca1253662bbf97445e8b39ba9f0f3bca4577/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmntsq%2F20250411%2F20250411112541.png" length="None" type="image/png"/>
-      <pubDate>Fri, 11 Apr 2025 05:30:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>新幹線等で列車ごとの座席種別が取得できるようになりました</title>
-      <link>https://blog.ekispert.com/2025/04/11/seat_type_per_train</link>
-      <guid isPermaLink="true">https://blog.ekispert.com/2025/04/11/seat_type_per_train</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/c0b6571d47d13ea0cab26607b8c5eb7e20f43439/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fe%2Fekispert_api%2F20250325%2F20250325205339.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 11 Apr 2025 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>実践LangChain: tagsの行方とコールバック関数</title>
-      <link>https://techblog.ap-com.co.jp/entry/2025/04/11/151015</link>
-      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/04/11/151015</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d9b25612b574404001db2d9c008f6ad5ce726390/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2FchayTjunkey%2F20250411%2F20250411150611.png" length="None" type="image/png"/>
-      <pubDate>Fri, 11 Apr 2025 06:10:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 13 Apr 2025 03:50:11 +0000</lastBuildDate>
     <item>
       <title>Monoxer Intern Report #20_外部成績分析機能の機能拡張</title>
       <link>https://tech.monoxer.com/entry/2025/04/11/151726</link>
@@ -197,6 +163,13 @@
       <pubDate>Fri, 11 Apr 2025 11:00:07 +0000</pubDate>
     </item>
     <item>
+      <title>What’s new in Cloud Run（Google Cloud Next '25セッションレポート）</title>
+      <link>https://blog.g-gen.co.jp/entry/next-25-whats-new-in-cloud-run</link>
+      <guid isPermaLink="true">https://blog.g-gen.co.jp/entry/next-25-whats-new-in-cloud-run</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/3ffadd357489e35c11ca58a0902be62008c4b033/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20250411%2F20250411205049.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Fri, 11 Apr 2025 11:50:48 +0000</pubDate>
+    </item>
+    <item>
       <title>Humans and AI agents together—driving success with Salesforce and Google Cloud（Google Cloud Next '25セッションレポート）</title>
       <link>https://blog.g-gen.co.jp/entry/next-25-humans-and-ai-agents-together</link>
       <guid isPermaLink="true">https://blog.g-gen.co.jp/entry/next-25-humans-and-ai-agents-together</guid>
@@ -209,6 +182,31 @@
       <guid isPermaLink="true">https://blog.g-gen.co.jp/entry/next-25-whats-new-with-cloud-storage</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/f427a10464bca39ef04533bbb0732159b6bcff38/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20250411%2F20250411233313.png" length="None" type="image/png"/>
       <pubDate>Fri, 11 Apr 2025 14:33:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transform team collaboration with Gemini in Google Chat and Meet（Google Cloud Next '25セッションレポート）</title>
+      <link>https://blog.g-gen.co.jp/entry/next-25-gemini-in-google-chat-and-meet</link>
+      <guid isPermaLink="true">https://blog.g-gen.co.jp/entry/next-25-gemini-in-google-chat-and-meet</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/b558ffec7f2d14ef2b6da0648ad78adace03d5f2/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20250412%2F20250412111905.png" length="None" type="image/png"/>
+      <pubDate>Sat, 12 Apr 2025 02:27:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>【実体験あり】月1万円以上節約できた方法7選｜無理せず始められる暮らしの見直し術</title>
+      <link>https://youlife315.hatenablog.com/entry/2025/04/12/175524</link>
+      <guid isPermaLink="true">https://youlife315.hatenablog.com/entry/2025/04/12/175524</guid>
+      <pubDate>Sat, 12 Apr 2025 08:55:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>「保険って本当に必要？ 無料相談を受けてわかったこと（体験談あり）」</title>
+      <link>https://youlife315.hatenablog.com/entry/2025/04/12/180128</link>
+      <guid isPermaLink="true">https://youlife315.hatenablog.com/entry/2025/04/12/180128</guid>
+      <pubDate>Sat, 12 Apr 2025 09:01:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>「年会費無料でお得！クレジットカードを見直して得した話（体験談あり）」</title>
+      <link>https://youlife315.hatenablog.com/entry/2025/04/12/180314</link>
+      <guid isPermaLink="true">https://youlife315.hatenablog.com/entry/2025/04/12/180314</guid>
+      <pubDate>Sat, 12 Apr 2025 09:03:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

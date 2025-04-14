@@ -7,40 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 13 Apr 2025 03:50:11 +0000</lastBuildDate>
-    <item>
-      <title>Monoxer Intern Report #20_外部成績分析機能の機能拡張</title>
-      <link>https://tech.monoxer.com/entry/2025/04/11/151726</link>
-      <guid isPermaLink="true">https://tech.monoxer.com/entry/2025/04/11/151726</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/ab6b3b88d0e457e188ebd9785cc066b0ce88e02d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcorp_monoxer%2F20250408%2F20250408131333.png" length="None" type="image/png"/>
-      <pubDate>Fri, 11 Apr 2025 06:17:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS Lambda + Rubyでapplication/x-www-form-urlencodedのメール送信ステータスWebhookを処理する</title>
-      <link>https://blog.smtps.jp/entry/2025/04/11/152550</link>
-      <guid isPermaLink="true">https://blog.smtps.jp/entry/2025/04/11/152550</guid>
-      <pubDate>Fri, 11 Apr 2025 06:25:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Materials Infomatics特集 #1：APS2025で機械学習ポテンシャルの生成技術を発表しました</title>
-      <link>https://blog.fltech.dev/entry/2025/04/11/aps2025-poster-ja</link>
-      <guid isPermaLink="true">https://blog.fltech.dev/entry/2025/04/11/aps2025-poster-ja</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/5fdf726786bd47659bcf6beb71d8995e299f3414/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Ffltech-user%2F20250410%2F20250410213245.png" length="None" type="image/png"/>
-      <pubDate>Fri, 11 Apr 2025 06:29:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Webhook APIを使ってメールを処理する（AWS Lambda + Java）</title>
-      <link>https://blog.smtps.jp/entry/2025/04/11/153518</link>
-      <guid isPermaLink="true">https://blog.smtps.jp/entry/2025/04/11/153518</guid>
-      <pubDate>Fri, 11 Apr 2025 06:35:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>【AWS】Lambda上でTerraformを動かす関数を作ってみた</title>
-      <link>https://techblog.ap-com.co.jp/entry/2025/04/11/153606</link>
-      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/04/11/153606</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/742e029a524e9275dc118af4d54f8eb58bac24f5/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Famu1017%2F20250411%2F20250411153136.png" length="None" type="image/png"/>
-      <pubDate>Fri, 11 Apr 2025 06:36:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Apr 2025 03:17:03 +0000</lastBuildDate>
     <item>
       <title>スパコン環境での決定グラフ型量子回路シミュレータの高速化</title>
       <link>https://blog.fltech.dev/entry/2025/04/11/multinode-dd-sim</link>
@@ -207,6 +174,36 @@
       <link>https://youlife315.hatenablog.com/entry/2025/04/12/180314</link>
       <guid isPermaLink="true">https://youlife315.hatenablog.com/entry/2025/04/12/180314</guid>
       <pubDate>Sat, 12 Apr 2025 09:03:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>「スマホ代が月7,000円→2,000円に！格安SIMに乗り換えてわかった“本当の違い”」</title>
+      <link>https://youlife315.hatenablog.com/entry/2025/04/13/091059</link>
+      <guid isPermaLink="true">https://youlife315.hatenablog.com/entry/2025/04/13/091059</guid>
+      <pubDate>Sun, 13 Apr 2025 00:10:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>「電気・ガスを見直したら月2,500円の節約に！切り替えって実際どうなの？」</title>
+      <link>https://youlife315.hatenablog.com/entry/2025/04/13/091302</link>
+      <guid isPermaLink="true">https://youlife315.hatenablog.com/entry/2025/04/13/091302</guid>
+      <pubDate>Sun, 13 Apr 2025 00:13:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>「今の生活に合ってる？サブスクを見直して月4,000円節約できた話」</title>
+      <link>https://youlife315.hatenablog.com/entry/2025/04/13/092120</link>
+      <guid isPermaLink="true">https://youlife315.hatenablog.com/entry/2025/04/13/092120</guid>
+      <pubDate>Sun, 13 Apr 2025 00:21:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>「ネット回線を見直したら月1,500円節約＆速度アップ！切り替えて良かったリアル体験」</title>
+      <link>https://youlife315.hatenablog.com/entry/2025/04/13/092342</link>
+      <guid isPermaLink="true">https://youlife315.hatenablog.com/entry/2025/04/13/092342</guid>
+      <pubDate>Sun, 13 Apr 2025 00:23:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>「家計簿アプリで気づいた“無意識のムダ遣い”｜使ってよかった理由と節約効果」</title>
+      <link>https://youlife315.hatenablog.com/entry/2025/04/13/092549</link>
+      <guid isPermaLink="true">https://youlife315.hatenablog.com/entry/2025/04/13/092549</guid>
+      <pubDate>Sun, 13 Apr 2025 00:25:49 +0000</pubDate>
     </item>
   </channel>
 </rss>

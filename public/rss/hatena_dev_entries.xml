@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 19 Apr 2025 03:11:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 03:16:58 +0000</lastBuildDate>
     <item>
       <title>【Amazon Connect】発信者番号通知の挙動について</title>
       <link>https://blog.serverworks.co.jp/amazon-connect-callerid</link>
@@ -130,6 +130,12 @@
       <pubDate>Fri, 18 Apr 2025 08:15:55 +0000</pubDate>
     </item>
     <item>
+      <title>小便器の詰まり修理</title>
+      <link>https://uchi-web.hatenablog.com/entry/2025/04/18/174036</link>
+      <guid isPermaLink="true">https://uchi-web.hatenablog.com/entry/2025/04/18/174036</guid>
+      <pubDate>Fri, 18 Apr 2025 08:40:36 +0000</pubDate>
+    </item>
+    <item>
       <title>【AWS】Amazon EKS managed node groupの更新戦略にMinimalが追加されたので調査する</title>
       <link>https://techblog.ap-com.co.jp/entry/2025/04/18/174410</link>
       <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/04/18/174410</guid>
@@ -198,18 +204,11 @@
       <pubDate>Fri, 18 Apr 2025 11:24:12 +0000</pubDate>
     </item>
     <item>
-      <title>量子コンピュータの計算効率を劇的改善！STARアーキテクチャの進化と応用</title>
-      <link>https://blog.fltech.dev/entry/2025/04/18/STAR_architecture_improvement</link>
-      <guid isPermaLink="true">https://blog.fltech.dev/entry/2025/04/18/STAR_architecture_improvement</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6155957ea820a7321ab79bf04590885733f8f575/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Ffltech-user%2F20250414%2F20250414090706.png" length="None" type="image/png"/>
-      <pubDate>Thu, 17 Apr 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RubyKaigi 2025に参加してきました！ Day 2</title>
-      <link>https://design-tech.xtone.co.jp/entry/2025/04/18/073802</link>
-      <guid isPermaLink="true">https://design-tech.xtone.co.jp/entry/2025/04/18/073802</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/de83b032fde3accde90b1f4c8fc06b75d4d695e5/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Fr-matsui%2F20250417%2F20250417145133.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Thu, 17 Apr 2025 22:38:02 +0000</pubDate>
+      <title>RubyKaigi 2025に参加し終えました！ Day ３</title>
+      <link>https://design-tech.xtone.co.jp/entry/2025/04/19/143034</link>
+      <guid isPermaLink="true">https://design-tech.xtone.co.jp/entry/2025/04/19/143034</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/ff1fa0d2e57848a85f07429e7ae4107bdcb77caf/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ft_morooka%2F20250416%2F20250416191501.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 19 Apr 2025 05:30:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

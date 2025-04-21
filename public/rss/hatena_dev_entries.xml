@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 20 Apr 2025 03:16:58 +0000</lastBuildDate>
-    <item>
-      <title>【Amazon Connect】発信者番号通知の挙動について</title>
-      <link>https://blog.serverworks.co.jp/amazon-connect-callerid</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/amazon-connect-callerid</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/bcca5fd908af36b23ba5e0ffde2ab9804cc3327d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fserverworks%2F20210305%2F20210305102533_original.png" length="None" type="image/png"/>
-      <pubDate>Fri, 18 Apr 2025 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DMMのプラットフォーム基盤が目指す、 AX戦略（AI Transformation）</title>
-      <link>https://developersblog.dmm.com/entry/2025/04/18/110000</link>
-      <guid isPermaLink="true">https://developersblog.dmm.com/entry/2025/04/18/110000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/eadd576f1a7e847ddda371c92cec3d3ac9587078/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FD%2FDMMTech%2F20250416%2F20250416154815.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 18 Apr 2025 02:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Apr 2025 03:18:31 +0000</lastBuildDate>
     <item>
       <title>【ソースコードあり】TypeScriptデコレータで実現する安全なリファクタリング</title>
       <link>https://tech.commune.co.jp/entry/2025/04/18/112000</link>
@@ -209,6 +195,20 @@
       <guid isPermaLink="true">https://design-tech.xtone.co.jp/entry/2025/04/19/143034</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/ff1fa0d2e57848a85f07429e7ae4107bdcb77caf/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ft_morooka%2F20250416%2F20250416191501.jpg" length="None" type="image/jpeg"/>
       <pubDate>Sat, 19 Apr 2025 05:30:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>会津若松への誘(いざな)い</title>
+      <link>https://blog.sre-next.dev/entry/2025/04/20/122931</link>
+      <guid isPermaLink="true">https://blog.sre-next.dev/entry/2025/04/20/122931</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/09f23908d7d89645a8500f3d3129fbb76145d0ac/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsogaoh%2F20250420%2F20250420013702.png" length="None" type="image/png"/>
+      <pubDate>Sun, 20 Apr 2025 03:29:31 +0000</pubDate>
+    </item>
+    <item>
+      <title># OCI試験直前の「システム診断テスト」でマイクの「異常が発生！！」と焦った話（＋解決方法）</title>
+      <link>https://techblog.ap-com.co.jp/entry/2025/04/20/182118</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/04/20/182118</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6b007a191224f151acdf075dd4657e181d0a8e13/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fp%2Fpanda_fuka%2F20250420%2F20250420175345.png" length="None" type="image/png"/>
+      <pubDate>Sun, 20 Apr 2025 09:21:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

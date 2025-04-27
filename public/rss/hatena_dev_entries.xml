@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 26 Apr 2025 03:13:52 +0000</lastBuildDate>
-    <item>
-      <title>【AWS re:Invent 2024】複雑さへのアプローチについて紹介【Warner博士のKeynoteより】</title>
-      <link>https://tech.nri-net.com/entry/approaches_to_complexity</link>
-      <guid isPermaLink="true">https://tech.nri-net.com/entry/approaches_to_complexity</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/82c5f674b0e30ec44b55ff2cf6bde4c03b30041b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fu%2Fu-kobayashi%2F20250422%2F20250422225628.png" length="None" type="image/png"/>
-      <pubDate>Fri, 25 Apr 2025 02:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 27 Apr 2025 03:17:36 +0000</lastBuildDate>
     <item>
       <title>ママ社員も協力！子ども向け「BIGLOBE インターネット教室」が開催されました！</title>
       <link>https://style.biglobe.co.jp/entry/2025/04/25/110000</link>
@@ -209,6 +202,13 @@
       <guid isPermaLink="true">https://blog.vicc.jp/entry/expo-7</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/8e91d36c292d7ad8363ab7d3afa115539b1d73c7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FV%2FVICC%2F20250425%2F20250425213013.png" length="None" type="image/png"/>
       <pubDate>Fri, 25 Apr 2025 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MCP (Model Context Protocol) を理解する - Go言語でのサーバー実装とGitHub Copilotとの連携</title>
+      <link>https://cincdevteam.hatenablog.com/entry/2025/04/26/125712</link>
+      <guid isPermaLink="true">https://cincdevteam.hatenablog.com/entry/2025/04/26/125712</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/90452ec7f5087f661673b92ca79bf344b369a789/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcincdevteam%2F20250422%2F20250422162418.png" length="None" type="image/png"/>
+      <pubDate>Sat, 26 Apr 2025 03:57:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

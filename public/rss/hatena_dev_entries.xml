@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 06 May 2025 03:18:12 +0000</lastBuildDate>
-    <item>
-      <title>SDKMANのバージョン管理について調べてみた</title>
-      <link>https://devops-blog.virtualtech.jp/entry/20250502/1746152239</link>
-      <guid isPermaLink="true">https://devops-blog.virtualtech.jp/entry/20250502/1746152239</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/b49ca9653a598907933b823d2197ee93eb1bda94/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvirtualtech%2F20250502%2F20250502111258.png" length="None" type="image/png"/>
-      <pubDate>Fri, 02 May 2025 02:17:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>パフォーマンスを改善する技術</title>
-      <link>https://tech.repro.io/entry/2025/05/02/112333</link>
-      <guid isPermaLink="true">https://tech.repro.io/entry/2025/05/02/112333</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/78c003dfcbf92a26f9160dd2c6057a050bffa25d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fe%2Fedwardkenfox%2F20250430%2F20250430225246.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 02 May 2025 02:23:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 May 2025 03:18:56 +0000</lastBuildDate>
     <item>
       <title>VoicyエンジニアチームでGWブログリレー2025を行います！</title>
       <link>https://tech-blog.voicy.jp/entry/2025/05/02/115819</link>
@@ -208,6 +194,20 @@
       <guid isPermaLink="true">https://tech.unifa-e.com/entry/2025/05/05/070000</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/6c82c7fe6b072d87a388244c2bfdf4d8a4a2efec/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fu%2Funifa_tech%2F20250430%2F20250430155450.png" length="None" type="image/png"/>
       <pubDate>Sun, 04 May 2025 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon QuickSightでハイライトできるランキング表を作成する</title>
+      <link>https://tech.every.tv/entry/2025/05/06/13000</link>
+      <guid isPermaLink="true">https://tech.every.tv/entry/2025/05/06/13000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/77be5f41521a208fa90a5526858c91da08a1446f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fharuya-mitsuzawa%2F20250501%2F20250501183753.png" length="None" type="image/png"/>
+      <pubDate>Tue, 06 May 2025 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ruby on RailsアプリケーションをDevinにオンボーディングする</title>
+      <link>https://blog.generative-agents.co.jp/entry/devin-ruby-on-rails</link>
+      <guid isPermaLink="true">https://blog.generative-agents.co.jp/entry/devin-ruby-on-rails</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/ed6aba6827a429b4a75ab3db88b2f48a39a55b8b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgenerative-agents%2F20250506%2F20250506172054.png" length="None" type="image/png"/>
+      <pubDate>Tue, 06 May 2025 08:20:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

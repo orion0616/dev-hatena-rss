@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 May 2025 03:17:41 +0000</lastBuildDate>
-    <item>
-      <title>RubyKaigi 2025で託児サポートを実施しました〜準備から実施までの記録〜</title>
-      <link>https://product.st.inc/entry/2025/05/23/115123</link>
-      <guid isPermaLink="true">https://product.st.inc/entry/2025/05/23/115123</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/f5e032aa6d9f6a589679088b66bc8bcca183c9aa/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fstores-tech%2F20250523%2F20250523115134.png" length="None" type="image/png"/>
-      <pubDate>Fri, 23 May 2025 02:51:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 25 May 2025 03:24:55 +0000</lastBuildDate>
     <item>
       <title>Notion のタスクのメモはどこに書く？コメント機能よりも「ページ下部」がオススメな理由と実践方法</title>
       <link>https://tech.medpeer.co.jp/entry/2025/05/23/120000</link>
@@ -184,32 +177,37 @@
       <pubDate>Fri, 23 May 2025 12:05:19 +0000</pubDate>
     </item>
     <item>
-      <title>【 IAM Identity Center × Terraform 】によるAWS権限管理アーキテクチャ</title>
-      <link>https://tech.akariinc.co.jp/entry/2025/05/22/190000</link>
-      <guid isPermaLink="true">https://tech.akariinc.co.jp/entry/2025/05/22/190000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8eeac0587cd5cc07e6920c2a957681d311e3fce1/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftomoharu-yamamoto%2F20250522%2F20250522162941.png" length="None" type="image/png"/>
-      <pubDate>Thu, 22 May 2025 10:00:00 +0000</pubDate>
+      <title>【LangChain Interrupt参加レポート】オンラインバンキングのAIエージェント化「AIプライベートバンカー」に取り組むNubank社の事例</title>
+      <link>https://blog.generative-agents.co.jp/entry/2025-langchain-interrupt-day2-nubank</link>
+      <guid isPermaLink="true">https://blog.generative-agents.co.jp/entry/2025-langchain-interrupt-day2-nubank</guid>
+      <pubDate>Fri, 23 May 2025 23:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>WEB開発者の実務におけるAI活用事例</title>
-      <link>https://blog.ecbeing.tech/entry/2025/05/23/080000</link>
-      <guid isPermaLink="true">https://blog.ecbeing.tech/entry/2025/05/23/080000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8f9df7e5d7578ab5da55c680d50a263151e01866/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fe%2Fecb_jk2132%2F20250509%2F20250509133109.png" length="None" type="image/png"/>
-      <pubDate>Thu, 22 May 2025 23:00:00 +0000</pubDate>
+      <title>TSKaigi 2025 の「堅牢なデザインシステムをつくるためのTypeScript活用」に触発されて、JSDoc を Devin でつけてみた</title>
+      <link>https://tech.giftee.co.jp/entry/2025/05/24/122220</link>
+      <guid isPermaLink="true">https://tech.giftee.co.jp/entry/2025/05/24/122220</guid>
+      <pubDate>Sat, 24 May 2025 03:22:20 +0000</pubDate>
     </item>
     <item>
-      <title>【LangChain Interrupt参加レポート】データ処理エージェントの信頼性向上には「失敗モードの把握」が鍵となる</title>
-      <link>https://blog.generative-agents.co.jp/entry/2025-langchain-interrupt-day2-docetl</link>
-      <guid isPermaLink="true">https://blog.generative-agents.co.jp/entry/2025-langchain-interrupt-day2-docetl</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/a3baae017651ac04b24923b347fe114f555c4a82/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgenerative-agents%2F20250523%2F20250523080002.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Thu, 22 May 2025 23:00:00 +0000</pubDate>
+      <title>TSKaigi 2025 に参加しました！〜Day1 セッションレポート 3選〜</title>
+      <link>https://tech.giftee.co.jp/entry/2025/05/24/153816</link>
+      <guid isPermaLink="true">https://tech.giftee.co.jp/entry/2025/05/24/153816</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/32e0c3f170a700671f3e1ec9041fef6fa555ebb0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgiftee-dev%2F20250524%2F20250524111107.png" length="None" type="image/png"/>
+      <pubDate>Sat, 24 May 2025 06:38:16 +0000</pubDate>
     </item>
     <item>
-      <title>【Microsoft×生成AI連載】Copilot Studio エージェントビルダーで対話形式でエージェントを作成してみた</title>
-      <link>https://blog.jbs.co.jp/entry/2025/05/23/085813</link>
-      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2025/05/23/085813</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/2452f17c5e0a9e69af0b0e8540ef5972e0fa2249/height=144;version=1;width=224/https%3A%2F%2Fcdn.blog.st-hatena.com%2Ffiles%2F13574176438063302381%2F6801883189116981225" length="None" type="image/jpeg"/>
-      <pubDate>Thu, 22 May 2025 23:58:13 +0000</pubDate>
+      <title>TSKaigi 2025 に参加してきました！</title>
+      <link>https://tech.every.tv/entry/2025/05/24/170604</link>
+      <guid isPermaLink="true">https://tech.every.tv/entry/2025/05/24/170604</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6c73d5f8c8bc319273c73c532695cecdec3d4808/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fktanonymous%2F20250524%2F20250524163816.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 24 May 2025 08:06:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>【ランチ登壇全文】TSKaigi 2025 にゴールドスポンサー協賛 &amp; 登壇しました!!!</title>
+      <link>https://techblog.cartaholdings.co.jp/entry/2025/05/24/171124</link>
+      <guid isPermaLink="true">https://techblog.cartaholdings.co.jp/entry/2025/05/24/171124</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/95ed787cf6ee6f7b6b436a7ede380705b271f576/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvoyagegroup_tech%2F20250523%2F20250523151236.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 24 May 2025 08:11:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

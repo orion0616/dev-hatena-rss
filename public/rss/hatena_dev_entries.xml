@@ -7,28 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 01 Jun 2025 03:30:12 +0000</lastBuildDate>
-    <item>
-      <title> TSKaigi 2025にBASEのエンジニアが登壇＆シルバースポンサーとして協賛しました</title>
-      <link>https://devblog.thebase.in/entry/2025/05/30/120000</link>
-      <guid isPermaLink="true">https://devblog.thebase.in/entry/2025/05/30/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/9a7673cda2300f7aa20250b109f6f5b24d982877/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FY%2FYou-saku%2F20250529%2F20250529130639.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 30 May 2025 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>社内アーキテクチャハッカソン舞台裏！ - 社内勉強会の会場設計を考えてみた</title>
-      <link>https://blog.engineer.adways.net/entry/2025/05/30/130000</link>
-      <guid isPermaLink="true">https://blog.engineer.adways.net/entry/2025/05/30/130000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/1400393e9177280a4cb1beefc5a0bd5b0267580e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FA%2FAdwaysEngineerBlog%2F20250530%2F20250530124515.png" length="None" type="image/png"/>
-      <pubDate>Fri, 30 May 2025 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft 365 管理センターにMicrosoft 365 Apps admin centerが追加されてた！</title>
-      <link>https://blogs.networld.co.jp/entry/2025/05/30/130354</link>
-      <guid isPermaLink="true">https://blogs.networld.co.jp/entry/2025/05/30/130354</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/c00a709d1d45027569d93f0ef6dda03d5aa087e6/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnetworld-blog%2F20250530%2F20250530130356.png" length="None" type="image/png"/>
-      <pubDate>Fri, 30 May 2025 04:03:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Jun 2025 03:25:49 +0000</lastBuildDate>
     <item>
       <title>PowerShellによるTeamsアプリ設定の一括変更手順</title>
       <link>https://blog.jbs.co.jp/entry/2025/05/30/131003</link>
@@ -211,6 +190,25 @@
       <guid isPermaLink="true">https://developer.dip-net.co.jp/entry/2025/05/31/%E3%80%90%E5%8F%82%E5%8A%A0%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%80%91PHP%E3%82%AB%E3%83%B3%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9%E6%96%B0%E6%BD%9F%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97_1</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/51b4452eed28177b990d7162a12deb8649a06bb5/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjustin-wulf%2F20250531%2F20250531183233.png" length="None" type="image/png"/>
       <pubDate>Sat, 31 May 2025 09:42:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>生成AIだけじゃない、GNNでデータの関係性を捉えよう！</title>
+      <link>https://blog.flinters-base.co.jp/entry/2025/06/01/100000</link>
+      <guid isPermaLink="true">https://blog.flinters-base.co.jp/entry/2025/06/01/100000</guid>
+      <pubDate>Sun, 01 Jun 2025 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>インターネットからプライベートサブネットのRDSにログインする方法</title>
+      <link>https://blog.serverworks.co.jp/rdslogin-from-internet</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/rdslogin-from-internet</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
+      <pubDate>Sun, 01 Jun 2025 02:44:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>「朝開催】Kyoto.go remote #60 リモート雑談会」を開催しました！</title>
+      <link>https://kyotogo.hatenablog.com/entry/2025/06/01/124940</link>
+      <guid isPermaLink="true">https://kyotogo.hatenablog.com/entry/2025/06/01/124940</guid>
+      <pubDate>Sun, 01 Jun 2025 03:49:40 +0000</pubDate>
     </item>
   </channel>
 </rss>

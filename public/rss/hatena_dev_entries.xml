@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Jun 2025 03:20:23 +0000</lastBuildDate>
-    <item>
-      <title>AndroidのJetpackComposeで歩数計を実装してみた</title>
-      <link>https://iridge-tech.hatenablog.com/entry/2025/06/13/120000</link>
-      <guid isPermaLink="true">https://iridge-tech.hatenablog.com/entry/2025/06/13/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/0a1f9edb7aada14950e4093b5dc8421b3cc010d2/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyuta_wakamatsu%2F20250212%2F20250212181243.png" length="None" type="image/png"/>
-      <pubDate>Fri, 13 Jun 2025 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TSKaigi 2025 に参加してきました！</title>
-      <link>https://developers.freee.co.jp/entry/tskaigi2025</link>
-      <guid isPermaLink="true">https://developers.freee.co.jp/entry/tskaigi2025</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/283fa98c918553d65695319f451af63304753d5d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Ffreee_osso%2F20250613%2F20250613095956.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 13 Jun 2025 03:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Jun 2025 03:27:54 +0000</lastBuildDate>
     <item>
       <title>薬局業務支援AI開発を加速！Databricks×Dify×Colaboratoryで実現する、ドメインエキスパートとデータサイエンティストの協働基盤</title>
       <link>https://kakehashi-dev.hatenablog.com/entry/2025/06/13/120000</link>
@@ -195,6 +181,13 @@
       <pubDate>Fri, 13 Jun 2025 09:26:29 +0000</pubDate>
     </item>
     <item>
+      <title>Androidアプリ開発のUI実装進化：黎明期からMaterial 3 Expressiveまで時系列で徹底解説</title>
+      <link>https://design-tech.xtone.co.jp/entry/2025/06/13/192833</link>
+      <guid isPermaLink="true">https://design-tech.xtone.co.jp/entry/2025/06/13/192833</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/7c9cf298f211b0433e627e6eba5dcb3e441dd6bd/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fi%2Fijuinryukichi%2F20250523%2F20250523171145.png" length="None" type="image/png"/>
+      <pubDate>Fri, 13 Jun 2025 10:28:33 +0000</pubDate>
+    </item>
+    <item>
       <title>STORES レジで遭遇した 12 桁バーコード読み取りの謎</title>
       <link>https://product.st.inc/entry/2025/06/13/194219</link>
       <guid isPermaLink="true">https://product.st.inc/entry/2025/06/13/194219</guid>
@@ -206,6 +199,13 @@
       <link>https://blog.ingage.jp/entry/2025/06/13/235825</link>
       <guid isPermaLink="true">https://blog.ingage.jp/entry/2025/06/13/235825</guid>
       <pubDate>Fri, 13 Jun 2025 14:58:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Zscaler】Zenith Live '25 in Las Vegas参加レポート(後編)</title>
+      <link>https://techblog.ap-com.co.jp/entry/2025/06/14/161936</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/06/14/161936</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/bc5c92fa5238cacef7fba3685a8deb79d3cfb4d4/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20250614%2F20250614144708.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 14 Jun 2025 07:19:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

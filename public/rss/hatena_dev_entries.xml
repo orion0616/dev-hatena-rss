@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Jun 2025 03:21:33 +0000</lastBuildDate>
-    <item>
-      <title>業務や学習に役立つマイGPT作ってみた</title>
-      <link>https://tech.videor.co.jp/entry/2025/06/20/114600</link>
-      <guid isPermaLink="true">https://tech.videor.co.jp/entry/2025/06/20/114600</guid>
-      <pubDate>Fri, 20 Jun 2025 02:46:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 22 Jun 2025 03:28:38 +0000</lastBuildDate>
     <item>
       <title>なぜ私たちは住所正規化エンジンをRustで"再発明"したのか？ - FFIによる多言語高速化と開発者体験の裏側</title>
       <link>https://buildersbox.corp-sansan.com/entry/2025/06/20/120000</link>
@@ -209,6 +203,13 @@
       <guid isPermaLink="true">https://developers.play.jp/entry/2025/06/20/191042</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/bbeac56abc956c1fd3b03a06c75eadab6e4ca866/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fp%2Fplayjp%2F20250620%2F20250620154840.jpg" length="None" type="image/jpeg"/>
       <pubDate>Fri, 20 Jun 2025 10:10:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>自分の結婚式をLINE BotとAIでエンジニアリングしてみた話</title>
+      <link>https://www.m3tech.blog/entry/wedding-line-bot</link>
+      <guid isPermaLink="true">https://www.m3tech.blog/entry/wedding-line-bot</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/bd0e486d2f59b36bc6b003780c24647245051963/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20250621%2F20250621110002.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 21 Jun 2025 02:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

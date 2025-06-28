@@ -1,0 +1,39 @@
+name: PR Check
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
+        
+    - name: Install Poetry
+      uses: snok/install-poetry@v1
+      with:
+        version: latest
+        
+    - name: Install dependencies
+      run: poetry install --no-root
+      
+    - name: Run RSS feed creation script
+      run: poetry run python create_rss_feed.py
+      
+    - name: Check if RSS file was generated
+      run: |
+        if [ -f "hatena_dev_entries.xml" ]; then
+          echo "RSS feed generated successfully"
+          exit 0
+        else
+          echo "RSS feed generation failed"
+          exit 1
+        fi

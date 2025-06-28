@@ -23,7 +23,7 @@ jobs:
         version: latest
         
     - name: Install dependencies
-      run: poetry install
+      run: poetry install --no-root
       
     - name: Run RSS feed creation script
       run: poetry run python create_rss_feed.py

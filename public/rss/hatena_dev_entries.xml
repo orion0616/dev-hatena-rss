@@ -7,82 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 29 Jun 2025 03:29:34 +0000</lastBuildDate>
-    <item>
-      <title>【OCI】OCIを知って驚いた “リージョンごとID基盤” という世界観</title>
-      <link>https://techblog.ap-com.co.jp/entry/2025/06/27/151016</link>
-      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/06/27/151016</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/c7e54d46c9e078b1abaa6ffae7b5fe38f779e214/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmn_ymp%2F20250509%2F20250509175227.png" length="None" type="image/png"/>
-      <pubDate>Fri, 27 Jun 2025 06:10:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interop Tokyo 2025 で見たAI活用の最前線</title>
-      <link>https://techblog.ap-com.co.jp/entry/2025/06/27/153532</link>
-      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/06/27/153532</guid>
-      <pubDate>Fri, 27 Jun 2025 06:35:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>IAM Identity Centerディレクトリを利用したユーザー管理</title>
-      <link>https://blog.jbs.co.jp/entry/2025/06/27/154311</link>
-      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2025/06/27/154311</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8625c55e36490b2535f0b4643c86319ce626f9cd/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjbs_takahashikot%2F20250228%2F20250228101446.png" length="None" type="image/png"/>
-      <pubDate>Fri, 27 Jun 2025 06:43:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>データの名寄せは新たなステージへ：ベクトル検索とLLMが拓くエンティティ解決の最前線</title>
-      <link>https://techblog.ap-com.co.jp/entry/2025/06/27/154338</link>
-      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/06/27/154338</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d7346cd992c5a7cbbbc8e2d27fa15dd4559a915d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FK%2FKazumain%2F20250627%2F20250627152126.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 27 Jun 2025 06:43:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>アソビューらしいブログって？技術広報チームでAI全盛期の時代にどんなブログを書くべきか考えた話</title>
-      <link>https://tech.asoview.co.jp/entry/2025/06/27/154536</link>
-      <guid isPermaLink="true">https://tech.asoview.co.jp/entry/2025/06/27/154536</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/c4d3d6439dc77968e50fe63f3e9b67066d5a9f50/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkokoroendo%2F20250626%2F20250626234345.png" length="None" type="image/png"/>
-      <pubDate>Fri, 27 Jun 2025 06:45:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Copilot で GPT-4.1 を使ってみた個人的な感想 ～速さは正義か？Chat・Edits・Agent 比較～</title>
-      <link>https://cincdevteam.hatenablog.com/entry/2025/06/27/160718</link>
-      <guid isPermaLink="true">https://cincdevteam.hatenablog.com/entry/2025/06/27/160718</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/1b59c9b5da576a7a0c7b59f7cf919f6133b8a16c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcincdevteam%2F20250627%2F20250627160610.png" length="None" type="image/png"/>
-      <pubDate>Fri, 27 Jun 2025 07:07:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>業務でClaude CodeをVertex AI経由で使えるようになったので使ってみた</title>
-      <link>https://tech.yappli.io/entry/claude_code_vertex_ai</link>
-      <guid isPermaLink="true">https://tech.yappli.io/entry/claude_code_vertex_ai</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/7fc39b012cd1c747a6529045a0809a7dbb89e2dc/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F153221285%2F1600243384103025" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 27 Jun 2025 07:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【無料もあり】初心者向け・プログラミングが動画で学べるサービス6選</title>
-      <link>https://paiza.hatenablog.com/entry/2025/06/27/170000</link>
-      <guid isPermaLink="true">https://paiza.hatenablog.com/entry/2025/06/27/170000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/fa5f6cf59bde396e619c8002cb6354b32700f252/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fp%2Fpaiza%2F20170206%2F20170206122359.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 27 Jun 2025 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tracサーバからあすけんに関わる仕様を調査するためのMCPサーバを作ってみた</title>
-      <link>https://tech.asken.inc/entry/2025/06/27/170000</link>
-      <guid isPermaLink="true">https://tech.asken.inc/entry/2025/06/27/170000</guid>
-      <pubDate>Fri, 27 Jun 2025 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>開発チームを自己組織化するために取り組んだ5つのTRY</title>
-      <link>https://techblog.zozo.com/entry/zozomo-self-organization</link>
-      <guid isPermaLink="true">https://techblog.zozo.com/entry/zozomo-self-organization</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/9f5270d5970534b2d91dcdcf08bdc56e63d0e02d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20250627%2F20250627144437.png" length="None" type="image/png"/>
-      <pubDate>Fri, 27 Jun 2025 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【生成AI × ゲーム開発】Amazon Q CLIで始める対話型ゲーム開発</title>
-      <link>https://tech.nri-net.com/entry/interactive_game_development_getting_started_with_amazon_q_cli</link>
-      <guid isPermaLink="true">https://tech.nri-net.com/entry/interactive_game_development_getting_started_with_amazon_q_cli</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/0e4996adcac275316fb2f5897e8c1a39aaf0c9a8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm4-yamamoto%2F20250626%2F20250626230533.png" length="None" type="image/png"/>
-      <pubDate>Fri, 27 Jun 2025 08:17:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Jun 2025 03:28:21 +0000</lastBuildDate>
     <item>
       <title>AWS Summit Japan 2025に参加しました！</title>
       <link>https://techblog.styleedge.co.jp/entry/2025/06/27/171801</link>
@@ -211,6 +136,80 @@
       <guid isPermaLink="true">https://tech.enechange.co.jp/entry/2025/06/28/223216</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/e32631b83a8e3a45b0b4b3c2150ca90f9415e78d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fd%2Fdev-enechange%2F20250628%2F20250628223217.jpg" length="None" type="image/jpeg"/>
       <pubDate>Sat, 28 Jun 2025 13:32:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>データレイクハウスにおけるトランザクション競合とその解決策</title>
+      <link>https://techblog.ap-com.co.jp/entry/2025/06/29/074437</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/06/29/074437</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/1679ff1e312ed59af9923e16d9ecc5d74fdb4474/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FK%2FKazumain%2F20250627%2F20250627223704.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 28 Jun 2025 22:44:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>7-Elevenが実践したDatabricks Unity Catalog移行の現実解：UCXツールで複雑な大規模移行を成功に導く</title>
+      <link>https://techblog.ap-com.co.jp/entry/2025/06/29/074535</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/06/29/074535</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/c699b3290509ce567920119dc7dd98a0bb3f53a4/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FK%2FKazumain%2F20250627%2F20250627231154.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 28 Jun 2025 22:45:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mercedes-Benzが実践するクロスクラウドData Mesh：Delta SharingとUniFormで実現するコスト効率とデータ連携</title>
+      <link>https://techblog.ap-com.co.jp/entry/2025/06/29/074607</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/06/29/074607</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d5904d1ca413db107abda2adf85ec8eed3c02990/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FK%2FKazumain%2F20250629%2F20250629073432.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 28 Jun 2025 22:46:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>生成AIは「共感」を教えられるか？マルチエージェントが拓く医療コミュニケーションの新たな地平</title>
+      <link>https://techblog.ap-com.co.jp/entry/2025/06/29/074701</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/06/29/074701</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/94ad1cce7765a374d346d62696f7501cfaa65b7c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FK%2FKazumain%2F20250627%2F20250627232239.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 28 Jun 2025 22:47:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【話題】東京ドライビングサポートのペーパードライバー講習がYahoo!ニュースに掲載されました！</title>
+      <link>https://tokyodriving-support.hatenablog.com/entry/2025/06/29/095751</link>
+      <guid isPermaLink="true">https://tokyodriving-support.hatenablog.com/entry/2025/06/29/095751</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/9c28fa762d5bea3f793cf24b30f1c55be4335417/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftokyodriving_support%2F20250629%2F20250629095357.png" length="None" type="image/png"/>
+      <pubDate>Sun, 29 Jun 2025 00:57:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>【掲載報告】毎日新聞デジタルに東京ドライビングサポートのペーパードライバー講習が紹介されました！</title>
+      <link>https://tokyodriving-support.hatenablog.com/entry/2025/06/29/100201</link>
+      <guid isPermaLink="true">https://tokyodriving-support.hatenablog.com/entry/2025/06/29/100201</guid>
+      <pubDate>Sun, 29 Jun 2025 01:02:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【EV専門メディア掲載】EVcafeに東京ドライビングサポートのテスラ講習が紹介されました！</title>
+      <link>https://tokyodriving-support.hatenablog.com/entry/2025/06/29/100605</link>
+      <guid isPermaLink="true">https://tokyodriving-support.hatenablog.com/entry/2025/06/29/100605</guid>
+      <pubDate>Sun, 29 Jun 2025 01:06:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>【carview!掲載】テスラで学ぶペーパードライバー講習が話題に｜東京ドライビングサポート</title>
+      <link>https://tokyodriving-support.hatenablog.com/entry/2025/06/29/101311</link>
+      <guid isPermaLink="true">https://tokyodriving-support.hatenablog.com/entry/2025/06/29/101311</guid>
+      <pubDate>Sun, 29 Jun 2025 01:13:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>「先週何したっけ？」をゼロに：Obsidian + Claude Codeを業務アシスタントに</title>
+      <link>https://www.m3tech.blog/entry/2025/06/29/110000</link>
+      <guid isPermaLink="true">https://www.m3tech.blog/entry/2025/06/29/110000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e7a88f17801c364d5db26037e6ef9a1600cacde0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20250629%2F20250629110005.png" length="None" type="image/png"/>
+      <pubDate>Sun, 29 Jun 2025 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS Summit Japan 2025に参加してGitLab Duo with Amazon Qのセッションを聞いてきた</title>
+      <link>https://techblog.ap-com.co.jp/entry/2025/06/29/150245</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/06/29/150245</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/97cdba9cab6c5d2182bd9be96293e3e3396e8e3d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FF%2FFY0323%2F20250629%2F20250629134816.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sun, 29 Jun 2025 06:02:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>ByteDanceはIcebergとMosaic Streamingをどう拡張したか？大規模ML基盤「Magnus Lake」と「ByteD Streaming」の全貌</title>
+      <link>https://techblog.ap-com.co.jp/entry/2025/06/29/180121</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/06/29/180121</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/fd41176f2c1e48edf003dc5135922b588f63982a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FK%2FKazumain%2F20250629%2F20250629174051.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sun, 29 Jun 2025 09:01:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

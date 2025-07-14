@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 13 Jul 2025 03:30:23 +0000</lastBuildDate>
-    <item>
-      <title>Claude Codeで専門外分野の技術検証を2日で終わらせた話</title>
-      <link>https://techblog.spiderplus.co.jp/entry/2025/07/11/113000</link>
-      <guid isPermaLink="true">https://techblog.spiderplus.co.jp/entry/2025/07/11/113000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e48ae1c6879e90452af7a46ed5900023db9770dc/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fspiderplus%2F20250710%2F20250710105950.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 11 Jul 2025 02:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>動画配信技術を実装して理解する〜MPEG-TS トランスマックス編〜</title>
-      <link>https://developers.play.jp/entry/2025/07/11/114938</link>
-      <guid isPermaLink="true">https://developers.play.jp/entry/2025/07/11/114938</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/0743c828b9c3e7321f4622c3e98c6e871509cd80/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fp%2Fplayjp%2F20250711%2F20250711114729.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 11 Jul 2025 02:49:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Jul 2025 03:30:22 +0000</lastBuildDate>
     <item>
       <title>課金基盤の長期開発プロジェクトにおける総合テストの実践と学び</title>
       <link>https://tech.smarthr.jp/entry/2025/07/11/115935</link>
@@ -210,6 +196,18 @@
       <guid isPermaLink="true">https://dev.henry.jp/entry/vpoe-2025</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/6ce20d2e82ce92e3a4bcffa61e533b357e689127/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhenry-app%2F20250711%2F20250711204143.png" length="None" type="image/png"/>
       <pubDate>Fri, 11 Jul 2025 11:41:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Zscaler】FY25 Zscaler Partner Top Sales Tour in OKINAWA参加レポート！</title>
+      <link>https://techblog.ap-com.co.jp/entry/2025/07/13/223014</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/07/13/223014</guid>
+      <pubDate>Sun, 13 Jul 2025 13:30:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS CDK Conference Japan 2025  登壇報告 - Grant オブジェクトの話をしてきました</title>
+      <link>https://blog.serverworks.co.jp/2025/07/13/224508</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2025/07/13/224508</guid>
+      <pubDate>Sun, 13 Jul 2025 13:45:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

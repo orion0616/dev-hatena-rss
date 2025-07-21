@@ -7,27 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 20 Jul 2025 03:31:40 +0000</lastBuildDate>
-    <item>
-      <title>CDK Migrateで生成したコードを外部パラメータに対応させる</title>
-      <link>https://blog.serverworks.co.jp/cdk-migrate-external-parameters</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/cdk-migrate-external-parameters</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 18 Jul 2025 06:17:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>ながらRuby会議01にSmartHRから alpaca-tc が登壇します</title>
-      <link>https://tech.smarthr.jp/entry/2025/07/18/152401</link>
-      <guid isPermaLink="true">https://tech.smarthr.jp/entry/2025/07/18/152401</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e30000aab1580abf007a6093589797c804ac4c19/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20250718%2F20250718152612.png" length="None" type="image/png"/>
-      <pubDate>Fri, 18 Jul 2025 06:24:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>【SRE NEXT 2025】スポンサー＆登壇レポート</title>
-      <link>https://link-and-motivation.hatenablog.com/entry/2025/07/18/154028</link>
-      <guid isPermaLink="true">https://link-and-motivation.hatenablog.com/entry/2025/07/18/154028</guid>
-      <pubDate>Fri, 18 Jul 2025 06:40:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Jul 2025 03:31:10 +0000</lastBuildDate>
     <item>
       <title>【イベントレポート】部署の垣根を越えて、バスケで交流！ estie社内スポーツ活動のご紹介</title>
       <link>https://www.estie.jp/blog/entry/2025/07/18/155436</link>
@@ -202,6 +182,25 @@
       <link>https://blog.smtps.jp/entry/2025/07/19/235851</link>
       <guid isPermaLink="true">https://blog.smtps.jp/entry/2025/07/19/235851</guid>
       <pubDate>Sat, 19 Jul 2025 14:58:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Customers Mail Cloud Java SDK（非公式）にて追加パラメーターに対応しました</title>
+      <link>https://blog.smtps.jp/entry/2025/07/20/035729</link>
+      <guid isPermaLink="true">https://blog.smtps.jp/entry/2025/07/20/035729</guid>
+      <pubDate>Sat, 19 Jul 2025 18:57:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Orca Security から VS Code 用の AppSec エクステンションがリリースされました！</title>
+      <link>https://techblog.forgevision.com/entry/orca-security/vscode/appsec</link>
+      <guid isPermaLink="true">https://techblog.forgevision.com/entry/orca-security/vscode/appsec</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/f48ffcec8795077eb5bb7cc05405f74424075adc/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fo%2Fotanikohei%2F20250720%2F20250720091703.png" length="None" type="image/png"/>
+      <pubDate>Sun, 20 Jul 2025 01:25:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Zscaler】ラストワンマイルは“SIM”が制する？Zscaler Z-SIMが拓くゼロトラストの次なる一手</title>
+      <link>https://techblog.ap-com.co.jp/entry/2025/07/20/140149</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/07/20/140149</guid>
+      <pubDate>Sun, 20 Jul 2025 05:01:49 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 26 Jul 2025 03:29:13 +0000</lastBuildDate>
-    <item>
-      <title>Swift 6移行対応はこう乗り切った！cluster iOSアプリの事例</title>
-      <link>https://tech-blog.cluster.mu/entry/2025/07/25</link>
-      <guid isPermaLink="true">https://tech-blog.cluster.mu/entry/2025/07/25</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/3a73899162fe85f7342c9894cc6136d646b359de/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fclustervr%2F20250723%2F20250723162104.png" length="None" type="image/png"/>
-      <pubDate>Fri, 25 Jul 2025 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【イベントレポート】真夏のオフィスでひんやり体験！ 「かき氷の日」を開催しました</title>
-      <link>https://www.estie.jp/blog/entry/2025/07/25/113118</link>
-      <guid isPermaLink="true">https://www.estie.jp/blog/entry/2025/07/25/113118</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/65e9e51bef52f388b72f5a453cec8876d66f95d7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fe%2Festie%2F20250724%2F20250724171858.png" length="None" type="image/png"/>
-      <pubDate>Fri, 25 Jul 2025 02:31:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 27 Jul 2025 03:32:07 +0000</lastBuildDate>
     <item>
       <title>手動からの解放！！Strands Agentsで実現する総合テスト自動化</title>
       <link>https://tech.nri-net.com/entry/comprehensive_test_automation_with_strands_agents</link>
@@ -208,6 +194,19 @@
       <guid isPermaLink="true">https://techblog.forgevision.com/entry/aws/summit/japan/2025/faq</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/cdc750cc818f4b0064fd48e1429816f4c0953099/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fo%2Fotanikohei%2F20250715%2F20250715093858.jpg" length="None" type="image/jpeg"/>
       <pubDate>Fri, 25 Jul 2025 11:25:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kubernetes Podの計画的スケールでシステム負荷とコストを最適化したい!</title>
+      <link>https://www.m3tech.blog/entry/2025/07/26/100000</link>
+      <guid isPermaLink="true">https://www.m3tech.blog/entry/2025/07/26/100000</guid>
+      <pubDate>Sat, 26 Jul 2025 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Rate Limitを考慮した Backstage の設定</title>
+      <link>https://techblog.ap-com.co.jp/entry/2025/07/26/184600</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/07/26/184600</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/94cd30bfd94432d57a10ca6492e273dbd29a8d3c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Fturtle2005%2F20230303%2F20230303210336.png" length="None" type="image/png"/>
+      <pubDate>Sat, 26 Jul 2025 09:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

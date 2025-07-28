@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 27 Jul 2025 03:32:07 +0000</lastBuildDate>
-    <item>
-      <title>手動からの解放！！Strands Agentsで実現する総合テスト自動化</title>
-      <link>https://tech.nri-net.com/entry/comprehensive_test_automation_with_strands_agents</link>
-      <guid isPermaLink="true">https://tech.nri-net.com/entry/comprehensive_test_automation_with_strands_agents</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/b926223766a583800abb49dadf9b4a5854b8bfc2/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Fr-ide-ryota%2F20250724%2F20250724002456.png" length="None" type="image/png"/>
-      <pubDate>Fri, 25 Jul 2025 02:38:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>terraform testにてMockプロバイダーを試してみた</title>
-      <link>https://blog.jbs.co.jp/entry/2025/07/25/115959</link>
-      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2025/07/25/115959</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/52d05a5f5f47332ee2444cd73a8f7ba8132c6160/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjbs_nishiyamas%2F20250612%2F20250612154039.png" length="None" type="image/png"/>
-      <pubDate>Fri, 25 Jul 2025 02:59:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Jul 2025 03:31:24 +0000</lastBuildDate>
     <item>
       <title>はてなさんと合同で技術勉強会を開催しました</title>
       <link>https://dev.henry.jp/entry/2025/giben-with-hatena</link>
@@ -207,6 +193,19 @@
       <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/07/26/184600</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/94cd30bfd94432d57a10ca6492e273dbd29a8d3c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Fturtle2005%2F20230303%2F20230303210336.png" length="None" type="image/png"/>
       <pubDate>Sat, 26 Jul 2025 09:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【初心者向け】始めての AWS Control Tower</title>
+      <link>https://blog.serverworks.co.jp/2025/07/27/105833</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2025/07/27/105833</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
+      <pubDate>Sun, 27 Jul 2025 01:58:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>チームでDevinを導入して2ヶ月経ったので振り返ってみた</title>
+      <link>https://www.m3tech.blog/entry/2025/07/27/110745</link>
+      <guid isPermaLink="true">https://www.m3tech.blog/entry/2025/07/27/110745</guid>
+      <pubDate>Sun, 27 Jul 2025 02:07:45 +0000</pubDate>
     </item>
   </channel>
 </rss>

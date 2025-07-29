@@ -7,205 +7,208 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 28 Jul 2025 03:31:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 03:33:18 +0000</lastBuildDate>
     <item>
-      <title>はてなさんと合同で技術勉強会を開催しました</title>
-      <link>https://dev.henry.jp/entry/2025/giben-with-hatena</link>
-      <guid isPermaLink="true">https://dev.henry.jp/entry/2025/giben-with-hatena</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/78cd47858b96a21aaa45217ef14f3e45d9c8ca05/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhenry-app%2F20250725%2F20250725120017.png" length="None" type="image/png"/>
-      <pubDate>Fri, 25 Jul 2025 03:00:00 +0000</pubDate>
+      <title>Azure Localのインターネット疎通要件の管理工数を削減する「Azure Arcゲートウェイ（プレビュー）」とは</title>
+      <link>https://blogs.networld.co.jp/entry/2025/07/28/101703</link>
+      <guid isPermaLink="true">https://blogs.networld.co.jp/entry/2025/07/28/101703</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/b00b99ae0cd865824e73d7b86ffb81b94336f16c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnetworld-blog%2F20250728%2F20250728101704.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Mon, 28 Jul 2025 01:17:03 +0000</pubDate>
     </item>
     <item>
-      <title>90秒かかるDELETE文の原因を探る【PostgreSQL】</title>
-      <link>https://www.m3tech.blog/entry/2025/07/25/120000</link>
-      <guid isPermaLink="true">https://www.m3tech.blog/entry/2025/07/25/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/60f7f98fe4f9903db71208152f1cb554bad4ed7a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20250725%2F20250725120014.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 25 Jul 2025 03:00:00 +0000</pubDate>
+      <title>Azure Red Hat Enterprise Linux 仮想マシンにおけるVNC導入</title>
+      <link>https://blog.jbs.co.jp/entry/2025/07/28/102603</link>
+      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2025/07/28/102603</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/39e7a451e10da25e6c78d3cdfd26c34b8b4bcacf/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjbs_ymuto%2F20250512%2F20250512151710.png" length="None" type="image/png"/>
+      <pubDate>Mon, 28 Jul 2025 01:26:03 +0000</pubDate>
     </item>
     <item>
-      <title>アクセシビリティ改善にAIエージェントは使えるのか？検証してみた</title>
-      <link>https://tech.enechange.co.jp/entry/2025/07/25/130000</link>
-      <guid isPermaLink="true">https://tech.enechange.co.jp/entry/2025/07/25/130000</guid>
-      <pubDate>Fri, 25 Jul 2025 04:00:00 +0000</pubDate>
+      <title>SRE Kaigiはノベルティ企画「Tech Tiles」に参加します！</title>
+      <link>https://blog.srekaigi.net/entry/2025/07/28/103000</link>
+      <guid isPermaLink="true">https://blog.srekaigi.net/entry/2025/07/28/103000</guid>
+      <pubDate>Mon, 28 Jul 2025 01:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>AWSマンスリーアップデートピックアップ!! 2025年7月分 ～NRIネットコム TECH &amp; DESIGN STUDY #73～</title>
-      <link>https://tech.nri-net.com/entry/tech_and_design_study_73</link>
-      <guid isPermaLink="true">https://tech.nri-net.com/entry/tech_and_design_study_73</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/4cb4bb8219de946baf5fbf4cfafa524ed6def588/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fe%2Fe-unno%2F20250725%2F20250725141124.png" length="None" type="image/png"/>
-      <pubDate>Fri, 25 Jul 2025 05:27:13 +0000</pubDate>
+      <title>Flutterで音を奏でよう！リアルタイムオーディオ生成アプリの第一歩</title>
+      <link>https://www.m3tech.blog/entry/2025/07/28/110000</link>
+      <guid isPermaLink="true">https://www.m3tech.blog/entry/2025/07/28/110000</guid>
+      <pubDate>Mon, 28 Jul 2025 02:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LambdaとECS Clusterのホストを自動退役できるようになりました ほか10件のアップデート</title>
-      <link>https://mackerel.io/ja/blog/entry/weekly/20250725</link>
-      <guid isPermaLink="true">https://mackerel.io/ja/blog/entry/weekly/20250725</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6e1129efa95a6198435b9ee0768ec2d0d60daf44/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmackerelio%2F20250725%2F20250725143659.png" length="None" type="image/png"/>
-      <pubDate>Fri, 25 Jul 2025 05:36:33 +0000</pubDate>
+      <title>DataSemantics: Automatic Data Integration Powered by LLMs</title>
+      <link>https://blog-en.fltech.dev/entry/2025/07/28/DataSemantics%3A_Automatic_Data_Integration_Powered_by_LLMs</link>
+      <guid isPermaLink="true">https://blog-en.fltech.dev/entry/2025/07/28/DataSemantics%3A_Automatic_Data_Integration_Powered_by_LLMs</guid>
+      <pubDate>Mon, 28 Jul 2025 02:07:57 +0000</pubDate>
     </item>
     <item>
-      <title>バーティカルSaaSのPdMたちが本音で語る——エス・エム・エスさん×コドモンLT大会レポート</title>
-      <link>https://tech.codmon.com/entry/2025/07/25/145408</link>
-      <guid isPermaLink="true">https://tech.codmon.com/entry/2025/07/25/145408</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/2b90d3596e986cf56640f4f06966fed7520bb443/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm_hamashita%2F20250624%2F20250624172330.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 25 Jul 2025 05:54:08 +0000</pubDate>
+      <title>Azure Open AI Service Dev Day 2025に参加しました！</title>
+      <link>https://aadojo.alterbooth.com/entry/2025/07/28/112115</link>
+      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2025/07/28/112115</guid>
+      <pubDate>Mon, 28 Jul 2025 02:21:15 +0000</pubDate>
     </item>
     <item>
-      <title>AWS Certified AI Practitioner（AWS AIF）合格記：勉強法と役立つリソース徹底解説</title>
-      <link>https://blog.bltinc.co.jp/entry/2025/07/25/150000</link>
-      <guid isPermaLink="true">https://blog.bltinc.co.jp/entry/2025/07/25/150000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d764423ca8f47be5d05e455fe98cc13d3011051b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnakao20250707%2F20250724%2F20250724122939.png" length="None" type="image/png"/>
-      <pubDate>Fri, 25 Jul 2025 06:00:00 +0000</pubDate>
+      <title>SORACOM Discovery 2025 にイベント参加・プロトタイプ作品の展示を行いました！</title>
+      <link>https://aadojo.alterbooth.com/entry/2025/07/28/112128</link>
+      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2025/07/28/112128</guid>
+      <pubDate>Mon, 28 Jul 2025 02:21:28 +0000</pubDate>
     </item>
     <item>
-      <title>MLflow Tracing時に並行処理するとTracingが分かれる問題への対処法</title>
-      <link>https://tech.every.tv/entry/2025/07/25/150628</link>
-      <guid isPermaLink="true">https://tech.every.tv/entry/2025/07/25/150628</guid>
-      <pubDate>Fri, 25 Jul 2025 06:06:28 +0000</pubDate>
+      <title>人とAIの共創で進化するフロントエンド開発(Claude/Codex/v0)</title>
+      <link>https://developer.so-tech.co.jp/entry/2025/07/28/113000</link>
+      <guid isPermaLink="true">https://developer.so-tech.co.jp/entry/2025/07/28/113000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/4fb67a06be573fa2083be3cc9f5e261b285c41ae/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsk3kyu%2F20250725%2F20250725173355.png" length="None" type="image/png"/>
+      <pubDate>Mon, 28 Jul 2025 02:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>入社1ヶ月で新規事業の開発を任された話</title>
-      <link>https://tech.youtrust.co.jp/entry/2025/07/25/152154</link>
-      <guid isPermaLink="true">https://tech.youtrust.co.jp/entry/2025/07/25/152154</guid>
-      <pubDate>Fri, 25 Jul 2025 06:21:54 +0000</pubDate>
+      <title>ベースマキナを導入してDBオペレーションを改善している話</title>
+      <link>https://tech.codmon.com/entry/2025/07/28/120000</link>
+      <guid isPermaLink="true">https://tech.codmon.com/entry/2025/07/28/120000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/45cbab29d98ede24cd8c72f1859c518af7655fff/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjsoizo%2F20250722%2F20250722093535.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Mon, 28 Jul 2025 03:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Customers Mail Cloud VBA SDK（非公式）にて追加パラメーターに対応しました</title>
-      <link>https://blog.smtps.jp/entry/2025/07/25/160621</link>
-      <guid isPermaLink="true">https://blog.smtps.jp/entry/2025/07/25/160621</guid>
-      <pubDate>Fri, 25 Jul 2025 07:06:21 +0000</pubDate>
+      <title>【Power Apps】タイマーコントロールを使用して自動的にアプリを終了する</title>
+      <link>https://blog.jbs.co.jp/entry/2025/07/28/120045</link>
+      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2025/07/28/120045</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/32c442fb033a6aab4d2e7933cc1c8876a1d5838a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjbs_tanakamiu%2F20250616%2F20250616162410.png" length="None" type="image/png"/>
+      <pubDate>Mon, 28 Jul 2025 03:00:45 +0000</pubDate>
     </item>
     <item>
-      <title>Mistral AIのスピーチアンダースタンディングモデル「Voxtral-Mini-3B」の日本語認識能力を検証してみた</title>
-      <link>https://blog.generative-agents.co.jp/entry/voxtral-mini-3b</link>
-      <guid isPermaLink="true">https://blog.generative-agents.co.jp/entry/voxtral-mini-3b</guid>
-      <pubDate>Fri, 25 Jul 2025 07:10:35 +0000</pubDate>
+      <title>LCLでのSLO策定までの道のり</title>
+      <link>https://techblog.lclco.com/entry/2025/07/28/121200</link>
+      <guid isPermaLink="true">https://techblog.lclco.com/entry/2025/07/28/121200</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/70e1d20e591e32f0366db29511eedc56f5f4b37d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftakara7283%2F20250723%2F20250723142206.png" length="None" type="image/png"/>
+      <pubDate>Mon, 28 Jul 2025 03:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>コンパイラ技術を使用したAI Agentの安定性を向上させる仕組み</title>
-      <link>https://tech-blog.localmet.com/entry/2025/07/25/164323</link>
-      <guid isPermaLink="true">https://tech-blog.localmet.com/entry/2025/07/25/164323</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6ed22e5673eb0a588fbf98b4025f3fabfeebc52c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhnakagawa14%2F20250725%2F20250725144113.png" length="None" type="image/png"/>
-      <pubDate>Fri, 25 Jul 2025 07:43:23 +0000</pubDate>
+      <title>ドキュメントの陳腐化を防ぐCursor活用</title>
+      <link>https://tech-blog.tabelog.com/entry/using-cursor-to-prevent-document-corruption</link>
+      <guid isPermaLink="true">https://tech-blog.tabelog.com/entry/using-cursor-to-prevent-document-corruption</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/f4c74e976e598e932a396f287545b57e9b5ca08c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftabelog_tech_blog%2F20250728%2F20250728114546.png" length="None" type="image/png"/>
+      <pubDate>Mon, 28 Jul 2025 03:48:40 +0000</pubDate>
     </item>
     <item>
-      <title>strip関数にご用心</title>
-      <link>https://blog.ingage.jp/entry/2025/07/25/165725</link>
-      <guid isPermaLink="true">https://blog.ingage.jp/entry/2025/07/25/165725</guid>
-      <pubDate>Fri, 25 Jul 2025 07:57:25 +0000</pubDate>
+      <title>チームのレビュープロセスを進化させた『Looks Good To Me』読書会</title>
+      <link>https://tech.smarthr.jp/entry/looks-good-to-me-reading-group</link>
+      <guid isPermaLink="true">https://tech.smarthr.jp/entry/looks-good-to-me-reading-group</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8fffaa92ee87844b1105609c13cf1c0cb8914cca/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20250728%2F20250728133335.png" length="None" type="image/png"/>
+      <pubDate>Mon, 28 Jul 2025 04:15:49 +0000</pubDate>
     </item>
     <item>
-      <title>【初心者向け】Amplify Gen 2 でブランチごとの環境を削除する方法</title>
-      <link>https://blog.serverworks.co.jp/how-to-delete-branch-for-amplify</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/how-to-delete-branch-for-amplify</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/1e7f15ecee6f38c12d2967c2ca06c6fbf079d04b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-tomoro-hamada%2F20250519%2F20250519101006.png" length="None" type="image/png"/>
-      <pubDate>Fri, 25 Jul 2025 08:00:00 +0000</pubDate>
+      <title>【Outlook】グループアドレスをグローバルアドレス帳から非表示にする</title>
+      <link>https://blog.jbs.co.jp/entry/2025/07/28/133852</link>
+      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2025/07/28/133852</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/fb80c99f21a32e5836316d4073b984ab335b0ff3/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjbs_tsasauchi%2F20250523%2F20250523150929.png" length="None" type="image/png"/>
+      <pubDate>Mon, 28 Jul 2025 04:38:52 +0000</pubDate>
     </item>
     <item>
-      <title>2025/4/23 Qiita Conference 2025 「がんばらないアクセシビリティ / 苦労せずにアクセシビリティを実現」アーカイブ</title>
-      <link>https://developers.freee.co.jp/entry/2025/07/25/170126</link>
-      <guid isPermaLink="true">https://developers.freee.co.jp/entry/2025/07/25/170126</guid>
-      <pubDate>Fri, 25 Jul 2025 08:01:26 +0000</pubDate>
+      <title>ジョブ理論の重要性 ～顧客の真のニーズを理解する鍵～</title>
+      <link>https://tech-blog.rakus.co.jp/entry/20250728/jobstobedone</link>
+      <guid isPermaLink="true">https://tech-blog.rakus.co.jp/entry/20250728/jobstobedone</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/f2f33f2b1c41de8da5ad0fe79ed8a82bf201bd34/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmisatoki%2F20250719%2F20250719171727.png" length="None" type="image/png"/>
+      <pubDate>Mon, 28 Jul 2025 06:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Databricks 環境で学ぶ Delta Lake タイムトラベル</title>
-      <link>https://blog.serverworks.co.jp/databricks-delta-lake-timetravel</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/databricks-delta-lake-timetravel</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/06aeff8f26a503b690454e5dab0c7ef4507997d1/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-yoshiaki-kamada%2F20250725%2F20250725102121.png" length="None" type="image/png"/>
-      <pubDate>Fri, 25 Jul 2025 08:04:20 +0000</pubDate>
+      <title>Google Cloudインテグレーションをご利用のお客様へ：Cloud Monitoring料金体系変更に関するお知らせ</title>
+      <link>https://mackerel.io/ja/blog/entry/announcement/20250728</link>
+      <guid isPermaLink="true">https://mackerel.io/ja/blog/entry/announcement/20250728</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/b25f0ccda17b22b9e172d7e163b745b41ec18922/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmackerelio%2F20250728%2F20250728154444.png" length="None" type="image/png"/>
+      <pubDate>Mon, 28 Jul 2025 06:44:41 +0000</pubDate>
     </item>
     <item>
-      <title>【AWS re:Inforce 2025】Internal Access: 組織の誰がリソースにアクセスできるか (IAM307-NEW)</title>
-      <link>https://blog.serverworks.co.jp/reinforce2025-iam307</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/reinforce2025-iam307</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/5a652caf985a838da9eba667a0e1ad992452bdc5/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-satake%2F20250725%2F20250725142506.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 25 Jul 2025 08:15:40 +0000</pubDate>
+      <title>メンテナンス・レジリエンス TOKYO 2025 見学レポート</title>
+      <link>https://tech.aptpod.co.jp/entry/2025/07/28/160000</link>
+      <guid isPermaLink="true">https://tech.aptpod.co.jp/entry/2025/07/28/160000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/9bf8453f27063cb329a53ee124cf28777ddb37ba/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Faptpod-tetsu%2F20250726%2F20250726095534.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Mon, 28 Jul 2025 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【AI活用共有会#1】ClaudeもDevOpsもBacklogも！MCPで始まる"実行するAI"の時代</title>
-      <link>https://blog.nextscape.net/archives/2025/07/25/172529</link>
-      <guid isPermaLink="true">https://blog.nextscape.net/archives/2025/07/25/172529</guid>
-      <pubDate>Fri, 25 Jul 2025 08:25:29 +0000</pubDate>
+      <title>2025/5/23 TSKaigi 2025「TypeScriptとReactで、WAI-ARIAのプロパティを正しく利用する / ReactでTypeScriptを使用したWAI-ARIAの入力を修正する」登壇資料</title>
+      <link>https://developers.freee.co.jp/entry/2025/07/28/161057</link>
+      <guid isPermaLink="true">https://developers.freee.co.jp/entry/2025/07/28/161057</guid>
+      <pubDate>Mon, 28 Jul 2025 07:10:57 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Codeを使い始めるためのアレコレ</title>
-      <link>https://tech.visasq.com/how-to-use-claude-code</link>
-      <guid isPermaLink="true">https://tech.visasq.com/how-to-use-claude-code</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/c94fb2b65781293f31453064633f5edc707186ae/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmine-visasq%2F20250716%2F20250716150421.png" length="None" type="image/png"/>
-      <pubDate>Fri, 25 Jul 2025 08:35:35 +0000</pubDate>
+      <title>2025/5/23 TSKaigi 2025「TypeScriptとReactで、WAI-ARIAのプロパティを正しく利用する / ReactでTypeScriptを使用したWAI-ARIAの入力を修正する」登壇資料</title>
+      <link>https://developers.freee.co.jp/entry/2025/07/28/161135</link>
+      <guid isPermaLink="true">https://developers.freee.co.jp/entry/2025/07/28/161135</guid>
+      <pubDate>Mon, 28 Jul 2025 07:11:35 +0000</pubDate>
     </item>
     <item>
-      <title>AWS Summit Japan 2025会場でAWS Executive Briefing Centerに参加してきた</title>
-      <link>https://developer.dip-net.co.jp/entry/2025/07/25/AWS_Summit_Japan_2025%E4%BC%9A%E5%A0%B4%E3%81%A7AWS_Executive_Briefing_Center%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F</link>
-      <guid isPermaLink="true">https://developer.dip-net.co.jp/entry/2025/07/25/AWS_Summit_Japan_2025%E4%BC%9A%E5%A0%B4%E3%81%A7AWS_Executive_Briefing_Center%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/c45a774476aafc28e50d56bc1183089bb71dbe91/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkatsuhiro-sato%2F20250725%2F20250725173216.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 25 Jul 2025 08:52:00 +0000</pubDate>
+      <title>【AWS】Amazon ECSがBlue/Green Deploymentをネイティブサポートしたので簡単に調査してみる</title>
+      <link>https://techblog.ap-com.co.jp/entry/2025/07/28/161546</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/07/28/161546</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/9c9748f45a8a890469acee440ed60223492fc37c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsk07103%2F20240202%2F20240202200547.png" length="None" type="image/png"/>
+      <pubDate>Mon, 28 Jul 2025 07:15:46 +0000</pubDate>
     </item>
     <item>
-      <title>Rhino8のレイヤー自動色分け機能をRhino7で再現してみた</title>
-      <link>https://blog.vicc.jp/entry/rhino7-layer-autocolor</link>
-      <guid isPermaLink="true">https://blog.vicc.jp/entry/rhino7-layer-autocolor</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/1350a6d95788b42994a8df991b463c6680a9993c/height=144;version=1;width=224/https%3A%2F%2Fimgur.com%2FZIsHehe.png" length="None" type="image/png"/>
-      <pubDate>Fri, 25 Jul 2025 09:00:00 +0000</pubDate>
+      <title>メンバーインタビュー#10 「ユーザーに近い環境で開発したい」という想いを実現し、価値創出に向けて奮闘する豊永さんの挑戦</title>
+      <link>https://quo-digital.hatenablog.com/entry/2025/07/28/164531</link>
+      <guid isPermaLink="true">https://quo-digital.hatenablog.com/entry/2025/07/28/164531</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/3b58c90f6b5736180053bacac5b670a5da1a1cab/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fq%2Fquo-digital-kaneko%2F20250728%2F20250728155840.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Mon, 28 Jul 2025 07:45:31 +0000</pubDate>
     </item>
     <item>
-      <title>CVPR 2025 参加レポート</title>
-      <link>https://techblog.zozo.com/entry/cvpr2025</link>
-      <guid isPermaLink="true">https://techblog.zozo.com/entry/cvpr2025</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/efb662069de01bd401a7c262f8b4e8dd34822b0c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20250725%2F20250725160132.png" length="None" type="image/png"/>
-      <pubDate>Fri, 25 Jul 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BRX300積込</title>
-      <link>https://rizing-pa.hatenablog.com/entry/2025/07/25/192528</link>
-      <guid isPermaLink="true">https://rizing-pa.hatenablog.com/entry/2025/07/25/192528</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/68245abf570e8d7b09405dc9b00dc28ad2b971df/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FR%2FRIZING-PA%2F20250725%2F20250725190809.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 25 Jul 2025 10:25:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>BigQuery のテーブルメタデータを Cloud Run Jobs で自動更新する最小構成</title>
-      <link>https://techblog.roxx.co.jp/entry/2025/07/25/193104</link>
-      <guid isPermaLink="true">https://techblog.roxx.co.jp/entry/2025/07/25/193104</guid>
-      <pubDate>Fri, 25 Jul 2025 10:31:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>現地会場とリモートの壁を取り払う、StreamYard ハイブリッド配信の舞台裏 #aicoding</title>
-      <link>https://tech.layerx.co.jp/entry/2025/07/25/195030</link>
-      <guid isPermaLink="true">https://tech.layerx.co.jp/entry/2025/07/25/195030</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/2d71ac5921437f5f3472587996737df011574154/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyuu2634%2F20250725%2F20250725191403.png" length="None" type="image/png"/>
-      <pubDate>Fri, 25 Jul 2025 10:50:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS Summit Japan 2025 でいただいた弊社ブース出展に関するご質問に回答します</title>
-      <link>https://techblog.forgevision.com/entry/aws/summit/japan/2025/faq</link>
-      <guid isPermaLink="true">https://techblog.forgevision.com/entry/aws/summit/japan/2025/faq</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/cdc750cc818f4b0064fd48e1429816f4c0953099/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fo%2Fotanikohei%2F20250715%2F20250715093858.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 25 Jul 2025 11:25:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kubernetes Podの計画的スケールでシステム負荷とコストを最適化したい!</title>
-      <link>https://www.m3tech.blog/entry/2025/07/26/100000</link>
-      <guid isPermaLink="true">https://www.m3tech.blog/entry/2025/07/26/100000</guid>
-      <pubDate>Sat, 26 Jul 2025 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Rate Limitを考慮した Backstage の設定</title>
-      <link>https://techblog.ap-com.co.jp/entry/2025/07/26/184600</link>
-      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/07/26/184600</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/94cd30bfd94432d57a10ca6492e273dbd29a8d3c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Fturtle2005%2F20230303%2F20230303210336.png" length="None" type="image/png"/>
-      <pubDate>Sat, 26 Jul 2025 09:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【初心者向け】始めての AWS Control Tower</title>
-      <link>https://blog.serverworks.co.jp/2025/07/27/105833</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/2025/07/27/105833</guid>
+      <title>New Relic Agentic AI統合がGAされて、GitHub Copilotとの連携できるように</title>
+      <link>https://blog.serverworks.co.jp/new-relic-agentic-ai-integrations-including-git-hub-copilot</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/new-relic-agentic-ai-integrations-including-git-hub-copilot</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
-      <pubDate>Sun, 27 Jul 2025 01:58:33 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>チームでDevinを導入して2ヶ月経ったので振り返ってみた</title>
-      <link>https://www.m3tech.blog/entry/2025/07/27/110745</link>
-      <guid isPermaLink="true">https://www.m3tech.blog/entry/2025/07/27/110745</guid>
-      <pubDate>Sun, 27 Jul 2025 02:07:45 +0000</pubDate>
+      <title>Android - Audio Focus とは何か</title>
+      <link>https://blog.ingage.jp/entry/2025/07/28/171417</link>
+      <guid isPermaLink="true">https://blog.ingage.jp/entry/2025/07/28/171417</guid>
+      <pubDate>Mon, 28 Jul 2025 08:14:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>NestJSでサーバーレスアプリケーションを実装してみた</title>
+      <link>https://blog.serverworks.co.jp/nestjs-entry</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/nestjs-entry</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
+      <pubDate>Mon, 28 Jul 2025 08:20:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>MIRU2025（第28回 画像の認識・理解シンポジウム）にシルバースポンサーとして協賛いたします</title>
+      <link>https://tech.layerx.co.jp/entry/2025/07/28/173114</link>
+      <guid isPermaLink="true">https://tech.layerx.co.jp/entry/2025/07/28/173114</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e09a523d251fd8083ce99d37e9b609d8e61c885e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsbrflx%2F20250728%2F20250728105951.png" length="None" type="image/png"/>
+      <pubDate>Mon, 28 Jul 2025 08:31:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>ゆるく書いた記事が新卒資料に!? "とりあえず発信"してみたら起きた意外なこと</title>
+      <link>https://blog.cybozu.io/entry/2025/07/28/180000</link>
+      <guid isPermaLink="true">https://blog.cybozu.io/entry/2025/07/28/180000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/53d7d0db5374fba49cdc136949a2bf2352b04fad/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyellow-sabotech%2F20250714%2F20250714134355.png" length="None" type="image/png"/>
+      <pubDate>Mon, 28 Jul 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>非エンジニアがCursorを使ってみて効果的だった使い方6選</title>
+      <link>https://link-and-motivation.hatenablog.com/entry/2025/07/28/183625</link>
+      <guid isPermaLink="true">https://link-and-motivation.hatenablog.com/entry/2025/07/28/183625</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/af3cb1fc257b7f90e123602601eea41c160ffd0e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaijidesu%2F20250725%2F20250725181601.png" length="None" type="image/png"/>
+      <pubDate>Mon, 28 Jul 2025 09:36:25 +0000</pubDate>
+    </item>
+    <item>
+      <title> AWS CodePipelineとAWS CodeArtifact でソースコードのパッケージ化と共有をやってみる</title>
+      <link>https://blog.serverworks.co.jp/aws-codeartifact-share-source-package</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/aws-codeartifact-share-source-package</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8f47e5ac9d30bd3f1bc880ae0048f8b8de3288a6/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-satoshi-kaneyasu%2F20250727%2F20250727133545.png" length="None" type="image/png"/>
+      <pubDate>Mon, 28 Jul 2025 10:16:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>SmartHRが拓くアジャイル組織の未来 —— 労務ドメインの組織変革とScrum@Scale</title>
+      <link>https://tech.smarthr.jp/entry/2025/07/28/214939</link>
+      <guid isPermaLink="true">https://tech.smarthr.jp/entry/2025/07/28/214939</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/ef83d2c96ff89c2871bd68c643f3c0f9253f5fa9/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20250728%2F20250728214958.png" length="None" type="image/png"/>
+      <pubDate>Mon, 28 Jul 2025 12:49:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>ログラス初の社内AIハッカソンを開催しました</title>
+      <link>https://prd-blog.loglass.co.jp/entry/20250728</link>
+      <guid isPermaLink="true">https://prd-blog.loglass.co.jp/entry/20250728</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d41c1c831c96fdd7b4d2206a97b8868f415339bf/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fl%2Floglass_product_team%2F20250723%2F20250723112806.png" length="None" type="image/png"/>
+      <pubDate>Sun, 27 Jul 2025 23:47:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

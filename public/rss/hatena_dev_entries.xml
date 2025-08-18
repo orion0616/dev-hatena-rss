@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 17 Aug 2025 03:28:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 03:29:50 +0000</lastBuildDate>
     <item>
       <title>Microsoft Teams のタグ情報を Graph API で一括取得し、Excel に出力する方法</title>
       <link>https://blog.jbs.co.jp/entry/2025/08/15/100044</link>
@@ -184,25 +184,25 @@
       <pubDate>Sat, 16 Aug 2025 02:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Claude Code小ネタ】インタラクティブなコンソール手順はCLAUDE.mdに書こう</title>
-      <link>https://tech.mti.co.jp/entry/ac2025summer/0815</link>
-      <guid isPermaLink="true">https://tech.mti.co.jp/entry/ac2025summer/0815</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/0ff983fa2917b2dee024497186672deb0d5fb5a5/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmti-techblog-writer%2F20250813%2F20250813162542.png" length="None" type="image/png"/>
-      <pubDate>Thu, 14 Aug 2025 15:00:00 +0000</pubDate>
+      <title>ドメイン分離でユースケースの不安定度(Instability)を下げた話</title>
+      <link>https://www.m3tech.blog/entry/domain-and-instability</link>
+      <guid isPermaLink="true">https://www.m3tech.blog/entry/domain-and-instability</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/15adb3dd20bf7af02f091062f263e00e6d45d88c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20250817%2F20250817100013.png" length="None" type="image/png"/>
+      <pubDate>Sun, 17 Aug 2025 01:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>「具体と抽象」を通して振り返るWACATE参加よもやま話</title>
-      <link>https://tech.unifa-e.com/entry/2025/08/15/070000</link>
-      <guid isPermaLink="true">https://tech.unifa-e.com/entry/2025/08/15/070000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/fb30caaaa7a34196d72f848c3b7b2dbdf8272233/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fu%2Funifa_tech%2F20250813%2F20250813093558.png" length="None" type="image/png"/>
-      <pubDate>Thu, 14 Aug 2025 22:00:00 +0000</pubDate>
+      <title>GitHub Rate Limitを考慮した Backstage の設定（詳細編）</title>
+      <link>https://techblog.ap-com.co.jp/entry/2025/08/17/121314</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/08/17/121314</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/94cd30bfd94432d57a10ca6492e273dbd29a8d3c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Fturtle2005%2F20230303%2F20230303210336.png" length="None" type="image/png"/>
+      <pubDate>Sun, 17 Aug 2025 03:13:14 +0000</pubDate>
     </item>
     <item>
-      <title>チーム・職能の垣根を超える！サイボウズ社内テックカンファレンス「開運夏まつり2025」開催報告</title>
-      <link>https://blog.cybozu.io/entry/2025/08/15/080000</link>
-      <guid isPermaLink="true">https://blog.cybozu.io/entry/2025/08/15/080000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8e0ad099597ca238aaaabfd9a4bb6e70f2f9b04f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyellow-sabotech%2F20250807%2F20250807074936.png" length="None" type="image/png"/>
-      <pubDate>Thu, 14 Aug 2025 23:00:00 +0000</pubDate>
+      <title>MCPサーバー「Serena」を触ってみた</title>
+      <link>https://blog.nextscape.net/archives/2025/08/17/204234</link>
+      <guid isPermaLink="true">https://blog.nextscape.net/archives/2025/08/17/204234</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/df6d186bd749f0b6afd56bab86fceb4589337702/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F158346556%2F1633330490515050" length="None" type="image/jpeg"/>
+      <pubDate>Sun, 17 Aug 2025 11:42:34 +0000</pubDate>
     </item>
     <item>
       <title>第3回「LegalOn」誕生の裏側：1年で約300機能を追加！リリースから1年半の振り返りと、今後の展望</title>

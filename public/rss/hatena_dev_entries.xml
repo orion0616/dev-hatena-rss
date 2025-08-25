@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 24 Aug 2025 03:24:42 +0000</lastBuildDate>
-    <item>
-      <title>90本の cron バッチを⼀括移行！EventBridge Scheduler + Run Command + EC2 実践ガイド</title>
-      <link>https://www.g-a-t.co.jp/blog/entry/aws-batch-eventbridge-runcommand-ec2</link>
-      <guid isPermaLink="true">https://www.g-a-t.co.jp/blog/entry/aws-batch-eventbridge-runcommand-ec2</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/175f8fb1f3123645662cb1ee1f8d5e74ec43cb97/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgat_tech_blog%2F20250822%2F20250822141812.png" length="None" type="image/png"/>
-      <pubDate>Fri, 22 Aug 2025 03:37:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>PRレビュー自動化から始まった！私たちのチームのAI駆動開発の取り組み紹介</title>
-      <link>https://tech-blog.rakus.co.jp/entry/20250822/prreview</link>
-      <guid isPermaLink="true">https://tech-blog.rakus.co.jp/entry/20250822/prreview</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/a6094e63e3591e1afce7070309d2862bd72e04fe/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20250822%2F20250822115806.png" length="None" type="image/png"/>
-      <pubDate>Fri, 22 Aug 2025 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Aug 2025 03:22:29 +0000</lastBuildDate>
     <item>
       <title>将来を見据えて管理画面のフロントエンドをガッと改善している</title>
       <link>https://blog.smartbank.co.jp/entry/2025/08/22/130000</link>
@@ -211,6 +197,19 @@
       <guid isPermaLink="true">https://tech.akariinc.co.jp/entry/2025/08/23/234258</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/60d3d009083d3a4a1dd5b01473c03fa63c38de12/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Fakariinc%2F20250823%2F20250823160619.png" length="None" type="image/png"/>
       <pubDate>Sat, 23 Aug 2025 14:42:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>【AWS】Amazon EKS Add-onをインストールするNamespaceが指定可能になりました</title>
+      <link>https://techblog.ap-com.co.jp/entry/2025/08/24/113358</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/08/24/113358</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/9c9748f45a8a890469acee440ed60223492fc37c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsk07103%2F20240202%2F20240202200547.png" length="None" type="image/png"/>
+      <pubDate>Sun, 24 Aug 2025 02:33:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Customers Mail Cloud用のPHPライブラリでメール送信を行う</title>
+      <link>https://blog.smtps.jp/entry/2025/08/24/175239</link>
+      <guid isPermaLink="true">https://blog.smtps.jp/entry/2025/08/24/175239</guid>
+      <pubDate>Sun, 24 Aug 2025 08:52:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

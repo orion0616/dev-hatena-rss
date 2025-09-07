@@ -7,27 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 06 Sep 2025 03:09:49 +0000</lastBuildDate>
-    <item>
-      <title>Amazon Lex V2とKnowledge Baseを連携した予約ボットの構築</title>
-      <link>https://blog.serverworks.co.jp/2025/09/05/114353</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/2025/09/05/114353</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 05 Sep 2025 02:43:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>【社内勉強会レポート】知識ゼロから始めたRust勉強会の記録</title>
-      <link>https://tech-book.precena.co.jp/entry/rust-study-group-report</link>
-      <guid isPermaLink="true">https://tech-book.precena.co.jp/entry/rust-study-group-report</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/cd21ac7a7fba0d4ebc4cf5aba9db2a29ab161f77/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fp%2Fprecena_engineer%2F20250822%2F20250822130622.png" length="None" type="image/png"/>
-      <pubDate>Fri, 05 Sep 2025 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>YAPC::Fukuoka 2025で発表いただく4人目のゲストをご紹介します！</title>
-      <link>https://blog.yapcjapan.org/entry/2025/09/05/120000</link>
-      <guid isPermaLink="true">https://blog.yapcjapan.org/entry/2025/09/05/120000</guid>
-      <pubDate>Fri, 05 Sep 2025 03:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 Sep 2025 03:15:15 +0000</lastBuildDate>
     <item>
       <title>iOSDC Japan 2025にエンジニアが2名登壇&amp;スポンサーブース出展もします！</title>
       <link>https://inside.pixiv.blog/2025/09/12/120000</link>
@@ -207,6 +187,24 @@
       <link>https://blog.generative-agents.co.jp/entry/2025/09/05/191026</link>
       <guid isPermaLink="true">https://blog.generative-agents.co.jp/entry/2025/09/05/191026</guid>
       <pubDate>Fri, 05 Sep 2025 10:10:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Spec Kit】超簡単にスペック駆動開発を実践しよう！</title>
+      <link>https://aadojo.alterbooth.com/entry/2025/09/06/020000</link>
+      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2025/09/06/020000</guid>
+      <pubDate>Fri, 05 Sep 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIコードレビューがチームの"文脈"を読めるようになるまで 〜 レビューの暗黙知を継承する育成コマンド 〜</title>
+      <link>https://www.m3tech.blog/entry/2025/09/06/110000</link>
+      <guid isPermaLink="true">https://www.m3tech.blog/entry/2025/09/06/110000</guid>
+      <pubDate>Sat, 06 Sep 2025 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Copilot Coding AgentでAGENTS.mdが利用できるようになりました</title>
+      <link>https://aadojo.alterbooth.com/entry/2025/09/06/131024</link>
+      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2025/09/06/131024</guid>
+      <pubDate>Sat, 06 Sep 2025 04:10:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

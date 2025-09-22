@@ -7,27 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Sep 2025 03:17:55 +0000</lastBuildDate>
-    <item>
-      <title>DroidKaigi2025に参加しました🤖</title>
-      <link>https://tech.stmn.co.jp/entry/2025/09/19/113202</link>
-      <guid isPermaLink="true">https://tech.stmn.co.jp/entry/2025/09/19/113202</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/294e096f2cc19fa3014cdfd30fb5e1e01a78400e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fksuzuki13%2F20250918%2F20250918174819.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 19 Sep 2025 02:32:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>【AI for Science試行録】第5回 Biomniソースコード検証 Part3</title>
-      <link>https://blog.science-aid.com/entry/2025/09/19/114920</link>
-      <guid isPermaLink="true">https://blog.science-aid.com/entry/2025/09/19/114920</guid>
-      <pubDate>Fri, 19 Sep 2025 02:49:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>新型午睡センサーの出荷検査の方法を改善したお話</title>
-      <link>https://tech.unifa-e.com/entry/2025/09/19/120000</link>
-      <guid isPermaLink="true">https://tech.unifa-e.com/entry/2025/09/19/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/4d5dd6301f06abe61bd2ec56b4c5063343aac33d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fu%2Funifa_tech%2F20250916%2F20250916113318.png" length="None" type="image/png"/>
-      <pubDate>Fri, 19 Sep 2025 03:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Sep 2025 03:17:39 +0000</lastBuildDate>
     <item>
       <title>Claude Code GitHub Actionsを用いてエラーの初期分析効率化を目指す</title>
       <link>https://tech.enechange.co.jp/entry/2025/09/19/120000</link>
@@ -209,6 +189,26 @@
       <guid isPermaLink="true">https://www.m3tech.blog/entry/2025/09/20/170000</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/064b0c5edffe65078e58b3ed530e68527198d29e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20250920%2F20250920170010.png" length="None" type="image/png"/>
       <pubDate>Sat, 20 Sep 2025 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>iOSDC Japan 2025 アンドパッドSwiftクイズ解説 - Day1 午後</title>
+      <link>https://tech.andpad.co.jp/entry/2025/09/21/095019</link>
+      <guid isPermaLink="true">https://tech.andpad.co.jp/entry/2025/09/21/095019</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/df9fd9c9f26cd455735dec75e499706403980a0d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsezemi%2F20250921%2F20250921094724.png" length="None" type="image/png"/>
+      <pubDate>Sun, 21 Sep 2025 00:50:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>iOSDC Japan 2025 アンドパッドSwiftクイズ解説 - Day1 午前</title>
+      <link>https://tech.andpad.co.jp/entry/2025/09/21/130000</link>
+      <guid isPermaLink="true">https://tech.andpad.co.jp/entry/2025/09/21/130000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/0695e8ce4563efca93ec6a78577d87942d3a1e35/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsezemi%2F20250920%2F20250920130741.png" length="None" type="image/png"/>
+      <pubDate>Sun, 21 Sep 2025 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>極力負担が少ない形で本番データの正当性を担保する仕組みを導入した話</title>
+      <link>https://www.m3tech.blog/entry/2025/09/21/170000</link>
+      <guid isPermaLink="true">https://www.m3tech.blog/entry/2025/09/21/170000</guid>
+      <pubDate>Sun, 21 Sep 2025 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

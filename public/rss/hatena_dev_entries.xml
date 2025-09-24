@@ -7,47 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 23 Sep 2025 03:12:39 +0000</lastBuildDate>
-    <item>
-      <title>依頼仕事業務をボードゲームなど他の視点で紐解いてみる</title>
-      <link>https://www.m3tech.blog/entry/2025/09/22/100000</link>
-      <guid isPermaLink="true">https://www.m3tech.blog/entry/2025/09/22/100000</guid>
-      <pubDate>Mon, 22 Sep 2025 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>スタディプラスはKaigi on Rails 2025にシルバースポンサーとして協賛します</title>
-      <link>https://tech.studyplus.co.jp/entry/2025/09/22/100000</link>
-      <guid isPermaLink="true">https://tech.studyplus.co.jp/entry/2025/09/22/100000</guid>
-      <pubDate>Mon, 22 Sep 2025 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Logic AppsとFunctionsでリソースグループ別コストTop10をメールで配信する方法</title>
-      <link>https://blog.jbs.co.jp/entry/2025/09/22/103401</link>
-      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2025/09/22/103401</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8777409da98b846675af524eb6db64d13283855f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjbs_ksatta%2F20250819%2F20250819105117.png" length="None" type="image/png"/>
-      <pubDate>Mon, 22 Sep 2025 01:34:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meet UB Tech #60「開発から実際の運用まで5ヶ月！社内人事システムwinwinの開発の裏側に迫る」を公開しました</title>
-      <link>https://tech.uzabase.com/entry/2025/09/22/103728</link>
-      <guid isPermaLink="true">https://tech.uzabase.com/entry/2025/09/22/103728</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/da64be77e5a88e623af07acb6a4449e191d89b42/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkdokm%2F20250918%2F20250918154940.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Mon, 22 Sep 2025 01:37:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>属人化からチームの共有知へ ~LayerXモバイルチームの「Claude Code Subagents祭」開催レポート~</title>
-      <link>https://tech.layerx.co.jp/entry/2025/09/22/105439</link>
-      <guid isPermaLink="true">https://tech.layerx.co.jp/entry/2025/09/22/105439</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/afaf5c3aded4b6a5cd6a42e1789e5d386eae0469/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyukisakai1225%2F20250918%2F20250918152658.png" length="None" type="image/png"/>
-      <pubDate>Mon, 22 Sep 2025 01:54:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHubのSpec Kitで仕様駆動開発を試す</title>
-      <link>https://blog.nextscape.net/archives/2025/09/22/105552</link>
-      <guid isPermaLink="true">https://blog.nextscape.net/archives/2025/09/22/105552</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/df6d186bd749f0b6afd56bab86fceb4589337702/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F158346556%2F1633330490515050" length="None" type="image/jpeg"/>
-      <pubDate>Mon, 22 Sep 2025 01:55:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Sep 2025 03:13:24 +0000</lastBuildDate>
     <item>
       <title>スクラムガイドを読む前に知っておきたい基本の考え方</title>
       <link>https://kakehashi-dev.hatenablog.com/entry/2025/09/22/110000</link>
@@ -204,6 +164,47 @@
       <link>https://blog.yapcjapan.org/entry/2025/09/22/210000</link>
       <guid isPermaLink="true">https://blog.yapcjapan.org/entry/2025/09/22/210000</guid>
       <pubDate>Mon, 22 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI明細仕訳機能におけるCodeAgentを用いたデータセット作成</title>
+      <link>https://tech.layerx.co.jp/entry/2025/09/23/081316</link>
+      <guid isPermaLink="true">https://tech.layerx.co.jp/entry/2025/09/23/081316</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/c7d39165359ddf8d5bf5262927e1e1187bdb8723/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshimacos%2F20250922%2F20250922232832.png" length="None" type="image/png"/>
+      <pubDate>Mon, 22 Sep 2025 23:13:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Goの†黒魔術†に対する防衛術 ～Defence Against the Go's dark Arts～</title>
+      <link>https://tech.andpad.co.jp/entry/2025/09/23/100000</link>
+      <guid isPermaLink="true">https://tech.andpad.co.jp/entry/2025/09/23/100000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/c10c78fff4d625b4337a0db04da6bb06f003f0d9/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fi%2Fit_andpad%2F20250922%2F20250922141719.png" length="None" type="image/png"/>
+      <pubDate>Tue, 23 Sep 2025 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>User-Agentだけに頼らないフロントエンドの端末判定の考え方</title>
+      <link>https://tech.every.tv/entry/2025/09/23/120000</link>
+      <guid isPermaLink="true">https://tech.every.tv/entry/2025/09/23/120000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d14f1862da9c8410c0a0d61b7dfbb6fe61bb0c48/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fchronoll%2F20250922%2F20250922163507.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Tue, 23 Sep 2025 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>大規模メンテナンスを振り返る  〜「やってよかった」準備集</title>
+      <link>https://www.m3tech.blog/entry/2025/09/23/150000</link>
+      <guid isPermaLink="true">https://www.m3tech.blog/entry/2025/09/23/150000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/4e8dd50ae26c5efd0ca91c734ef6e6cba2107aea/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20250923%2F20250923150006.png" length="None" type="image/png"/>
+      <pubDate>Tue, 23 Sep 2025 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ドメインモデリングでレースコンディションをコントロールする</title>
+      <link>https://digittle.hatenablog.com/entry/2025/09/23/161945</link>
+      <guid isPermaLink="true">https://digittle.hatenablog.com/entry/2025/09/23/161945</guid>
+      <pubDate>Tue, 23 Sep 2025 07:19:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>スクラムフェス三河2025へ参加しました</title>
+      <link>https://prd-blog.loglass.co.jp/entry/2025/09/23/213804</link>
+      <guid isPermaLink="true">https://prd-blog.loglass.co.jp/entry/2025/09/23/213804</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/ea231ef11cfccfde88efec6af24d741647f2f1b2/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fl%2Floglass_product_team%2F20250923%2F20250923213806.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Tue, 23 Sep 2025 12:38:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

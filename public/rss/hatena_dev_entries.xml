@@ -7,34 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 04 Oct 2025 03:07:43 +0000</lastBuildDate>
-    <item>
-      <title>【Microsoft Entra ID】Entra Private Accessを検証してみた</title>
-      <link>https://blog.jbs.co.jp/entry/2025/10/03/125620</link>
-      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2025/10/03/125620</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/223b2d11e6dc7da0524c967d227e4b1aaf17920a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjbs_mlee%2F20250718%2F20250718154149.png" length="None" type="image/png"/>
-      <pubDate>Fri, 03 Oct 2025 03:56:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>プロンプトエンジニアリングの技法をまとめる</title>
-      <link>https://cloud.flect.co.jp/entry/2025/10/03/130000</link>
-      <guid isPermaLink="true">https://cloud.flect.co.jp/entry/2025/10/03/130000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/0d876c0f1d2d250ef9d5c674a699394487b5938a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fd%2Fdyamashita-flect%2F20251003%2F20251003095149.png" length="None" type="image/png"/>
-      <pubDate>Fri, 03 Oct 2025 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tech Leverages 技術活動レポート 25年2Q期号</title>
-      <link>https://tech.leverages.jp/entry/2025/10/03/133309</link>
-      <guid isPermaLink="true">https://tech.leverages.jp/entry/2025/10/03/133309</guid>
-      <pubDate>Fri, 03 Oct 2025 04:33:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>PMの役割をバイクで例えると「チェーン＆トランスミッション」だった話。</title>
-      <link>https://goodpatch-tech.hatenablog.com/entry/bike</link>
-      <guid isPermaLink="true">https://goodpatch-tech.hatenablog.com/entry/bike</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d4254203ebfd8512ea5d9b5cd339b7260aa9dd18/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgp_CHAKI%2F20251003%2F20251003122805.png" length="None" type="image/png"/>
-      <pubDate>Fri, 03 Oct 2025 05:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Oct 2025 03:17:01 +0000</lastBuildDate>
     <item>
       <title>Amazon Aurora MySQL クロスリージョンレプリカの作成方法と注意点</title>
       <link>https://blog.serverworks.co.jp/aurora-cross-region-replica</link>
@@ -209,6 +182,32 @@
       <guid isPermaLink="true">https://tech.akariinc.co.jp/entry/2025/10/03/190000</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/cc489fd95f542e6f9e39e58d02abf239c371f23d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Fakariinc%2F20251003%2F20251003164754.png" length="None" type="image/png"/>
       <pubDate>Fri, 03 Oct 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title> Knockin' On Heaven's Door</title>
+      <link>https://murata5011.hatenablog.com/entry/2025/10/04/093352</link>
+      <guid isPermaLink="true">https://murata5011.hatenablog.com/entry/2025/10/04/093352</guid>
+      <pubDate>Sat, 04 Oct 2025 00:33:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>builderscon 2025 Postmortem</title>
+      <link>https://blog.builderscon.io/entry/2025-postmortem</link>
+      <guid isPermaLink="true">https://blog.builderscon.io/entry/2025-postmortem</guid>
+      <pubDate>Sat, 04 Oct 2025 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【水戸】開発合宿振り返り（2025年2月）</title>
+      <link>https://techblog.weeybrid.co.jp/entry/workation-mito</link>
+      <guid isPermaLink="true">https://techblog.weeybrid.co.jp/entry/workation-mito</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/5ad3114f733e17b96737b79e03a3c9edc958ae04/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fw%2Fweeybrid%2F20251004%2F20251004154422.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 04 Oct 2025 06:52:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>【つくば】研究学園都市で開発合宿！ 地方創生 × テレワーク × 懇親会</title>
+      <link>https://techblog.weeybrid.co.jp/entry/workation-tsukuba</link>
+      <guid isPermaLink="true">https://techblog.weeybrid.co.jp/entry/workation-tsukuba</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/dd213690700f4f7edaf85c2d208213594b5b5291/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fw%2Fweeybrid%2F20251004%2F20251004155855.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 04 Oct 2025 07:29:38 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 Oct 2025 03:17:01 +0000</lastBuildDate>
-    <item>
-      <title>Amazon Aurora MySQL クロスリージョンレプリカの作成方法と注意点</title>
-      <link>https://blog.serverworks.co.jp/aurora-cross-region-replica</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/aurora-cross-region-replica</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d0f1894ed618719d020fedb1a0d029b4fb0d79d7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-masatoshi-yada%2F20251002%2F20251002111014.png" length="None" type="image/png"/>
-      <pubDate>Fri, 03 Oct 2025 05:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Oct 2025 03:15:33 +0000</lastBuildDate>
     <item>
       <title>DroidKaigi 2025に参加してきました！〜セッションレポート編〜</title>
       <link>https://tech.yappli.io/entry/droidkaigi-2025-session</link>
@@ -203,11 +196,17 @@
       <pubDate>Sat, 04 Oct 2025 06:52:32 +0000</pubDate>
     </item>
     <item>
+      <title>『豊稔池堰堤』と『見張塔からずっと』！！</title>
+      <link>https://murata5011.hatenablog.com/entry/2025/10/05/094751</link>
+      <guid isPermaLink="true">https://murata5011.hatenablog.com/entry/2025/10/05/094751</guid>
+      <pubDate>Sun, 05 Oct 2025 00:47:51 +0000</pubDate>
+    </item>
+    <item>
       <title>【つくば】研究学園都市で開発合宿！ 地方創生 × テレワーク × 懇親会</title>
       <link>https://techblog.weeybrid.co.jp/entry/workation-tsukuba</link>
       <guid isPermaLink="true">https://techblog.weeybrid.co.jp/entry/workation-tsukuba</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/dd213690700f4f7edaf85c2d208213594b5b5291/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fw%2Fweeybrid%2F20251004%2F20251004155855.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Sat, 04 Oct 2025 07:29:38 +0000</pubDate>
+      <pubDate>Sun, 05 Oct 2025 07:05:38 +0000</pubDate>
     </item>
   </channel>
 </rss>

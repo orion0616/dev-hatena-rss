@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Oct 2025 03:09:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 03:15:25 +0000</lastBuildDate>
     <item>
       <title>全社員向けAI導入と今後のデータ基盤</title>
       <link>https://blog.howtelevision.co.jp/entry/2025/10/10/100000</link>
@@ -189,25 +189,23 @@
       <pubDate>Fri, 10 Oct 2025 11:17:28 +0000</pubDate>
     </item>
     <item>
-      <title>AIのUXは『Guidelines for Human-AI-Interaction』に基づいて決めよう——ACES Meetの事例を添えて——</title>
-      <link>https://tech.acesinc.co.jp/entry/2025/10/10/070000</link>
-      <guid isPermaLink="true">https://tech.acesinc.co.jp/entry/2025/10/10/070000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/9a024cd424cc29b2e805becd362cb7e907d1a1de/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Fakuzeee%2F20251007%2F20251007163754.png" length="None" type="image/png"/>
-      <pubDate>Thu, 09 Oct 2025 22:00:00 +0000</pubDate>
+      <title>GitLab CI から GitHub Actions への移行でハマった N 個のこと</title>
+      <link>https://www.m3tech.blog/entry/gitlab-ci-migrate-to-github-workflows</link>
+      <guid isPermaLink="true">https://www.m3tech.blog/entry/gitlab-ci-migrate-to-github-workflows</guid>
+      <pubDate>Sat, 11 Oct 2025 01:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ライブラリのコードをレビューするときに考えていること</title>
-      <link>https://blog.cybozu.io/entry/2025/10/10/080000</link>
-      <guid isPermaLink="true">https://blog.cybozu.io/entry/2025/10/10/080000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/4669499dfe9c1fb5896c433a5039a4fbdeefa386/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcybozuinsideout%2F20251010%2F20251010080017.png" length="None" type="image/png"/>
-      <pubDate>Thu, 09 Oct 2025 23:00:00 +0000</pubDate>
+      <title>右手だけで、もう一度ハンドルを――片手運転サポート講習（100分）で取り戻す「自分の生活」</title>
+      <link>https://tokyodriving-support.hatenablog.com/entry/2025/10/11/112035</link>
+      <guid isPermaLink="true">https://tokyodriving-support.hatenablog.com/entry/2025/10/11/112035</guid>
+      <pubDate>Sat, 11 Oct 2025 02:20:35 +0000</pubDate>
     </item>
     <item>
-      <title>【図解あり】AWS Healthイベント通知をUser Notificationsで最適化する</title>
-      <link>https://techblog.forgevision.com/entry/user-notifications-health-events</link>
-      <guid isPermaLink="true">https://techblog.forgevision.com/entry/user-notifications-health-events</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/3d2376ae1d4153bf8e9228ff0f293f36ac1c1be6/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fh-fujikawa%2F20251009%2F20251009111736.png" length="None" type="image/png"/>
-      <pubDate>Thu, 09 Oct 2025 23:46:06 +0000</pubDate>
+      <title>イベントストーミングのポリシーはなぜ重要なのか？</title>
+      <link>https://digittle.hatenablog.com/entry/2025/10/11/153713</link>
+      <guid isPermaLink="true">https://digittle.hatenablog.com/entry/2025/10/11/153713</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/a0e15d9b8d182d6cd5ff5b739b4f98aba388ead0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fd%2Fdigittle%2F20251011%2F20251011142633.png" length="None" type="image/png"/>
+      <pubDate>Sat, 11 Oct 2025 06:37:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

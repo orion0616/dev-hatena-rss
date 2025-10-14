@@ -7,32 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 13 Oct 2025 03:19:39 +0000</lastBuildDate>
-    <item>
-      <title>2025年度情報セキュリティ部のインターンシップの様子を紹介します！</title>
-      <link>https://engineers.ntt.com/entry/202510-sop-internship/entry</link>
-      <guid isPermaLink="true">https://engineers.ntt.com/entry/202510-sop-internship/entry</guid>
-      <pubDate>Fri, 10 Oct 2025 01:09:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>ほどほどに使う生成 AI</title>
-      <link>https://www.m3tech.blog/entry/2025/10/10/101000</link>
-      <guid isPermaLink="true">https://www.m3tech.blog/entry/2025/10/10/101000</guid>
-      <pubDate>Fri, 10 Oct 2025 01:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>株式会社GoQSystemはPHPカンファレンス広島2025に協賛します</title>
-      <link>https://tech.goq.co.jp/entry/2025/10/10/103455</link>
-      <guid isPermaLink="true">https://tech.goq.co.jp/entry/2025/10/10/103455</guid>
-      <pubDate>Fri, 10 Oct 2025 01:34:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft FormsにアップロードされたファイルをSharePoint Listに添付する方法</title>
-      <link>https://blog.jbs.co.jp/entry/2025/10/10/103532</link>
-      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2025/10/10/103532</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d53b2cd64b6aa9771d74712d447be2ca1cb2c54b/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F158660714%2F1667527455467771" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 10 Oct 2025 01:35:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Oct 2025 03:15:06 +0000</lastBuildDate>
     <item>
       <title>【イベントレポート】「LINEヤフー × ZOZO コラボ Meetup ～データサイエンス～」を開催しました！</title>
       <link>https://techblog.zozo.com/entry/20250822-tech-meetup-data-science</link>
@@ -180,6 +155,32 @@
       <guid isPermaLink="true">https://tech.layerx.co.jp/entry/migrate-to-claude-agent-sdk</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/1ac8745e1ae897ab255872c6bdf10747ec804e60/height=144;version=1;width=224/https%3A%2F%2Fi.gyazo.com%2F55309f9015949c58ed16a6d5e2803020.png" length="None" type="image/png"/>
       <pubDate>Fri, 10 Oct 2025 11:17:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Strands Agentsを使って要件定義からテストまでの開発プロセスを生成AIに任せてみた</title>
+      <link>https://techblog.techfirm.co.jp/entry/aws-development-strands-agents</link>
+      <guid isPermaLink="true">https://techblog.techfirm.co.jp/entry/aws-development-strands-agents</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/35d6365ddcf5d20f83f820b98b3fbd84a2dbcaf3/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F158883635%2F1666791273156818" length="None" type="image/jpeg"/>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【写真で解説】アンドパッド新オフィス＋ANDPAD STADIUMへの行き方</title>
+      <link>https://tech.andpad.co.jp/entry/2025/10/13/100000</link>
+      <guid isPermaLink="true">https://tech.andpad.co.jp/entry/2025/10/13/100000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/5edd5ae42339cdef97cab00fea3818878446a7b8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsezemi%2F20251009%2F20251009174138.png" length="None" type="image/png"/>
+      <pubDate>Mon, 13 Oct 2025 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>YAPC::Fukuoka 2025 学生旅費支援の追加募集について</title>
+      <link>https://blog.yapcjapan.org/entry/2025/10/13/120000</link>
+      <guid isPermaLink="true">https://blog.yapcjapan.org/entry/2025/10/13/120000</guid>
+      <pubDate>Mon, 13 Oct 2025 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>良い音楽と夜間ドライブ！！</title>
+      <link>https://murata5011.hatenablog.com/entry/2025/10/13/135039</link>
+      <guid isPermaLink="true">https://murata5011.hatenablog.com/entry/2025/10/13/135039</guid>
+      <pubDate>Mon, 13 Oct 2025 04:50:39 +0000</pubDate>
     </item>
     <item>
       <title>GitLab CI から GitHub Actions への移行でハマった N 個のこと</title>

@@ -7,101 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Oct 2025 03:11:02 +0000</lastBuildDate>
-    <item>
-      <title>Kaigi on Rails 2025 に登壇しました &amp; CfP応募内容公開</title>
-      <link>https://developer.leaner.co.jp/entry/2025/10/17/104430</link>
-      <guid isPermaLink="true">https://developer.leaner.co.jp/entry/2025/10/17/104430</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/84eddb8bde654f7905e824b22f43feb3ee53a99d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkokuyou_leaner%2F20251015%2F20251015171729.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 17 Oct 2025 01:44:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>AS-Report 12をWebアプリに組み込みMicrosoft Azure App Service (Windows)にデプロイする</title>
-      <link>https://blog.adv.co.jp/entry/deploy-asreport12-azure-windows</link>
-      <guid isPermaLink="true">https://blog.adv.co.jp/entry/deploy-asreport12-azure-windows</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/7aee5e176bdef65fa8d3a1c09a3dbc92185cce4d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Fadvancesoftware%2F20251017%2F20251017104516.png" length="None" type="image/png"/>
-      <pubDate>Fri, 17 Oct 2025 01:46:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>輪読会に大切なこと</title>
-      <link>https://tech.goq.co.jp/entry/2025/10/17/105436</link>
-      <guid isPermaLink="true">https://tech.goq.co.jp/entry/2025/10/17/105436</guid>
-      <pubDate>Fri, 17 Oct 2025 01:54:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>最も価値のある仕事は、最も「泥臭い」。データサイエンティストが向き合うべきデータ整備のリアル</title>
-      <link>https://kakehashi-dev.hatenablog.com/entry/2025/10/17/110000</link>
-      <guid isPermaLink="true">https://kakehashi-dev.hatenablog.com/entry/2025/10/17/110000</guid>
-      <pubDate>Fri, 17 Oct 2025 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Codeのプラグイン機能で社内向けプラグインマーケットプレイスを作った</title>
-      <link>https://blog.colopl.dev/entry/2025/10/17/110000</link>
-      <guid isPermaLink="true">https://blog.colopl.dev/entry/2025/10/17/110000</guid>
-      <pubDate>Fri, 17 Oct 2025 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FigmaからFlutterへ ── デザイントークン自動変換とUIカタログで実装を加速</title>
-      <link>https://techblog.zozo.com/entry/zozomatch-design-token</link>
-      <guid isPermaLink="true">https://techblog.zozo.com/entry/zozomatch-design-token</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/f799d6aeb3de70ab4c0f09cb714c035b68d7069c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20251016%2F20251016120140.png" length="None" type="image/png"/>
-      <pubDate>Fri, 17 Oct 2025 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI検索で予約数2倍！美容サロンが実践した7つの集客革命</title>
-      <link>https://llmo-ai-knowledgeholdings.hatenablog.com/entry/2025/10/17/112339</link>
-      <guid isPermaLink="true">https://llmo-ai-knowledgeholdings.hatenablog.com/entry/2025/10/17/112339</guid>
-      <pubDate>Fri, 17 Oct 2025 02:23:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jetpack Composeでリスト内リストとそのアイテムにアニメーションを適用したい</title>
-      <link>https://blog.cybozu.io/entry/2025/10/17/113000</link>
-      <guid isPermaLink="true">https://blog.cybozu.io/entry/2025/10/17/113000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d3aaa468a31e15e118c8cb949d8458885fe1fd7d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcybozuinsideout%2F20251017%2F20251017113006.png" length="None" type="image/png"/>
-      <pubDate>Fri, 17 Oct 2025 02:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike コンテンツ更新ポリシーについて</title>
-      <link>https://blog.serverworks.co.jp/crowdstrike-content-update-policy</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/crowdstrike-content-update-policy</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/4197b7fbbcc4251aba76a057afa6e4ca3a31d5c2/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmiyazawa24%2F20250825%2F20250825143523.png" length="None" type="image/png"/>
-      <pubDate>Fri, 17 Oct 2025 02:48:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon Bedrock AgentCore で Lambda  でAIエージェントを開発してみた（MCPで内部連携あり）</title>
-      <link>https://acro-engineer.hatenablog.com/entry/2025/10/17/120000</link>
-      <guid isPermaLink="true">https://acro-engineer.hatenablog.com/entry/2025/10/17/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/0be9c98d0b230565750aa7e754f032d9f030bf2b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Facro-maruyama%2F20251017%2F20251017111216.png" length="None" type="image/png"/>
-      <pubDate>Fri, 17 Oct 2025 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AMPscriptを使って動的なメールを作成</title>
-      <link>https://tech-waves.hakuhodody-one.co.jp/entry/amp-script-dynamic-email</link>
-      <guid isPermaLink="true">https://tech-waves.hakuhodody-one.co.jp/entry/amp-script-dynamic-email</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/7676e02308026636cbb7b2f4c05cc89f59306623/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhakuhodody-one%2F20251017%2F20251017120013.png" length="None" type="image/png"/>
-      <pubDate>Fri, 17 Oct 2025 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>レガシーデータを安全にモダナイズする──ストラングラーフィグパターンとサーガパターンによる用語集管理システムのリアーキテクチャ</title>
-      <link>https://miraitranslate-tech.hatenablog.jp/entry/data-migration-with-strangler-fig-ang-saga-pattern</link>
-      <guid isPermaLink="true">https://miraitranslate-tech.hatenablog.jp/entry/data-migration-with-strangler-fig-ang-saga-pattern</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/53cbc9e154398dae12b0c7b20948aa99ba98326f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhorie-t-mirai%2F20251011%2F20251011215122.png" length="None" type="image/png"/>
-      <pubDate>Fri, 17 Oct 2025 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>実際の扉を開けるとバーチャル空間につながる先進MR技術を大阪・関西万博に4/23と9/19で展示</title>
-      <link>https://nttdocomo-developers.jp/entry/mr-banpaku</link>
-      <guid isPermaLink="true">https://nttdocomo-developers.jp/entry/mr-banpaku</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/3e293d577a32543bfe3362022b2d0d73518db2cc/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnttdocomord%2F20251017%2F20251017160005.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 17 Oct 2025 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>36期 秋組 修了式並びに37期 秋組 入校式</title>
-      <link>https://iitablog.lixil.co.jp/entry/2025/10/17/152540</link>
-      <guid isPermaLink="true">https://iitablog.lixil.co.jp/entry/2025/10/17/152540</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/709025cdb4793f6a060ce14ce3524a08e70c837d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsenmonkou%2F20251017%2F20251017143716.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 17 Oct 2025 06:25:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Oct 2025 03:22:51 +0000</lastBuildDate>
     <item>
       <title>Macユーザー必見。今日から始めるRaycast生活</title>
       <link>https://tech.youtrust.co.jp/entry/2025/10/17/162859</link>
@@ -208,6 +114,93 @@
       <link>https://tech.smarthr.jp/entry/2025/10/17/184444</link>
       <guid isPermaLink="true">https://tech.smarthr.jp/entry/2025/10/17/184444</guid>
       <pubDate>Fri, 17 Oct 2025 09:44:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>【FC第一期】東京品質のペーパードライバー指導を全国へ。東京ドライビングサポート、2025年11月よりフランチャイズ募集開始</title>
+      <link>https://tokyodriving-support.hatenablog.com/entry/2025/10/18/082456</link>
+      <guid isPermaLink="true">https://tokyodriving-support.hatenablog.com/entry/2025/10/18/082456</guid>
+      <pubDate>Fri, 17 Oct 2025 23:24:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>20年ぶりの運転再開をテスラで——納車前予行→納車当日→自宅駐車まで、東京ドライビングサポートの実体験レポート</title>
+      <link>https://tokyodriving-support.hatenablog.com/entry/2025/10/18/083245</link>
+      <guid isPermaLink="true">https://tokyodriving-support.hatenablog.com/entry/2025/10/18/083245</guid>
+      <pubDate>Fri, 17 Oct 2025 23:32:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>最後の一歩を“確信”に。〈自己判断コース〉で一人運転デビューへ——東京ドライビングサポート</title>
+      <link>https://tokyodriving-support.hatenablog.com/entry/2025/10/18/083521</link>
+      <guid isPermaLink="true">https://tokyodriving-support.hatenablog.com/entry/2025/10/18/083521</guid>
+      <pubDate>Fri, 17 Oct 2025 23:35:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>都市部の「運転ブランク」に挑む。ペーパードライバー講習は社会的インフラだ——東京ドライビングサポートの取材・コラボご案内</title>
+      <link>https://tokyodriving-support.hatenablog.com/entry/2025/10/18/083726</link>
+      <guid isPermaLink="true">https://tokyodriving-support.hatenablog.com/entry/2025/10/18/083726</guid>
+      <pubDate>Fri, 17 Oct 2025 23:37:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>口コミで満席続出。初回お試し90分が選ばれる理由と、最短で効果が出る受け方</title>
+      <link>https://tokyodriving-support.hatenablog.com/entry/2025/10/18/083954</link>
+      <guid isPermaLink="true">https://tokyodriving-support.hatenablog.com/entry/2025/10/18/083954</guid>
+      <pubDate>Fri, 17 Oct 2025 23:39:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>副業・転職の新定番「ペーパードライバーインストラクター」｜収入・やりがい・始め方ぜんぶ解説</title>
+      <link>https://tokyodriving-support.hatenablog.com/entry/2025/10/18/084300</link>
+      <guid isPermaLink="true">https://tokyodriving-support.hatenablog.com/entry/2025/10/18/084300</guid>
+      <pubDate>Fri, 17 Oct 2025 23:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>石垣島で“慌てない運転”を身につける｜旅行者・移住予定者のための特別ペーパードライバー講習</title>
+      <link>https://tokyodriving-support.hatenablog.com/entry/2025/10/18/084556</link>
+      <guid isPermaLink="true">https://tokyodriving-support.hatenablog.com/entry/2025/10/18/084556</guid>
+      <pubDate>Fri, 17 Oct 2025 23:45:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>沖縄ドライブを“安心”に変える準備術｜ペーパードライバー＆初心者向けガイド【東京で予習→現地で実践】</title>
+      <link>https://tokyodriving-support.hatenablog.com/entry/2025/10/18/084802</link>
+      <guid isPermaLink="true">https://tokyodriving-support.hatenablog.com/entry/2025/10/18/084802</guid>
+      <pubDate>Fri, 17 Oct 2025 23:48:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>「見えているのに見えていない危険」を減らす｜ペーパードライバーのための危険予測トレーニングとASV活用ガイド【東京ドライビングサポート】</title>
+      <link>https://tokyodriving-support.hatenablog.com/entry/2025/10/18/085026</link>
+      <guid isPermaLink="true">https://tokyodriving-support.hatenablog.com/entry/2025/10/18/085026</guid>
+      <pubDate>Fri, 17 Oct 2025 23:50:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>【体験談】ペーパードライバー歴9年の30代会社員が“出張型講習”で運転再開できるまで｜東京ドライビングサポート</title>
+      <link>https://tokyodriving-support.hatenablog.com/entry/2025/10/18/085315</link>
+      <guid isPermaLink="true">https://tokyodriving-support.hatenablog.com/entry/2025/10/18/085315</guid>
+      <pubDate>Fri, 17 Oct 2025 23:53:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>『Musubi AI 在庫管理開発チームの品質向上ハンドブック』の PDF版を公開します</title>
+      <link>https://kakehashi-dev.hatenablog.com/entry/2025/10/18/110000</link>
+      <guid isPermaLink="true">https://kakehashi-dev.hatenablog.com/entry/2025/10/18/110000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/1d4dc3debfc372d556ad0c6d7689405130a31bab/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkakehashi_dev%2F20251016%2F20251016140719.png" length="None" type="image/png"/>
+      <pubDate>Sat, 18 Oct 2025 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ご家庭で実践できる、ドリップバッグコーヒー「カケハシブレンド」の美味しい淹れ方</title>
+      <link>https://kakehashi-dev.hatenablog.com/entry/drip-bag-coffee</link>
+      <guid isPermaLink="true">https://kakehashi-dev.hatenablog.com/entry/drip-bag-coffee</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/16b3e4a3b9b504e446129b9f536533453ea0e292/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkakehashi_dev%2F20251017%2F20251017213515.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 18 Oct 2025 02:35:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>『製袋機以外の話題』でBeatles『Anthology』シリーズを語る～Anthology4発売記念</title>
+      <link>https://murata5011.hatenablog.com/entry/2025/10/18/143844</link>
+      <guid isPermaLink="true">https://murata5011.hatenablog.com/entry/2025/10/18/143844</guid>
+      <pubDate>Sat, 18 Oct 2025 05:38:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>【登壇全文レポート】HonoConf 2025 にゴールドスポンサー協賛 &amp; LT登壇!!</title>
+      <link>https://techblog.cartaholdings.co.jp/entry/hono-conf-2025-report</link>
+      <guid isPermaLink="true">https://techblog.cartaholdings.co.jp/entry/hono-conf-2025-report</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/656d2f2d1a0aa47ce74160100fdb8af76cf5ea73/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcarta_engineers%2F20251018%2F20251018173748.png" length="None" type="image/png"/>
+      <pubDate>Sat, 18 Oct 2025 08:39:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

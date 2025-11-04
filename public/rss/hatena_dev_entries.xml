@@ -7,39 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 03 Nov 2025 03:24:39 +0000</lastBuildDate>
-    <item>
-      <title>『ハロウィン動画』と『業務改善活動（通称ガサイレ）』！！</title>
-      <link>https://murata5011.hatenablog.com/entry/2025/10/31/133001</link>
-      <guid isPermaLink="true">https://murata5011.hatenablog.com/entry/2025/10/31/133001</guid>
-      <pubDate>Fri, 31 Oct 2025 04:30:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>世界モデルを活用してVLAのデータ収集の手間を減らそう</title>
-      <link>https://tech.akariinc.co.jp/entry/2025/10/31/133230</link>
-      <guid isPermaLink="true">https://tech.akariinc.co.jp/entry/2025/10/31/133230</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e222b25f196341521599cd4fc5d6dae98eed5c9e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fo%2Foucyz%2F20251030%2F20251030125717.png" length="None" type="image/png"/>
-      <pubDate>Fri, 31 Oct 2025 04:32:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>エキサイト就業型インターンBooost!!!を通して</title>
-      <link>https://tech.excite.co.jp/entry/2025/10/31/134050</link>
-      <guid isPermaLink="true">https://tech.excite.co.jp/entry/2025/10/31/134050</guid>
-      <pubDate>Fri, 31 Oct 2025 04:40:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>エキサイト就業型インターン「Booost!!!」を通じて学んだこと</title>
-      <link>https://tech.excite.co.jp/entry/2025/10/31/134233</link>
-      <guid isPermaLink="true">https://tech.excite.co.jp/entry/2025/10/31/134233</guid>
-      <pubDate>Fri, 31 Oct 2025 04:42:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>『AI Agentのビジネス価値を計るバックテスト基盤の構築』を支えるSnowflake上での任意時点のスナップショット取得を実現するデータパイプライン</title>
-      <link>https://tech.layerx.co.jp/entry/snowflake-user-defined-timetravel-udtf-with-cdc-pipeline</link>
-      <guid isPermaLink="true">https://tech.layerx.co.jp/entry/snowflake-user-defined-timetravel-udtf-with-cdc-pipeline</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/9dc2a57d664e3649e2ce9da29151b6effbe0769e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcivitaspo%2F20251031%2F20251031144115.png" length="None" type="image/png"/>
-      <pubDate>Fri, 31 Oct 2025 05:43:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Nov 2025 03:19:55 +0000</lastBuildDate>
     <item>
       <title>エキサイト就業型インターンBooost!!!を通じて実業務開発について学んだ！！！</title>
       <link>https://tech.excite.co.jp/entry/2025/10/31/150000</link>
@@ -200,10 +168,43 @@
       <pubDate>Fri, 31 Oct 2025 23:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Aurora DBクラスタのバージョンロールバック手順</title>
+      <link>https://techblog.techfirm.co.jp/entry/aurora-database-rollback-from-backup</link>
+      <guid isPermaLink="true">https://techblog.techfirm.co.jp/entry/aurora-database-rollback-from-backup</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/35d6365ddcf5d20f83f820b98b3fbd84a2dbcaf3/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F158883635%2F1666791273156818" length="None" type="image/jpeg"/>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【GitHub Universe 2025 レポート】Self-hosted RunnerをサポートしたCopilot coding agentを試す（注意点あり）</title>
+      <link>https://aadojo.alterbooth.com/entry/2025/11/03/111145</link>
+      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2025/11/03/111145</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/275f464f75e3ec392e45b228680970735a70b97a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-tsubaki%2F20251103%2F20251103111730.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Mon, 03 Nov 2025 02:11:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>『Ramble』by Link Wray</title>
+      <link>https://murata5011.hatenablog.com/entry/2025/11/03/184731</link>
+      <guid isPermaLink="true">https://murata5011.hatenablog.com/entry/2025/11/03/184731</guid>
+      <pubDate>Mon, 03 Nov 2025 09:47:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>CTO Night &amp; Day 2025 参加してきました</title>
+      <link>https://techblog.zest.jp/entry/2025/11/03/213834</link>
+      <guid isPermaLink="true">https://techblog.zest.jp/entry/2025/11/03/213834</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/71afa61f8b46b174b91a7afec3fb071b6d95a628/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fz%2Fzest-tech%2F20251103%2F20251103203628.png" length="None" type="image/png"/>
+      <pubDate>Mon, 03 Nov 2025 12:38:34 +0000</pubDate>
+    </item>
+    <item>
       <title>【初心者向け】初めての StackSets</title>
       <link>https://blog.serverworks.co.jp/2025/11/02/142313</link>
       <guid isPermaLink="true">https://blog.serverworks.co.jp/2025/11/02/142313</guid>
       <pubDate>Sun, 02 Nov 2025 05:23:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>だからパティ・スミスなんだよ！！！！</title>
+      <link>https://murata5011.hatenablog.com/entry/2025/11/02/231300</link>
+      <guid isPermaLink="true">https://murata5011.hatenablog.com/entry/2025/11/02/231300</guid>
+      <pubDate>Sun, 02 Nov 2025 14:13:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

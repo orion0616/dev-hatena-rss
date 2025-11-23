@@ -7,62 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Nov 2025 03:17:29 +0000</lastBuildDate>
-    <item>
-      <title>クロスプラットフォームアプリ開発の新星「Swift SDK for Android」試してみた</title>
-      <link>https://techblog.spiderplus.co.jp/entry/2025/11/21/123000</link>
-      <guid isPermaLink="true">https://techblog.spiderplus.co.jp/entry/2025/11/21/123000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6ca7c34d0d26cf56051a4f5920e1fd425035945b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fspiderplus%2F20251120%2F20251120172604.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 21 Nov 2025 03:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ALB の JWT 検証機能でマルチテナント SaaS のテナントルーティングを実装してみた</title>
-      <link>https://blog.serverworks.co.jp/alb-jwt-tenant-routing</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/alb-jwt-tenant-routing</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/fa8906938cd2ec7a3a6bb822c2e59063776a697c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-satoshi-moriyama%2F20251120%2F20251120185146.png" length="None" type="image/png"/>
-      <pubDate>Fri, 21 Nov 2025 03:48:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS CLI の新機能 aws login を DevContainer で試してみた</title>
-      <link>https://blog.serverworks.co.jp/aws_login_devcontainer</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/aws_login_devcontainer</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/5306395494f61c3c8856341f1027cc62fdfda651/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-satoshi-moriyama%2F20251121%2F20251121054600.png" length="None" type="image/png"/>
-      <pubDate>Fri, 21 Nov 2025 03:49:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIエージェントだけにコードを書かせたら、エンジニアの未来が見えた</title>
-      <link>https://buildersbox.corp-sansan.com/entry/2025/11/21/130000</link>
-      <guid isPermaLink="true">https://buildersbox.corp-sansan.com/entry/2025/11/21/130000</guid>
-      <pubDate>Fri, 21 Nov 2025 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【イベントレポート】PHPカンファレンス福岡に登壇しました！</title>
-      <link>https://tech.codmon.com/entry/2025/11/21/130117</link>
-      <guid isPermaLink="true">https://tech.codmon.com/entry/2025/11/21/130117</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/2f70da28a3d97f1d4534a275e605710b08322219/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcodmon_sekineko%2F20251117%2F20251117224424.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 21 Nov 2025 04:01:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>社内勉強会から始まった私のFE合格奮闘記</title>
-      <link>https://tech.briswell.com/entry/2025/11/21/131609</link>
-      <guid isPermaLink="true">https://tech.briswell.com/entry/2025/11/21/131609</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d97fd1613f93fafa73afa9f34202063b1aa32d85/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Fri_86%2F20251120%2F20251120121339.png" length="None" type="image/png"/>
-      <pubDate>Fri, 21 Nov 2025 04:16:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Spec Kitで始める「仕様駆動開発（Spec-Driven Development）」</title>
-      <link>https://blog.serverworks.co.jp/github-spec-kit-guide</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/github-spec-kit-guide</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/2e2aefee6644653177fa4b4dbe2340124255c969/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-hariu%2F20251121%2F20251121134634.png" length="None" type="image/png"/>
-      <pubDate>Fri, 21 Nov 2025 04:36:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft Ignite 2025】Day3 レポート</title>
-      <link>https://aadojo.alterbooth.com/entry/2025/11/21/134714</link>
-      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2025/11/21/134714</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/c9b6d365580db857a79375cdf14db8743959162f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftwinparadox5820%2F20251121%2F20251121102822.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 21 Nov 2025 04:47:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Nov 2025 03:29:11 +0000</lastBuildDate>
     <item>
       <title>#技術書典 19 オフライン参加レポート</title>
       <link>https://toranoana-lab.hatenablog.com/entry/2025/11/21/120000</link>
@@ -129,6 +74,13 @@
       <guid isPermaLink="true">https://buildersbox.corp-sansan.com/entry/2025/11/21/163000</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/38529890e0f3bd385d460615d3ab0c62d4465c16/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcozy-corner%2F20251118%2F20251118133146.jpg" length="None" type="image/jpeg"/>
       <pubDate>Fri, 21 Nov 2025 07:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Ignite 2025速報：Day3</title>
+      <link>https://blogs.networld.co.jp/entry/2025/11/21/163034</link>
+      <guid isPermaLink="true">https://blogs.networld.co.jp/entry/2025/11/21/163034</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/a5930381dad82dc27e93c1bfa7b72924ba97f3f1/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnetworld-blog%2F20251121%2F20251121163035.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Fri, 21 Nov 2025 07:30:34 +0000</pubDate>
     </item>
     <item>
       <title>秋の28卒向けエンジニアインターン開催致しました！</title>
@@ -209,6 +161,54 @@
       <link>https://tech.legalscape.co.jp/entry/reinforcement-learning-in-15-mins</link>
       <guid isPermaLink="true">https://tech.legalscape.co.jp/entry/reinforcement-learning-in-15-mins</guid>
       <pubDate>Fri, 21 Nov 2025 13:34:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>MS Ignite 2025 Day 3 - セキュリティとモダナイゼーションの実践</title>
+      <link>https://aadojo.alterbooth.com/entry/2025/11/22/015557</link>
+      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2025/11/22/015557</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/b7e96bd2a5b77f87d9e117114221c7c8db80893d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhawa9%2F20251122%2F20251122015053.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Fri, 21 Nov 2025 16:55:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft Ignite 2025】Day 4：AIは魔法じゃないと再確認したの巻</title>
+      <link>https://aadojo.alterbooth.com/entry/2025/11/22/074748</link>
+      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2025/11/22/074748</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/67f2db52b11072c7d4a389788d5cc64f4c202c28/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmsys75%2F20251122%2F20251122072241.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Fri, 21 Nov 2025 22:47:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft Ignite 2025】Day4 レポート</title>
+      <link>https://aadojo.alterbooth.com/entry/2025/11/22/075451</link>
+      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2025/11/22/075451</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/047b7eaa5c277b119a5b2a1edbb2dd5c24911fb5/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftwinparadox5820%2F20251122%2F20251122044921.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Fri, 21 Nov 2025 22:54:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>TSKaigi Hokuriku 2025 に込めた想い</title>
+      <link>https://tskaigi.hatenablog.com/entry/2025/11/22/134707</link>
+      <guid isPermaLink="true">https://tskaigi.hatenablog.com/entry/2025/11/22/134707</guid>
+      <pubDate>Sat, 22 Nov 2025 04:47:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Ignite2025 参加レポート DAY4 とまとめ</title>
+      <link>https://techblog.ap-com.co.jp/entry/2025/11/22/161317</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/11/22/161317</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/938434e07842a15c2d68a4031c1d0c04035428f7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkazu_ida%2F20251118%2F20251118144221.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 22 Nov 2025 07:13:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>『全国若手ものづくりシンポジウムin八王子』と『到達所要時間の可視化』</title>
+      <link>https://murata5011.hatenablog.com/entry/2025/11/22/182307</link>
+      <guid isPermaLink="true">https://murata5011.hatenablog.com/entry/2025/11/22/182307</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/0b5eca5255d09f6e7c8f12ac5156e436ac1360fb/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmurata5011%2F20251122%2F20251122175828.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 22 Nov 2025 09:23:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Ignite 2025速報：Day4</title>
+      <link>https://blogs.networld.co.jp/entry/2025/11/22/233041</link>
+      <guid isPermaLink="true">https://blogs.networld.co.jp/entry/2025/11/22/233041</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8bd330e893964665c9e40d70b4de9b2abef7b959/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnetworld-blog%2F20251122%2F20251122233041.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 22 Nov 2025 14:30:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

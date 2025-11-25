@@ -7,53 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Nov 2025 03:28:53 +0000</lastBuildDate>
-    <item>
-      <title>Webエンジニアなら知っておきたいRAG</title>
-      <link>https://engineers.fenrir-inc.com/entry/2025/11/21/141047</link>
-      <guid isPermaLink="true">https://engineers.fenrir-inc.com/entry/2025/11/21/141047</guid>
-      <pubDate>Fri, 21 Nov 2025 05:10:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>毎週大量のプルリクエストを捌く！Next.js App Router時代のスケーラブルなフロントエンドアーキテクチャ設計</title>
-      <link>https://developers.gnavi.co.jp/entry/scalable-frontend/</link>
-      <guid isPermaLink="true">https://developers.gnavi.co.jp/entry/scalable-frontend/</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/62b939e448268b72665fa805b6b6bf935b65f472/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgnavi_developers%2F20251121%2F20251121091539.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 21 Nov 2025 05:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft Ignite 2025】Day 3：パートナーが大集合！の巻</title>
-      <link>https://aadojo.alterbooth.com/entry/2025/11/21/143609</link>
-      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2025/11/21/143609</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/3034d50c87bd1f66c1222e57953f851f244746e2/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmsys75%2F20251121%2F20251121142504.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 21 Nov 2025 05:36:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>小規模開発チームにおける設計プロセスの運用</title>
-      <link>https://tech.pocketsign.co.jp/entry/2025/11/21/153006</link>
-      <guid isPermaLink="true">https://tech.pocketsign.co.jp/entry/2025/11/21/153006</guid>
-      <pubDate>Fri, 21 Nov 2025 06:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>リモートワークを自作ルーター(OpenWrt)で支える</title>
-      <link>https://www.m3tech.blog/entry/2025/11/21/153615</link>
-      <guid isPermaLink="true">https://www.m3tech.blog/entry/2025/11/21/153615</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/28e425dabda1f268842f1fab7b641533a34b2623/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20251121%2F20251121153617.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 21 Nov 2025 06:36:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Application Modernization | 第7回】Replatformの真価（運用編）</title>
-      <link>https://rheb.hatenablog.com/entry/2025/11/21/153824</link>
-      <guid isPermaLink="true">https://rheb.hatenablog.com/entry/2025/11/21/153824</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/da619ec5c7006d96388cdfab9c63db2a8fc911f7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Ffoureyes-san%2F20251110%2F20251110202320.png" length="None" type="image/png"/>
-      <pubDate>Fri, 21 Nov 2025 06:38:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>🚀 GoogleのAntigravityを試したら、5分でアイスブレイクコンテンツ不足が解消した話</title>
-      <link>https://tech.contracts.co.jp/entry/2025/11/21/154911</link>
-      <guid isPermaLink="true">https://tech.contracts.co.jp/entry/2025/11/21/154911</guid>
-      <pubDate>Fri, 21 Nov 2025 06:49:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Nov 2025 03:22:55 +0000</lastBuildDate>
     <item>
       <title>Mackerel Advent Calendar 2025 参加者大募集！技術的な知見や運用ノウハウを共有しませんか？</title>
       <link>https://mackerel.io/ja/blog/entry/announcement/mackerel-advent-calendar-2025</link>
@@ -177,6 +131,46 @@
       <pubDate>Fri, 21 Nov 2025 22:54:51 +0000</pubDate>
     </item>
     <item>
+      <title>【React19.2】新機能useEffectEventの使いどころと注意点</title>
+      <link>https://tech.kentem.jp/entry/2025/11/24/090000</link>
+      <guid isPermaLink="true">https://tech.kentem.jp/entry/2025/11/24/090000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/1c7e613e2db653641abd3aac38009afcab1c4ae7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkentem_dev_sh_watanabe%2F20251119%2F20251119154028.png" length="None" type="image/png"/>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS Security Finding Format（ASFF）の実践活用例とベストプラクティス</title>
+      <link>https://techblog.techfirm.co.jp/entry/asff-attributes-best-practice</link>
+      <guid isPermaLink="true">https://techblog.techfirm.co.jp/entry/asff-attributes-best-practice</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/35d6365ddcf5d20f83f820b98b3fbd84a2dbcaf3/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F158883635%2F1666791273156818" length="None" type="image/jpeg"/>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>『讃岐富士！！』と『胸いっぱいの愛を！！』</title>
+      <link>https://murata5011.hatenablog.com/entry/2025/11/24/092657</link>
+      <guid isPermaLink="true">https://murata5011.hatenablog.com/entry/2025/11/24/092657</guid>
+      <pubDate>Mon, 24 Nov 2025 00:26:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Datadog】AWS 全冠の私が、転職を機に「Datadog Fundamentals」を受験し合格した話</title>
+      <link>https://techblog.ap-com.co.jp/entry/passed-the-Datadog-Fundamental</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/passed-the-Datadog-Fundamental</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/5f33e51a919cd09010b89f4eb631820381ef8f53/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshingo-uechi%2F20251124%2F20251124103302.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Mon, 24 Nov 2025 03:04:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>アクセント学: "エムスリー"のアクセントは-3型なのか平板型なのかの謎に迫る</title>
+      <link>https://www.m3tech.blog/entry/accent</link>
+      <guid isPermaLink="true">https://www.m3tech.blog/entry/accent</guid>
+      <pubDate>Mon, 24 Nov 2025 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Ignite 2025でのIntuneの新情報は？</title>
+      <link>https://blogs.networld.co.jp/entry/2025/11/24/174325</link>
+      <guid isPermaLink="true">https://blogs.networld.co.jp/entry/2025/11/24/174325</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/f1e42d58c670ba15ab37c6d53e1c04703e34b9c7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnetworld-blog%2F20251124%2F20251124174326.png" length="None" type="image/png"/>
+      <pubDate>Mon, 24 Nov 2025 08:43:25 +0000</pubDate>
+    </item>
+    <item>
       <title>TSKaigi Hokuriku 2025 に込めた想い</title>
       <link>https://tskaigi.hatenablog.com/entry/2025/11/22/134707</link>
       <guid isPermaLink="true">https://tskaigi.hatenablog.com/entry/2025/11/22/134707</guid>
@@ -208,6 +202,13 @@
       <link>https://murata5011.hatenablog.com/entry/2025/11/23/070000</link>
       <guid isPermaLink="true">https://murata5011.hatenablog.com/entry/2025/11/23/070000</guid>
       <pubDate>Sat, 22 Nov 2025 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon Quick SuiteとCodexによるAI駆動データ分析</title>
+      <link>https://tech.dentsusoken.com/entry/2025/11/24/Amazon_Quick_Suite%E3%81%A8Codex%E3%81%AB%E3%82%88%E3%82%8BAI%E9%A7%86%E5%8B%95%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90</link>
+      <guid isPermaLink="true">https://tech.dentsusoken.com/entry/2025/11/24/Amazon_Quick_Suite%E3%81%A8Codex%E3%81%AB%E3%82%88%E3%82%8BAI%E9%A7%86%E5%8B%95%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d373803b9f150c408caf2f4b791c62f3502984b3/height=144;version=1;width=224/https%3A%2F%2Fmedia.shodousercontents.com%2Ftask_images%2F983%2F778a83a1-856d-4f38-a791-e3b0c536ce64.png" length="None" type="image/png"/>
+      <pubDate>Sun, 23 Nov 2025 23:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

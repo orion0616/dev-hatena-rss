@@ -7,53 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Nov 2025 03:29:17 +0000</lastBuildDate>
-    <item>
-      <title>LayerX AI Agentブログリレー最終回！全体振り返りと俺の推し記事を紹介するぜ！</title>
-      <link>https://tech.layerx.co.jp/entry/2025/11/28/124908</link>
-      <guid isPermaLink="true">https://tech.layerx.co.jp/entry/2025/11/28/124908</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/00038d2d85ec6431ed39507918c4907c6a12b8de/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Fabctail30%2F20251128%2F20251128125210.png" length="None" type="image/png"/>
-      <pubDate>Fri, 28 Nov 2025 03:49:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>テックブログの更新について</title>
-      <link>https://tech.readyfor.jp/entry/2025/11/28/131639</link>
-      <guid isPermaLink="true">https://tech.readyfor.jp/entry/2025/11/28/131639</guid>
-      <pubDate>Fri, 28 Nov 2025 04:16:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>またね～！</title>
-      <link>https://blog.spookies.co.jp/entry/2025/11/28/134837</link>
-      <guid isPermaLink="true">https://blog.spookies.co.jp/entry/2025/11/28/134837</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e7dee104c0da19527a4ada6532477c77844b04f7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fspookies_miyazawa%2F20251128%2F20251128121027.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 28 Nov 2025 04:48:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>帰ってきたカナリアとリニア</title>
-      <link>https://blog.serverworks.co.jp/ecs-canary-linear</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/ecs-canary-linear</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/41c84d743058db0140c0739b14f844e0314aa9e5/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-suehiro%2F20251128%2F20251128132237.png" length="None" type="image/png"/>
-      <pubDate>Fri, 28 Nov 2025 05:20:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>YAPC::Fukuoka 2025 初参加レポート</title>
-      <link>https://tech.mobilefactory.jp/entry/2025/11/28/143000</link>
-      <guid isPermaLink="true">https://tech.mobilefactory.jp/entry/2025/11/28/143000</guid>
-      <pubDate>Fri, 28 Nov 2025 05:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Taskfile.dev を使って開発体験を向上する</title>
-      <link>https://developer.feedforce.jp/entry/2025/11/28/143633</link>
-      <guid isPermaLink="true">https://developer.feedforce.jp/entry/2025/11/28/143633</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8b3b8dcd1c9bf52082db5adf142a4cbcc94155be/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshunten3%2F20251128%2F20251128143400.png" length="None" type="image/png"/>
-      <pubDate>Fri, 28 Nov 2025 05:36:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>3DとUIのハイブリッド解像度を実現する「Reso Dynamix」を公開しました</title>
-      <link>https://blog.sge-coretech.com/entry/2025/11/28/145018</link>
-      <guid isPermaLink="true">https://blog.sge-coretech.com/entry/2025/11/28/145018</guid>
-      <pubDate>Fri, 28 Nov 2025 05:50:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Dec 2025 03:31:56 +0000</lastBuildDate>
     <item>
       <title>kickflowのOSSポリシーを策定しました</title>
       <link>https://tech.kickflow.co.jp/entry/2025/11/28/145636</link>
@@ -208,6 +162,51 @@
       <guid isPermaLink="true">https://tech.groove-x.com/entry/20251129/1764417991</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/7f5befa7182b362c87bb3c32107ef8d95def6628/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkosuke_n%2F20251128%2F20251128203833.webp" length="None" type="image/jpeg"/>
       <pubDate>Sat, 29 Nov 2025 12:06:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>社内向けウェブサイト制作フレームワークからPHPからAstroへ乗り換えた話</title>
+      <link>https://techblog.styleedge.co.jp/entry/2025/11/30/105454</link>
+      <guid isPermaLink="true">https://techblog.styleedge.co.jp/entry/2025/11/30/105454</guid>
+      <pubDate>Sun, 30 Nov 2025 01:54:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>『日本フルート・サーボ換装』と『安藤忠雄設計・竜王駅』</title>
+      <link>https://murata5011.hatenablog.com/entry/2025/11/30/111652</link>
+      <guid isPermaLink="true">https://murata5011.hatenablog.com/entry/2025/11/30/111652</guid>
+      <pubDate>Sun, 30 Nov 2025 02:16:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>NotebookLMを使いながら本を読む時にやってみてよかったこと</title>
+      <link>https://tech.asken.inc/entry/20251201</link>
+      <guid isPermaLink="true">https://tech.asken.inc/entry/20251201</guid>
+      <pubDate>Sun, 30 Nov 2025 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【みんなでやる】 Claude Code Actionでテックブログレビューエージェントをマルチエージェント構成に進化させてみた</title>
+      <link>https://techblog.insightedge.jp/entry/claude-code-techblog-review-agent</link>
+      <guid isPermaLink="true">https://techblog.insightedge.jp/entry/claude-code-techblog-review-agent</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/4b82e4c483b5342f7f00d7937f67ee7664d729b7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fi%2Finsightedge%2F20251130%2F20251130233340.png" length="None" type="image/png"/>
+      <pubDate>Sun, 30 Nov 2025 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS QuickSuiteが発表されどのように活用するか</title>
+      <link>https://tech.every.tv/entry/2025/11/30/174215</link>
+      <guid isPermaLink="true">https://tech.every.tv/entry/2025/11/30/174215</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6392d709f574d77a69c926c4e7971657f25be575/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkadakei%2F20251130%2F20251130174007.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sun, 30 Nov 2025 08:42:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>ANA 国際線の Wi-Fi はどうなのか試してみた</title>
+      <link>https://blog.serverworks.co.jp/tried-ana-international-wifi</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/tried-ana-international-wifi</guid>
+      <pubDate>Sun, 30 Nov 2025 11:15:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎄🎅 BASE PRODUCT TEAM BLOG Advent Calendar 2025 🎅🎄</title>
+      <link>https://devblog.thebase.in/entry/2025/11/30/230000</link>
+      <guid isPermaLink="true">https://devblog.thebase.in/entry/2025/11/30/230000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/03528c8077e458149d4ede63a21b59e9527d2cfb/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fz%2Fzan_gi%2F20251130%2F20251130221559.png" length="None" type="image/png"/>
+      <pubDate>Sun, 30 Nov 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

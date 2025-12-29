@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Dec 2025 03:31:29 +0000</lastBuildDate>
-    <item>
-      <title>仮想WebブラウザをStreamlitで実装してみた</title>
-      <link>https://techblog.tg-inet.co.jp/entry/2025/12/26/142005</link>
-      <guid isPermaLink="true">https://techblog.tg-inet.co.jp/entry/2025/12/26/142005</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/3295ac29ff21091943d20d40c86a5e727b73c68b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftginet-techblog_2%2F20251226%2F20251226141037.png" length="None" type="image/png"/>
-      <pubDate>Fri, 26 Dec 2025 05:20:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Dec 2025 03:31:39 +0000</lastBuildDate>
     <item>
       <title>色の言語表現にあいまい検索はどう反応するのか</title>
       <link>https://cloud.flect.co.jp/entry/2025/12/26/142302</link>
@@ -209,6 +202,12 @@
       <guid isPermaLink="true">https://tech.algomatic.jp/entry/2025/12/27/121807</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/7300d61e39762e50ae6c2e1b60ee7e4cbd21e9d1/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fo%2Footsuka_techs%2F20251226%2F20251226111406.png" length="None" type="image/png"/>
       <pubDate>Sat, 27 Dec 2025 03:18:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Goの暗黙的なインターフェース原則はクリーンアーキテクチャと矛盾するのか？</title>
+      <link>https://tech.enechange.co.jp/entry/2025/12/28/100000</link>
+      <guid isPermaLink="true">https://tech.enechange.co.jp/entry/2025/12/28/100000</guid>
+      <pubDate>Sun, 28 Dec 2025 01:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

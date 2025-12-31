@@ -7,40 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Dec 2025 03:29:24 +0000</lastBuildDate>
-    <item>
-      <title>アドベントカレンダーをきっかけに、アウトプットする文化に参加していく</title>
-      <link>https://tech.giftee.co.jp/entry/2025/12/26/181642</link>
-      <guid isPermaLink="true">https://tech.giftee.co.jp/entry/2025/12/26/181642</guid>
-      <pubDate>Fri, 26 Dec 2025 09:16:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>はてなのポッドキャスト Backyard Hatena #52 - 社長とふりかえる2025年（id:chris4403） #byhatena</title>
-      <link>https://developer.hatenastaff.com/entry/2025/12/26/183000</link>
-      <guid isPermaLink="true">https://developer.hatenastaff.com/entry/2025/12/26/183000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/5bc0b2b18c202f89b15dcdf3335fc99d967fa14c/height=144;version=1;width=224/https%3A%2F%2Fcdn.blog.st-hatena.com%2Ffiles%2F12704346814673975483%2F4207112889896980759" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 26 Dec 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hey Devin! セキュリティチェックの質問に答えて</title>
-      <link>https://tech.giftee.co.jp/entry/2025/12/26/184456</link>
-      <guid isPermaLink="true">https://tech.giftee.co.jp/entry/2025/12/26/184456</guid>
-      <pubDate>Fri, 26 Dec 2025 09:44:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lambda Durable Functionsは15分以上実行できるのか？</title>
-      <link>https://engineers.fenrir-inc.com/entry/2025/12/26/192156</link>
-      <guid isPermaLink="true">https://engineers.fenrir-inc.com/entry/2025/12/26/192156</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/3df68809d82448e50be8fe82f4276eb50cde4bd8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkhmoryz%2F20251226%2F20251226093705.png" length="None" type="image/png"/>
-      <pubDate>Fri, 26 Dec 2025 10:21:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>システムの現状把握から始めるオブザーバビリティ導入の判断ポイント</title>
-      <link>https://blog.serverworks.co.jp/observability-basic</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/observability-basic</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 26 Dec 2025 10:29:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 31 Dec 2025 03:29:18 +0000</lastBuildDate>
     <item>
       <title>高階関数によるAI Agentのコンテキストエンジニアリング</title>
       <link>https://tech-blog.localmet.com/entry/2025/12/26/194745</link>
@@ -59,6 +26,13 @@
       <link>https://developer.sigq.jp/entry/2025/12/26/232111</link>
       <guid isPermaLink="true">https://developer.sigq.jp/entry/2025/12/26/232111</guid>
       <pubDate>Fri, 26 Dec 2025 14:21:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>プロダクトエンジニアが集う「Product Engineer Session#5」開催レポートと#6開催のお知らせ</title>
+      <link>https://tech.righttouch.co.jp/entry/pes_5_report</link>
+      <guid isPermaLink="true">https://tech.righttouch.co.jp/entry/pes_5_report</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/cfa92651f8d40eb9d2c99906260737a4dbbdae52/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Frighttouch_dev%2F20251230%2F20251230233538.png" length="None" type="image/png"/>
+      <pubDate>Fri, 26 Dec 2025 14:39:49 +0000</pubDate>
     </item>
     <item>
       <title>『９０年代邦楽ヒット曲』と『休暇のお知らせ』</title>
@@ -183,6 +157,19 @@
       <pubDate>Mon, 29 Dec 2025 10:42:19 +0000</pubDate>
     </item>
     <item>
+      <title>『水星の魔女』と『赤いきつね』</title>
+      <link>https://murata5011.hatenablog.com/entry/2025/12/30/070000</link>
+      <guid isPermaLink="true">https://murata5011.hatenablog.com/entry/2025/12/30/070000</guid>
+      <pubDate>Mon, 29 Dec 2025 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Cloud×New Relicインテグレーション～Google Cloud環境のマネージドサービス監視の設定ガイド～</title>
+      <link>https://blog.serverworks.co.jp/google-cloud-newrelic-monitoring</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/google-cloud-newrelic-monitoring</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
+      <pubDate>Mon, 29 Dec 2025 23:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>自然言語だけでWorkFlowが完成する時代: WorkFlow DevOpsへの変革</title>
       <link>https://tech.algomatic.jp/entry/2025/12/27/121807</link>
       <guid isPermaLink="true">https://tech.algomatic.jp/entry/2025/12/27/121807</guid>
@@ -207,6 +194,19 @@
       <guid isPermaLink="true">https://blog.serverworks.co.jp/amazon-connect-attribute-size</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/021bb5acfa7814a15cc467d418ffca6e2891de81/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fserverworks%2F20210305%2F20210305102533.png" length="None" type="image/png"/>
       <pubDate>Sun, 28 Dec 2025 23:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SREグループで実践するスクラムの形</title>
+      <link>https://tech.trustbank.co.jp/entry/2025/12/30/133351</link>
+      <guid isPermaLink="true">https://tech.trustbank.co.jp/entry/2025/12/30/133351</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/02883614080187174b45d3e102fe32953f838357/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyoshirooooo%2F20251230%2F20251230132925.png" length="None" type="image/png"/>
+      <pubDate>Tue, 30 Dec 2025 04:33:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gravitonのさらなる活用に向けて、Graviton Saving Dashboardの紹介</title>
+      <link>https://blog.serverworks.co.jp/2025/12/30/172411</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2025/12/30/172411</guid>
+      <pubDate>Tue, 30 Dec 2025 08:24:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

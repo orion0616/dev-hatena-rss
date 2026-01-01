@@ -7,53 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 31 Dec 2025 03:29:18 +0000</lastBuildDate>
-    <item>
-      <title>高階関数によるAI Agentのコンテキストエンジニアリング</title>
-      <link>https://tech-blog.localmet.com/entry/2025/12/26/194745</link>
-      <guid isPermaLink="true">https://tech-blog.localmet.com/entry/2025/12/26/194745</guid>
-      <pubDate>Fri, 26 Dec 2025 10:47:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIが拡げるフィードバック体験〜MCPで人事評価データを安全に活用する〜</title>
-      <link>https://tech.uzabase.com/entry/2025/12/26/203750</link>
-      <guid isPermaLink="true">https://tech.uzabase.com/entry/2025/12/26/203750</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/2295eaf26856896b0e42d771244f05e4c9def3c5/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnaomi_iwamoto%2F20251225%2F20251225085450.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 26 Dec 2025 11:37:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>「爆速取得」の裏側：SIGQがSOC2 Type1保証報告書をわずか3ヶ月で取得した理由と、エンジニア創業者が主導するセキュリティ認証の勘所</title>
-      <link>https://developer.sigq.jp/entry/2025/12/26/232111</link>
-      <guid isPermaLink="true">https://developer.sigq.jp/entry/2025/12/26/232111</guid>
-      <pubDate>Fri, 26 Dec 2025 14:21:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>プロダクトエンジニアが集う「Product Engineer Session#5」開催レポートと#6開催のお知らせ</title>
-      <link>https://tech.righttouch.co.jp/entry/pes_5_report</link>
-      <guid isPermaLink="true">https://tech.righttouch.co.jp/entry/pes_5_report</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/cfa92651f8d40eb9d2c99906260737a4dbbdae52/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Frighttouch_dev%2F20251230%2F20251230233538.png" length="None" type="image/png"/>
-      <pubDate>Fri, 26 Dec 2025 14:39:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>『９０年代邦楽ヒット曲』と『休暇のお知らせ』</title>
-      <link>https://murata5011.hatenablog.com/entry/2025/12/27/084216</link>
-      <guid isPermaLink="true">https://murata5011.hatenablog.com/entry/2025/12/27/084216</guid>
-      <pubDate>Fri, 26 Dec 2025 23:42:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Microsoft×生成AI連載】【Microsoft Fabric】Copilot in Microsoft Fabric とは</title>
-      <link>https://blog.jbs.co.jp/entry/2025/12/29/090837</link>
-      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2025/12/29/090837</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/107c58e563087e1def2aa7fac0f08d4abff1faee/height=144;version=1;width=224/https%3A%2F%2Fcdn.blog.st-hatena.com%2Ffiles%2F13574176438063302381%2F17179246901325418080" length="None" type="image/jpeg"/>
-      <pubDate>Mon, 29 Dec 2025 00:08:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Agentic DevOpsについて調べてSpec-Driven開発にチャレンジしてみた話。</title>
-      <link>https://techblog.cccmkhd.co.jp/entry/2025/12/29/100000</link>
-      <guid isPermaLink="true">https://techblog.cccmkhd.co.jp/entry/2025/12/29/100000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d7ff99296eb4d2f69070841c43ef4cabda8c806d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmiu4930%2F20251226%2F20251226120529.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Mon, 29 Dec 2025 01:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Jan 2026 03:32:02 +0000</lastBuildDate>
     <item>
       <title>予約数を2倍にする飲食店のリスティング広告完全ガイド｜成功事例とキーワード戦略を公開【ダイジェスト版】</title>
       <link>https://llmo-ai-knowledgeholdings.hatenablog.com/entry/listing-ads-restaurant-reservation</link>
@@ -207,6 +161,49 @@
       <link>https://blog.serverworks.co.jp/2025/12/30/172411</link>
       <guid isPermaLink="true">https://blog.serverworks.co.jp/2025/12/30/172411</guid>
       <pubDate>Tue, 30 Dec 2025 08:24:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS CDKの外部リソース操作制限 - サービスごとに異なる挙動を調べてみた。</title>
+      <link>https://blog.serverworks.co.jp/cdk-external-resource-limitations</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/cdk-external-resource-limitations</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/7e4f40c28144b24241655bdf83668f65f61b7b12/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-satoshi-moriyama%2F20251228%2F20251228050903.png" length="None" type="image/png"/>
+      <pubDate>Tue, 30 Dec 2025 19:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>吉祥寺.pm 39 【オンライン】を開催します</title>
+      <link>https://kichijojipm.hatenablog.com/entry/2025/12/31/111247</link>
+      <guid isPermaLink="true">https://kichijojipm.hatenablog.com/entry/2025/12/31/111247</guid>
+      <pubDate>Wed, 31 Dec 2025 02:12:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Platform Engineering成功への最短ルート：その核となる戦略</title>
+      <link>https://techblog.ap-com.co.jp/entry/2025/12/31/123456</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2025/12/31/123456</guid>
+      <pubDate>Wed, 31 Dec 2025 03:34:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>まわりはじめた 2025</title>
+      <link>https://sogaoh.hatenablog.com/entry/2025/12/31/164050</link>
+      <guid isPermaLink="true">https://sogaoh.hatenablog.com/entry/2025/12/31/164050</guid>
+      <pubDate>Wed, 31 Dec 2025 07:40:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>『The Living the year』と『年末の挨拶』</title>
+      <link>https://murata5011.hatenablog.com/entry/2025/12/31/211313</link>
+      <guid isPermaLink="true">https://murata5011.hatenablog.com/entry/2025/12/31/211313</guid>
+      <pubDate>Wed, 31 Dec 2025 12:13:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025年 トレタ開発部振り返り</title>
+      <link>https://tech.toreta.in/entry/2025/12/31/2025%E5%B9%B4_%E3%83%88%E3%83%AC%E3%82%BF%E9%96%8B%E7%99%BA%E9%83%A8%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A</link>
+      <guid isPermaLink="true">https://tech.toreta.in/entry/2025/12/31/2025%E5%B9%B4_%E3%83%88%E3%83%AC%E3%82%BF%E9%96%8B%E7%99%BA%E9%83%A8%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A</guid>
+      <pubDate>Wed, 31 Dec 2025 13:25:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025年のはてなスタッフのアウトプットまとめ</title>
+      <link>https://developer.hatenastaff.com/entry/2025/12/31/235900</link>
+      <guid isPermaLink="true">https://developer.hatenastaff.com/entry/2025/12/31/235900</guid>
+      <pubDate>Wed, 31 Dec 2025 14:59:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

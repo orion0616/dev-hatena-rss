@@ -7,27 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 02 Jan 2026 03:30:05 +0000</lastBuildDate>
-    <item>
-      <title>業界未経験がサービスシステム運用課に所属して最初につまずいたこと</title>
-      <link>https://tech.synapse.jp/entry/2025/12/29/110000</link>
-      <guid isPermaLink="true">https://tech.synapse.jp/entry/2025/12/29/110000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6b9f2811576ff9d5bb23ac1062354c043726863e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2FyX3Ei4kt%2F20251221%2F20251221011055.png" length="None" type="image/png"/>
-      <pubDate>Mon, 29 Dec 2025 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>社内データを意思決定の「資産」へ。Analytics Engineerとして挑むデータ基盤の裏側と技術スタック</title>
-      <link>https://techblog.styleedge.co.jp/entry/2025/12/29/110636</link>
-      <guid isPermaLink="true">https://techblog.styleedge.co.jp/entry/2025/12/29/110636</guid>
-      <pubDate>Mon, 29 Dec 2025 02:06:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Teams カスタム絵文字運用ガイド#1：全体設定とポリシー割り当て編</title>
-      <link>https://blog.jbs.co.jp/entry/2025/12/29/110733</link>
-      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2025/12/29/110733</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/76f1e6d58fa458a15df933493a32bb537b241e2d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjbs_ahonma%2F20251120%2F20251120174351.png" length="None" type="image/png"/>
-      <pubDate>Mon, 29 Dec 2025 02:07:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 03 Jan 2026 03:28:09 +0000</lastBuildDate>
     <item>
       <title>2025年技術広報活動のふりかえり</title>
       <link>https://creators.oisixradaichi.co.jp/entry/2025/12/29/112336</link>
@@ -124,6 +104,13 @@
       <pubDate>Sun, 28 Dec 2025 01:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>2025年現場納め</title>
+      <link>https://rizing-pa.hatenablog.com/entry/2025/12/28/183000</link>
+      <guid isPermaLink="true">https://rizing-pa.hatenablog.com/entry/2025/12/28/183000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e708fe6d7605744be48037f2261f163f5becee32/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FR%2FRIZING-PA%2F20260102%2F20260102170558.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sun, 28 Dec 2025 09:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>AWS Lambda から GKE への移行で遭遇した"見えないボトルネック"の正体と解決策</title>
       <link>https://tech.legalforce.co.jp/entry/aws-lambda-to-gke</link>
       <guid isPermaLink="true">https://tech.legalforce.co.jp/entry/aws-lambda-to-gke</guid>
@@ -141,6 +128,20 @@
       <link>https://murata5011.hatenablog.com/entry/2026/01/01/120831</link>
       <guid isPermaLink="true">https://murata5011.hatenablog.com/entry/2026/01/01/120831</guid>
       <pubDate>Thu, 01 Jan 2026 03:08:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>ソフトウェアサプライチェーンの盲点をなくす：SBoMによる可視化と防御の戦略</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/01/02/075000</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/01/02/075000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/c1dce8851579cb0770d5121a3a3eafebe5f80647/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Fturtle2005%2F20260102%2F20260102133023.png" length="None" type="image/png"/>
+      <pubDate>Thu, 01 Jan 2026 22:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>セキュリティエンジニアにおすすめの本 1選</title>
+      <link>https://blog.serverworks.co.jp/recommended-book-for-security-engineers-2026</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/recommended-book-for-security-engineers-2026</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/4498b34777a6753181e83d513cdfbf34db7f8b59/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-satake%2F20260101%2F20260101223913.png" length="None" type="image/png"/>
+      <pubDate>Thu, 01 Jan 2026 23:30:00 +0000</pubDate>
     </item>
     <item>
       <title>SREグループで実践するスクラムの形</title>

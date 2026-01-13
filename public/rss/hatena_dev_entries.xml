@@ -7,53 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 12 Jan 2026 03:31:29 +0000</lastBuildDate>
-    <item>
-      <title>Dify on AWS で公開したWebアプリに認証機能を追加する</title>
-      <link>https://blog.serverworks.co.jp/dify-on-aws-auth</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/dify-on-aws-auth</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/589d4c4a90b0e5d8f71471e451bd146daffe77b4/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-murakami%2F20260109%2F20260109121823.png" length="None" type="image/png"/>
-      <pubDate>Fri, 09 Jan 2026 03:19:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Azure Database for PostgreSQL】psqlを使ったユーザー作成手順</title>
-      <link>https://blog.jbs.co.jp/entry/2026/01/09/122207</link>
-      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2026/01/09/122207</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d53b2cd64b6aa9771d74712d447be2ca1cb2c54b/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F158660714%2F1667527455467771" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 09 Jan 2026 03:22:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>定期アップデートによるセキュリティリスクに立ち向かう</title>
-      <link>https://techblog.tetemarche.co.jp/entry/2026/01/09/131839</link>
-      <guid isPermaLink="true">https://techblog.tetemarche.co.jp/entry/2026/01/09/131839</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/236ee80d3e293b71a780a9ca4de8ac695b175a39/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftetemarche_nishino%2F20251218%2F20251218190825.png" length="None" type="image/png"/>
-      <pubDate>Fri, 09 Jan 2026 04:18:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>GoogleDocsの箇条書きをSlackにきれいにコピペするツールを生成AIと作った話</title>
-      <link>https://techblog.goinc.jp/entry/2026/01/09/132240</link>
-      <guid isPermaLink="true">https://techblog.goinc.jp/entry/2026/01/09/132240</guid>
-      <pubDate>Fri, 09 Jan 2026 04:22:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>書籍「徹底的にかみくだいた「自己目標管理」ドラッカーが本来伝えたかった目標管理」の紹介</title>
-      <link>https://blog.ingage.jp/entry/2026/01/09/152722</link>
-      <guid isPermaLink="true">https://blog.ingage.jp/entry/2026/01/09/152722</guid>
-      <pubDate>Fri, 09 Jan 2026 06:27:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS Batch × サイドカーパターン：マルチコンテナジョブで既存資産を有効活用し責務を分離する</title>
-      <link>https://tech.makeshop.co.jp/entry/2026/01/09/152800</link>
-      <guid isPermaLink="true">https://tech.makeshop.co.jp/entry/2026/01/09/152800</guid>
-      <pubDate>Fri, 09 Jan 2026 06:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>conftestによる自動レビュー</title>
-      <link>https://product.10x.co.jp/entry/2026/01/09/154331</link>
-      <guid isPermaLink="true">https://product.10x.co.jp/entry/2026/01/09/154331</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/a2eafd2f7037f42e87b56f39619e4e66a64b902b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbabarot%2F20260109%2F20260109151423.png" length="None" type="image/png"/>
-      <pubDate>Fri, 09 Jan 2026 06:43:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Jan 2026 03:29:34 +0000</lastBuildDate>
     <item>
       <title>植物 × エンジニア -エンジニアが植物育成に夢中になる理由-</title>
       <link>https://tech.righttouch.co.jp/entry/engineers_and_plants</link>
@@ -157,6 +111,40 @@
       <pubDate>Fri, 09 Jan 2026 23:59:47 +0000</pubDate>
     </item>
     <item>
+      <title>【Datadog】Datadog SyntheticsでOCI API Gatewayを外形監視してみた</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/01/12/090000</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/01/12/090000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/78c34bf0626f08074782f89e76c03b8e7a70b2df/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Fr_katorot%2F20250311%2F20250311150020.png" length="None" type="image/png"/>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TypeScript型定義！便利だと感じた実践テクニック集</title>
+      <link>https://tech.kentem.jp/entry/2026/01/12/090000</link>
+      <guid isPermaLink="true">https://tech.kentem.jp/entry/2026/01/12/090000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/0919c316b515517ceb3a82ea6b39d3f3d2269c8f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkentem_dev_ka_shimizu%2F20251107%2F20251107155124.png" length="None" type="image/png"/>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kiroween(Kiro Hackathonイベント) に参加しました</title>
+      <link>https://tech.dentsusoken.com/entry/2026/01/12/Kiroween(Kiro_Hackathon%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88)_%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F</link>
+      <guid isPermaLink="true">https://tech.dentsusoken.com/entry/2026/01/12/Kiroween(Kiro_Hackathon%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88)_%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/3b932d3c0fdba28213fcc055d6c0f52ac4198de3/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fd%2Fdentsusoken%2F20251222%2F20251222130432.png" length="None" type="image/png"/>
+      <pubDate>Mon, 12 Jan 2026 00:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GS1関連便利ツール EPC / RFID編</title>
+      <link>https://gs1japan.hatenablog.com/entry/gs1-tools-epc-rfid</link>
+      <guid isPermaLink="true">https://gs1japan.hatenablog.com/entry/gs1-tools-epc-rfid</guid>
+      <pubDate>Mon, 12 Jan 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>知っているようでよくわかっていない「SLSA」とGitHub Advanced Securityとの関係</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/01/12/115500</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/01/12/115500</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/b960026fc66c662dfda4ad532add0255963d5a4d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Fturtle2005%2F20260111%2F20260111173825.png" length="None" type="image/png"/>
+      <pubDate>Mon, 12 Jan 2026 02:55:00 +0000</pubDate>
+    </item>
+    <item>
       <title>2026年、ペーパードライバーの「悩み方」は確実に変わっている</title>
       <link>https://tokyodriving-support.hatenablog.com/entry/2026/01/10/090500</link>
       <guid isPermaLink="true">https://tokyodriving-support.hatenablog.com/entry/2026/01/10/090500</guid>
@@ -197,6 +185,19 @@
       <link>https://murata5011.hatenablog.com/entry/2026/01/11/115037</link>
       <guid isPermaLink="true">https://murata5011.hatenablog.com/entry/2026/01/11/115037</guid>
       <pubDate>Sun, 11 Jan 2026 02:50:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>『新成人へお祝いの言葉』と『ふるさと納税オンラインワンストップ申請』</title>
+      <link>https://murata5011.hatenablog.com/entry/2026/01/12/070000</link>
+      <guid isPermaLink="true">https://murata5011.hatenablog.com/entry/2026/01/12/070000</guid>
+      <pubDate>Sun, 11 Jan 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DSPyによるマルチモーダルタスクのプロンプト自動調整</title>
+      <link>https://tech.unifa-e.com/entry/2026/01/12/070000</link>
+      <guid isPermaLink="true">https://tech.unifa-e.com/entry/2026/01/12/070000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/051945cf75b8bde3e546f4311e48ac3cd4e277bb/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fu%2Funifa_tech%2F20260105%2F20260105095455.png" length="None" type="image/png"/>
+      <pubDate>Sun, 11 Jan 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

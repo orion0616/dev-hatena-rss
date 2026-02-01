@@ -7,34 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 31 Jan 2026 03:42:11 +0000</lastBuildDate>
-    <item>
-      <title>iOSエンジニア志望の2ヶ月間のインターンレポート</title>
-      <link>https://tech.yappli.io/entry/iOS-intern-mitsui</link>
-      <guid isPermaLink="true">https://tech.yappli.io/entry/iOS-intern-mitsui</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/05a5bd52a1bb9bab061d3432609be24f9d9a3fa3/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Fabdkdbr70%2F20260129%2F20260129140702.png" length="None" type="image/png"/>
-      <pubDate>Fri, 30 Jan 2026 02:25:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>【AWS re:Invent 2025】 AWS Transform の .NET 変換をカスタマイズする ～Spec 駆動モダナイズの実践～</title>
-      <link>https://tech.nri-net.com/entry/customize_transformation_plan_for_net</link>
-      <guid isPermaLink="true">https://tech.nri-net.com/entry/customize_transformation_plan_for_net</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6835e4ff94a1c935ec96d6f43e2d238850f2d787/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ft-matsuzawa%2F20260121%2F20260121231227.png" length="None" type="image/png"/>
-      <pubDate>Fri, 30 Jan 2026 02:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ボタンのデザインと心理学的影響</title>
-      <link>https://gmo-aozora.hatenablog.com/entry/2026/01/30/113000</link>
-      <guid isPermaLink="true">https://gmo-aozora.hatenablog.com/entry/2026/01/30/113000</guid>
-      <pubDate>Fri, 30 Jan 2026 02:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lambda Durable Functions で Human-in-the-Loop なAIエージェントを実装する！</title>
-      <link>https://acro-engineer.hatenablog.com/entry/2026/01/30/120000</link>
-      <guid isPermaLink="true">https://acro-engineer.hatenablog.com/entry/2026/01/30/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/4647a887b3c3349cd0ee0611da1260b047d4f4ad/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Facro-kisuke%2F20260130%2F20260130152343.png" length="None" type="image/png"/>
-      <pubDate>Fri, 30 Jan 2026 03:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Feb 2026 03:55:25 +0000</lastBuildDate>
     <item>
       <title>実務エンジニアインターン1年半で学んだ一生モノの「開発の型」</title>
       <link>https://moneyforward-dev.jp/entry/2026/01/30/173302</link>
@@ -209,6 +182,34 @@
       <link>https://blog.miive.jp/entry/2026/01/30/201353</link>
       <guid isPermaLink="true">https://blog.miive.jp/entry/2026/01/30/201353</guid>
       <pubDate>Fri, 30 Jan 2026 11:13:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>S3 Object Lockのコンプライアンスモードでできること・できないこと</title>
+      <link>https://blog.serverworks.co.jp/s3-compliance-lock</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/s3-compliance-lock</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e56387441e8335a994607923ce012c28e4b766e4/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-satoshi-moriyama%2F20260130%2F20260130050852.png" length="None" type="image/png"/>
+      <pubDate>Fri, 30 Jan 2026 19:51:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Octo STSで実現する"いい塩梅"のGitHub App Token運用</title>
+      <link>https://product.10x.co.jp/entry/2026/01/31/100000</link>
+      <guid isPermaLink="true">https://product.10x.co.jp/entry/2026/01/31/100000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/2b6c7f84cee604e5a0e1b344fc099b0b96a70f69/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyagihashoo%2F20260128%2F20260128195001.png" length="None" type="image/png"/>
+      <pubDate>Sat, 31 Jan 2026 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS Builder ID 統合により、アカウントの AWS 認定情報が消滅しました</title>
+      <link>https://techblog.forgevision.com/entry/aws/certification/integration</link>
+      <guid isPermaLink="true">https://techblog.forgevision.com/entry/aws/certification/integration</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/aaf0aabcc81a354f906578363cfb8ebed777b09a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fo%2Fotanikohei%2F20260129%2F20260129175444.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 31 Jan 2026 03:35:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Application Migration ServiceでActiveDirectoryメンバーサーバー同士を衝突させてみた！</title>
+      <link>https://blog.serverworks.co.jp/2026/01/31/230833</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/01/31/230833</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/0b52bc40695ad7dc09d0c23f6b47d4f2dd45e0e7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-seishu-maeda%2F20260131%2F20260131224702.png" length="None" type="image/png"/>
+      <pubDate>Sat, 31 Jan 2026 14:08:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,41 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 01 Feb 2026 03:55:25 +0000</lastBuildDate>
-    <item>
-      <title>実務エンジニアインターン1年半で学んだ一生モノの「開発の型」</title>
-      <link>https://moneyforward-dev.jp/entry/2026/01/30/173302</link>
-      <guid isPermaLink="true">https://moneyforward-dev.jp/entry/2026/01/30/173302</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/0647a5338c71fdbaada356bf33923377e764264c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2FmoneyforwardDev%2F20260129%2F20260129133036.png" length="None" type="image/png"/>
-      <pubDate>Fri, 30 Jan 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>スマートバンクエンジニアが取り組む2026年に解決していきたい重要技術課題7選</title>
-      <link>https://blog.smartbank.co.jp/entry/technological-challenges-2026</link>
-      <guid isPermaLink="true">https://blog.smartbank.co.jp/entry/technological-challenges-2026</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/9ee7a3f391277de62032fe879ae3ecbf8c52972a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyutadayo%2F20260130%2F20260130114057.png" length="None" type="image/png"/>
-      <pubDate>Fri, 30 Jan 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>私が読んだバイオインフォマティクス技術書レビュー【R、番外編】</title>
-      <link>https://staffblog.amelieff.jp/entry/2026/01/30/120000</link>
-      <guid isPermaLink="true">https://staffblog.amelieff.jp/entry/2026/01/30/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8ebee722f8fc85dc427395d86565288551be7bff/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkutsuy%2F20250814%2F20250814114300.png" length="None" type="image/png"/>
-      <pubDate>Fri, 30 Jan 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lambda ハンドラーの型定義、どっちを使う？ aws-lambda-typing vs aws-lambda-powertools</title>
-      <link>https://blog.serverworks.co.jp/lambda-typing-vs-powertools</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/lambda-typing-vs-powertools</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/fb0b993a1d678e0110b4bf1a558af08ac1b19e2f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-satoshi-moriyama%2F20251126%2F20251126060622.png" length="None" type="image/png"/>
-      <pubDate>Fri, 30 Jan 2026 03:06:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>その手順書、Warpで見ませんか？</title>
-      <link>https://tech.legalscape.co.jp/entry/2026/01/30/124000</link>
-      <guid isPermaLink="true">https://tech.legalscape.co.jp/entry/2026/01/30/124000</guid>
-      <pubDate>Fri, 30 Jan 2026 03:40:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Feb 2026 03:50:00 +0000</lastBuildDate>
     <item>
       <title>AI勉強会の半年を振り返って</title>
       <link>https://tech.every.tv/entry/2026/01/30/125556</link>
@@ -210,6 +176,40 @@
       <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/01/31/230833</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/0b52bc40695ad7dc09d0c23f6b47d4f2dd45e0e7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-seishu-maeda%2F20260131%2F20260131224702.png" length="None" type="image/png"/>
       <pubDate>Sat, 31 Jan 2026 14:08:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>ソフトウェア開発資産管理（ソフトウェアカタログ）の重要性</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/02/01/080000</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/02/01/080000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/94cd30bfd94432d57a10ca6492e273dbd29a8d3c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Fturtle2005%2F20230303%2F20230303210336.png" length="None" type="image/png"/>
+      <pubDate>Sat, 31 Jan 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CloudFormationのドキュメント更新を自動化する「cfn-docs」を触ってみた</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/02/01/111956</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/02/01/111956</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6ca4f5e67b35a1ead254aeeab954ec076aa4f6eb/height=144;version=1;width=224/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4260534%2Fb92ece35-c3b6-432a-ad39-c61ee7f5528d.png" length="None" type="image/png"/>
+      <pubDate>Sun, 01 Feb 2026 02:19:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>S3レプリケーション完了をトリガーにLambdaでファイルを日付リネームする</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/02/01/112112</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/02/01/112112</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/67601d551ba619809cfe8687a0c942f029b97b87/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ft_matsuoka%2F20260129%2F20260129121320.png" length="None" type="image/png"/>
+      <pubDate>Sun, 01 Feb 2026 02:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>TSKaigi 2026のプロポーザルを募集します！</title>
+      <link>https://tskaigi.hatenablog.com/entry/2026/02/01/125127</link>
+      <guid isPermaLink="true">https://tskaigi.hatenablog.com/entry/2026/02/01/125127</guid>
+      <pubDate>Sun, 01 Feb 2026 03:51:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>BuriKaigi 2026 ではじめて枠登壇した</title>
+      <link>https://sogaoh.hatenablog.com/entry/2026/02/01/152811</link>
+      <guid isPermaLink="true">https://sogaoh.hatenablog.com/entry/2026/02/01/152811</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8e3b2032c080c9a1c1e9e19d2f71e70850d7e820/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsogaoh%2F20260110%2F20260110090906.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sun, 01 Feb 2026 06:28:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

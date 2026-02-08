@@ -7,20 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 Feb 2026 03:43:28 +0000</lastBuildDate>
-    <item>
-      <title>インフラチームでAIの利用推進活動をした話とその成果</title>
-      <link>https://blog.serverworks.co.jp/infra-team-ai-implementation-report</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/infra-team-ai-implementation-report</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/73837847db56653609447d2f70be7f1c3d8b7bc8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-orito%2F20260206%2F20260206012226.png" length="None" type="image/png"/>
-      <pubDate>Fri, 06 Feb 2026 01:45:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Copilot CLIを再び触ってみた</title>
-      <link>https://devops-blog.virtualtech.jp/entry/20260206/1770342791</link>
-      <guid isPermaLink="true">https://devops-blog.virtualtech.jp/entry/20260206/1770342791</guid>
-      <pubDate>Fri, 06 Feb 2026 01:53:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Feb 2026 03:57:57 +0000</lastBuildDate>
     <item>
       <title>BOOTH 3Dモデルカテゴリ取引白書2026</title>
       <link>https://inside.pixiv.blog/2026/02/06/110000</link>
@@ -210,6 +197,20 @@
       <guid isPermaLink="true">https://blog.serverworks.co.jp/claude-code-settings-structure</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
       <pubDate>Fri, 06 Feb 2026 13:02:45 +0000</pubDate>
+    </item>
+    <item>
+      <title> InnerSourceを導入しよう</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/02/07/083000</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/02/07/083000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/f070269e5f585089dfde35d81c2055b08cf95039/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Fturtle2005%2F20260202%2F20260202084315.png" length="None" type="image/png"/>
+      <pubDate>Fri, 06 Feb 2026 23:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>新しいBlackline/Martin Audio</title>
+      <link>https://rizing-pa.hatenablog.com/entry/2026/02/07/143550</link>
+      <guid isPermaLink="true">https://rizing-pa.hatenablog.com/entry/2026/02/07/143550</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/000bbe10de787e8b87de03d6f726f6f2ac6ac8f9/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FR%2FRIZING-PA%2F20260207%2F20260207132158.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 07 Feb 2026 05:35:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

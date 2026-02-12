@@ -7,28 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Feb 2026 03:55:34 +0000</lastBuildDate>
-    <item>
-      <title>満足度100％を達成したプロンプトエンジニアリング社内ハンズオンの内容を公開</title>
-      <link>https://techblog.zozo.com/entry/prompt-engineering-hands-on</link>
-      <guid isPermaLink="true">https://techblog.zozo.com/entry/prompt-engineering-hands-on</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/58e22fec084b914c62bc8661759e1da22c3b8f05/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260209%2F20260209190024.png" length="None" type="image/png"/>
-      <pubDate>Tue, 10 Feb 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>pnpm workspaceで非常に辛いpeerDependenciesの扱いと対処法</title>
-      <link>https://tech.bm-sms.co.jp/entry/2026/02/10/110100</link>
-      <guid isPermaLink="true">https://tech.bm-sms.co.jp/entry/2026/02/10/110100</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/4200b696c96ae18c4aac86271d33f1b70f7ac20e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbm-sms%2F20260210%2F20260210110101.png" length="None" type="image/png"/>
-      <pubDate>Tue, 10 Feb 2026 02:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Cloud Campus 体験記</title>
-      <link>https://techblog.openwork.co.jp/entry/google-cloud-campus-2025-winter</link>
-      <guid isPermaLink="true">https://techblog.openwork.co.jp/entry/google-cloud-campus-2025-winter</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/dc0ed1adcd4a07a5108f8f89162971fe2ce59b91/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fo%2Fopenwork_engineer%2F20260210%2F20260210111616.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Tue, 10 Feb 2026 02:16:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Feb 2026 03:52:11 +0000</lastBuildDate>
     <item>
       <title>【AWS re:Invent 2025】Amazon Q CLI × MCPサーバー で体験する次世代運用</title>
       <link>https://tech.nri-net.com/entry/next_generation_operations_with_amazon_mcp</link>
@@ -212,6 +191,26 @@
       <guid isPermaLink="true">https://tech.gamewith.co.jp/entry/2026/02/10/185125</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/57fc43811a9cbcf63b33ecd68356c13250e4f08f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fi%2Finosy22%2F20260210%2F20260210171812.png" length="None" type="image/png"/>
       <pubDate>Tue, 10 Feb 2026 09:51:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Dell Blog】Veeam v13にDDを登録して、DD Boostでバックアップを試してみた！  ～Update編～</title>
+      <link>https://blogs.networld.co.jp/entry/2026/02/11/090000</link>
+      <guid isPermaLink="true">https://blogs.networld.co.jp/entry/2026/02/11/090000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d45ea937c3849082bbb05ad4cbfc66cd0f9dd11a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnetworld-blog%2F20260211%2F20260211090005.png" length="None" type="image/png"/>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【メンバー紹介②】ハウテレビジョンの開発を支える5Valuesとは</title>
+      <link>https://blog.howtelevision.co.jp/entry/20260211</link>
+      <guid isPermaLink="true">https://blog.howtelevision.co.jp/entry/20260211</guid>
+      <pubDate>Wed, 11 Feb 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tech Challenge Party2026イベントでブース出展・登壇してきました</title>
+      <link>https://tech.trustbank.co.jp/entry/2026/02/11/182806</link>
+      <guid isPermaLink="true">https://tech.trustbank.co.jp/entry/2026/02/11/182806</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/b3c0573d618411e730295448c74339b23f3c911a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftaketake_kaho%2F20260211%2F20260211183953.png" length="None" type="image/png"/>
+      <pubDate>Wed, 11 Feb 2026 09:28:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

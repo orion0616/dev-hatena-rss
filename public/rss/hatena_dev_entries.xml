@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Feb 2026 03:50:19 +0000</lastBuildDate>
-    <item>
-      <title>全19本を5つの領域で振り返る スマートバンク新春駅伝ブログ2026ガイド</title>
-      <link>https://blog.smartbank.co.jp/entry/ekiden-2026-guide</link>
-      <guid isPermaLink="true">https://blog.smartbank.co.jp/entry/ekiden-2026-guide</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/f60f370a78c2e0bd96729ef483cabe61fb993c3e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmartbank%2F20260213%2F20260213105030.png" length="None" type="image/png"/>
-      <pubDate>Fri, 13 Feb 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft 365 Copilotアプリをアンインストールするコマンドレット</title>
-      <link>https://blog.jbs.co.jp/entry/2026/02/13/120642</link>
-      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2026/02/13/120642</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d53b2cd64b6aa9771d74712d447be2ca1cb2c54b/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F158660714%2F1667527455467771" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 13 Feb 2026 03:06:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Feb 2026 03:50:08 +0000</lastBuildDate>
     <item>
       <title>MySQL: ALTER TABLEのアルゴリズムと実行速度について</title>
       <link>https://tech.legalscape.co.jp/entry/2026/02/13/125740</link>
@@ -209,6 +195,20 @@
       <link>https://kichijojipm.hatenablog.com/entry/2026/02/14/081147</link>
       <guid isPermaLink="true">https://kichijojipm.hatenablog.com/entry/2026/02/14/081147</guid>
       <pubDate>Fri, 13 Feb 2026 23:11:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub TemplateとBackstage Scaffolder Templateの比較</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/02/15/180000</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/02/15/180000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/94cd30bfd94432d57a10ca6492e273dbd29a8d3c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Fturtle2005%2F20230303%2F20230303210336.png" length="None" type="image/png"/>
+      <pubDate>Sun, 15 Feb 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【2026/2/8〜14】Claude Code 更新情報 Desktopコマンド追加など</title>
+      <link>https://blog.serverworks.co.jp/2026/02/15/190000</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/02/15/190000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
+      <pubDate>Sun, 15 Feb 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

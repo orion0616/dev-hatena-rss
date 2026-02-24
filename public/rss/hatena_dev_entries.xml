@@ -7,55 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Feb 2026 03:49:41 +0000</lastBuildDate>
-    <item>
-      <title>エージェントってなに？　Agent FrameworkとMicrosoft Foundryの概要と関係性について</title>
-      <link>https://blog.jbs.co.jp/entry/2026/02/20/112940</link>
-      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2026/02/20/112940</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d53b2cd64b6aa9771d74712d447be2ca1cb2c54b/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F158660714%2F1667527455467771" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 20 Feb 2026 02:29:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>マルチプロダクトの品質を支えるテスト基盤「ITANDI QC」の紹介</title>
-      <link>https://tech.itandi.co.jp/entry/2026/02/20/114454</link>
-      <guid isPermaLink="true">https://tech.itandi.co.jp/entry/2026/02/20/114454</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/ab5b5b292f080d39b83cd917907a21da2e9aae73/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F159642813%2F1753771875224541" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 20 Feb 2026 02:44:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Okta Org2Orgでテナント連携を試す!</title>
-      <link>https://blogs.networld.co.jp/entry/2026/02/20/115857</link>
-      <guid isPermaLink="true">https://blogs.networld.co.jp/entry/2026/02/20/115857</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e76d928bcf96c1c2789346424e1408978ac1a333/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnetworld-blog%2F20260220%2F20260220115858.png" length="None" type="image/png"/>
-      <pubDate>Fri, 20 Feb 2026 02:58:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>環境方針 ― 地域と未来のためにできること</title>
-      <link>https://hamakokouhou.hatenablog.com/entry/2026/02/20/115859</link>
-      <guid isPermaLink="true">https://hamakokouhou.hatenablog.com/entry/2026/02/20/115859</guid>
-      <pubDate>Fri, 20 Feb 2026 02:58:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>もう画面下部からは出現しない！？ iOS 26で変わるアクションシート</title>
-      <link>https://iridge-tech.hatenablog.com/entry/2026/02/20/120000</link>
-      <guid isPermaLink="true">https://iridge-tech.hatenablog.com/entry/2026/02/20/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8bb7f85a17737c3268d7909b4d78e61f8e779978/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fi%2Firidge_kohey_n%2F20260212%2F20260212123536.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 20 Feb 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS Certified Solutions Architect - Associate(SAA-C03)を受験しました</title>
-      <link>https://techblog.spiderplus.co.jp/entry/2026/02/20/120000</link>
-      <guid isPermaLink="true">https://techblog.spiderplus.co.jp/entry/2026/02/20/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/b1020cb347fedec6f5e61d500ae18b6c4d425d93/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fspiderplus%2F20260220%2F20260220095318.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 20 Feb 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>kiro と手を繋いで、はじめてのゲーム製作</title>
-      <link>https://techblog.forgevision.com/entry/kiro/my_first_app</link>
-      <guid isPermaLink="true">https://techblog.forgevision.com/entry/kiro/my_first_app</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/f6c020842c5dbd53cb267cf35f7cfabd786f61a0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Fr-hondo%2F20260219%2F20260219114646.png" length="None" type="image/png"/>
-      <pubDate>Fri, 20 Feb 2026 03:02:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Feb 2026 03:47:08 +0000</lastBuildDate>
     <item>
       <title>crowdworks.jp 最大の Rails アプリで YJIT を有効化した話</title>
       <link>https://engineer.crowdworks.jp/entry/we-have-enabled-yjit</link>
@@ -169,6 +121,40 @@
       <pubDate>Fri, 20 Feb 2026 10:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【AWS】API Gateway（REST API）のアクセスログを出力する方法</title>
+      <link>https://techblog.techfirm.co.jp/entry/aws-api-gateway-access-logs-output</link>
+      <guid isPermaLink="true">https://techblog.techfirm.co.jp/entry/aws-api-gateway-access-logs-output</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/35d6365ddcf5d20f83f820b98b3fbd84a2dbcaf3/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F158883635%2F1666791273156818" length="None" type="image/jpeg"/>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Workspaceのストレージプールの仕組み</title>
+      <link>https://blog.g-gen.co.jp/entry/google-workspace-storage-pool-explained</link>
+      <guid isPermaLink="true">https://blog.g-gen.co.jp/entry/google-workspace-storage-pool-explained</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/17ea04e917c74a29aa8244d93871b1de0f5b30ce/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20260223%2F20260223090003.png" length="None" type="image/png"/>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>大量にある社内の CI/CD 未整備な小規模アプリを SKILLS でなんとかしたい</title>
+      <link>https://blog.serverworks.co.jp/2026/02/23/123000</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/02/23/123000</guid>
+      <pubDate>Mon, 23 Feb 2026 03:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub リポジトリに「Agents」タブが登場！Copilot coding agent の管理と連携がより便利に</title>
+      <link>https://blog.serverworks.co.jp/github-agents-tab</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/github-agents-tab</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
+      <pubDate>Mon, 23 Feb 2026 04:03:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>会議の音声を処理するWebアプリを作るための技術調査</title>
+      <link>https://tech-blog.mitsucari.com/entry/2026/02/23/193315</link>
+      <guid isPermaLink="true">https://tech-blog.mitsucari.com/entry/2026/02/23/193315</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/a8504c45935932f9402b0b9a2a59b2be299a5302/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmitsucari%2F20260223%2F20260223193317.png" length="None" type="image/png"/>
+      <pubDate>Mon, 23 Feb 2026 10:33:15 +0000</pubDate>
+    </item>
+    <item>
       <title>【Fortinet】攻撃者を誘う罠！FortiDeceptor！！</title>
       <link>https://blogs.networld.co.jp/entry/2026/02/21/105147</link>
       <guid isPermaLink="true">https://blogs.networld.co.jp/entry/2026/02/21/105147</guid>
@@ -209,6 +195,20 @@
       <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/02/22/170000</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
       <pubDate>Sun, 22 Feb 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>視覚優位・聴覚優位 × 同時処理・継次処理　それぞれの特性に合わせて NotebookLM を使い分けるヒント</title>
+      <link>https://tech.unifa-e.com/entry/2026/02/23/070000</link>
+      <guid isPermaLink="true">https://tech.unifa-e.com/entry/2026/02/23/070000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/3869f541997525b027929d213ef880a131aaffc3/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fu%2Funifa_tech%2F20260217%2F20260217230230.png" length="None" type="image/png"/>
+      <pubDate>Sun, 22 Feb 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title> Platform Engineeringの生存戦略：認知負荷のブラックホールからチームを救い出す技術</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/02/23/083000</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/02/23/083000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/a2a039e956139a7a1036e5bea164f3617b74412d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Fturtle2005%2F20230303%2F20230303100425.png" length="None" type="image/png"/>
+      <pubDate>Sun, 22 Feb 2026 23:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,34 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 28 Feb 2026 03:34:10 +0000</lastBuildDate>
-    <item>
-      <title>Claude Code カスタマイズの設計論</title>
-      <link>https://developer.so-tech.co.jp/entry/2026/02/27/113000</link>
-      <guid isPermaLink="true">https://developer.so-tech.co.jp/entry/2026/02/27/113000</guid>
-      <pubDate>Fri, 27 Feb 2026 02:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>継続は力になる：チーム輪読会で得た設計の学び</title>
-      <link>https://tech.willgate.co.jp/entry/2026/02/27/113000</link>
-      <guid isPermaLink="true">https://tech.willgate.co.jp/entry/2026/02/27/113000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/f2f8745720fb64801e66655e368d05d41d298e68/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FO%2FOo_kino_o0%2F20251212%2F20251212095650.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 27 Feb 2026 02:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Power AppsでForm内の特定の行のみDisplayModeを切り替える</title>
-      <link>https://blog.jbs.co.jp/entry/2026/02/27/115339</link>
-      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2026/02/27/115339</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/0fc8c7559968769fb18ff607c2f682fc286abc46/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjbs_nhidaka%2F20260105%2F20260105092855.png" length="None" type="image/png"/>
-      <pubDate>Fri, 27 Feb 2026 02:53:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>RevComm 社内 Hack Day 2025 開催レポート</title>
-      <link>https://tech.revcomm.co.jp/revcomm-hack-day-2025</link>
-      <guid isPermaLink="true">https://tech.revcomm.co.jp/revcomm-hack-day-2025</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/46bd78f60816a4878eee9e72b6e6e4ba0796002e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Frevcomm-tech%2F20260226%2F20260226085813.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 27 Feb 2026 03:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Mar 2026 03:49:46 +0000</lastBuildDate>
     <item>
       <title>Amazon Bedrock AgentCore Memory のエピソード戦略で経験を元にしたナレッジ活用</title>
       <link>https://acro-engineer.hatenablog.com/entry/2026/02/27/120000</link>
@@ -209,6 +182,33 @@
       <guid isPermaLink="true">https://tech.kikitori.jp/entry/2026/02/27/215616</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/6dfeb3846d9d4afa94735c5f869ad4351ed4d2da/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshotaoogi-kikitori%2F20260227%2F20260227094039.png" length="None" type="image/png"/>
       <pubDate>Fri, 27 Feb 2026 12:56:16 +0000</pubDate>
+    </item>
+    <item>
+      <title> AWS Config Custom Policy（Guard）でタグ検知する際の注意点 </title>
+      <link>https://blog.serverworks.co.jp/config/custom-required-tags</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/config/custom-required-tags</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/f31f81b5c629e7b9f39f5a80dc22019bdaf7410d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-chika-kuroki%2F20260228%2F20260228093835.png" length="None" type="image/png"/>
+      <pubDate>Sat, 28 Feb 2026 00:57:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kiroを補助魔法で強化！おすすめのKiro Powersを紹介！</title>
+      <link>https://techblog.forgevision.com/entry/2026/02/28/150332</link>
+      <guid isPermaLink="true">https://techblog.forgevision.com/entry/2026/02/28/150332</guid>
+      <pubDate>Sat, 28 Feb 2026 06:03:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>ClaudeCodeで業務効率化！SlackBotでAIネイティブへ</title>
+      <link>https://tech.algomatic.jp/entry/2026/02/28/154734</link>
+      <guid isPermaLink="true">https://tech.algomatic.jp/entry/2026/02/28/154734</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/c6239b237e6ac4af8846ac2610b69f0d249c93d2/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fo%2Footsuka_techs%2F20260227%2F20260227073558.png" length="None" type="image/png"/>
+      <pubDate>Sat, 28 Feb 2026 06:47:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Agentic Workflows を試してみた</title>
+      <link>https://blog.serverworks.co.jp/try-github-agentic-workflows</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/try-github-agentic-workflows</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 28 Feb 2026 13:44:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

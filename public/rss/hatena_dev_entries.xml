@@ -7,20 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 01 Mar 2026 03:49:46 +0000</lastBuildDate>
-    <item>
-      <title>Amazon Bedrock AgentCore Memory のエピソード戦略で経験を元にしたナレッジ活用</title>
-      <link>https://acro-engineer.hatenablog.com/entry/2026/02/27/120000</link>
-      <guid isPermaLink="true">https://acro-engineer.hatenablog.com/entry/2026/02/27/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/20f33f544deff6d05ec9f3fa0c966c53ba81a4f4/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Facro-maruyama%2F20260227%2F20260227000541.png" length="None" type="image/png"/>
-      <pubDate>Fri, 27 Feb 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Search Engineering Tech Talk 2026 Winterを新オフィスで開催しました</title>
-      <link>https://tech.cierpa.co.jp/entry/2026/02/27/124332</link>
-      <guid isPermaLink="true">https://tech.cierpa.co.jp/entry/2026/02/27/124332</guid>
-      <pubDate>Fri, 27 Feb 2026 03:43:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Mar 2026 03:45:17 +0000</lastBuildDate>
     <item>
       <title>Oktaってなにができるの？ Okta Workflows編</title>
       <link>https://blogs.networld.co.jp/entry/2026/02/27/130714</link>
@@ -209,6 +196,20 @@
       <guid isPermaLink="true">https://blog.serverworks.co.jp/try-github-agentic-workflows</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
       <pubDate>Sat, 28 Feb 2026 13:44:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>【AKS】 Ingress NGINXからNGINX Gateway Fabricへの乗り換え記</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/03/01/083000</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/03/01/083000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e80d8bca065e47cdf96390d67e8a3fbf55b6850a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Fturtle2005%2F20230310%2F20230310134134.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 28 Feb 2026 23:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【2026/2/22〜28】Claude Code更新情報 Remote Control登場・Auto-Memory追加</title>
+      <link>https://blog.serverworks.co.jp/2026/03/01/170000</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/03/01/170000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/18b3c37ed1e443ddf1fb5975fa057a6c4368a67d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-tomoya-ikeda%2F20260301%2F20260301080729.png" length="None" type="image/png"/>
+      <pubDate>Sun, 01 Mar 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

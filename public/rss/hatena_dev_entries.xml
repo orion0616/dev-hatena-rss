@@ -7,35 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 Mar 2026 03:37:31 +0000</lastBuildDate>
-    <item>
-      <title>Databricks Unity Catalog への移行と MCP 活用</title>
-      <link>https://tech.every.tv/entry/2026/03/06/115639</link>
-      <guid isPermaLink="true">https://tech.every.tv/entry/2026/03/06/115639</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/aa33e5a4458c93338811d0fc69df5cc45e889f60/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fi%2Fika190%2F20260305%2F20260305184941.png" length="None" type="image/png"/>
-      <pubDate>Fri, 06 Mar 2026 02:56:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>新人研修とアプリ開発 ‐AIと共に-</title>
-      <link>https://iridge-tech.hatenablog.com/entry/2026/03/06/120000</link>
-      <guid isPermaLink="true">https://iridge-tech.hatenablog.com/entry/2026/03/06/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/78d962b7f9dbb6972593aa046a6c12fca05f7866/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamada_ir%2F20260302%2F20260302151331.png" length="None" type="image/png"/>
-      <pubDate>Fri, 06 Mar 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code の Learning Style で学ぶ Rust Clean Architecture</title>
-      <link>https://techblog.spiderplus.co.jp/entry/2026/03/06/120000</link>
-      <guid isPermaLink="true">https://techblog.spiderplus.co.jp/entry/2026/03/06/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/1276e4a908c848f97cbc1f2ba0eb4dc671eefb5d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fspiderplus%2F20260305%2F20260305151723.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 06 Mar 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Codeで業務ルーチンを回す ─ SREエンジニアの実践記録(2026/03版</title>
-      <link>https://techblog.lclco.com/entry/2026/03/06/121928</link>
-      <guid isPermaLink="true">https://techblog.lclco.com/entry/2026/03/06/121928</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/002c6544d3c400871a790eac7e4b1654dd8728ef/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkasei_san%2F20260305%2F20260305135821.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 06 Mar 2026 03:19:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Mar 2026 03:45:10 +0000</lastBuildDate>
     <item>
       <title>AIエージェント時代、僕たちの仕事は「問いを見つけて語る」になる</title>
       <link>https://gmo-aozora.hatenablog.com/entry/2026/03/06/122300</link>
@@ -197,6 +169,20 @@
       <pubDate>Fri, 06 Mar 2026 10:42:42 +0000</pubDate>
     </item>
     <item>
+      <title>Amazon S3 Vectors を試してみた — ベクトル検索から Bedrock Knowledge Base 統合まで</title>
+      <link>https://blog.serverworks.co.jp/amazon-s3-vectors-bedrock-knowledge-base</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/amazon-s3-vectors-bedrock-knowledge-base</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/5168db45caeb5bd9f5c2a96c9b9fb0c9c206a94a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-yamamoto%2F20260306%2F20260306211627.png" length="None" type="image/png"/>
+      <pubDate>Fri, 06 Mar 2026 12:18:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>自分が見ていた未来を、翌日Cursorが公式リリースした話</title>
+      <link>https://blog.ingage.jp/entry/2026/03/06/222619</link>
+      <guid isPermaLink="true">https://blog.ingage.jp/entry/2026/03/06/222619</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6e211e6d148f285367a27110c479674b21bf0745/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fymd2%2F20260306%2F20260306222019.png" length="None" type="image/png"/>
+      <pubDate>Fri, 06 Mar 2026 13:26:19 +0000</pubDate>
+    </item>
+    <item>
       <title>Claude Codeに「チームの設計思想」を教え込んだら、最高の開発体験になった話</title>
       <link>https://tech.youtrust.co.jp/entry/ai_guidance</link>
       <guid isPermaLink="true">https://tech.youtrust.co.jp/entry/ai_guidance</guid>
@@ -209,6 +195,19 @@
       <guid isPermaLink="true">https://techblog.beex-inc.com/entry/2026/03/06/231358</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/e0eb2fc618394aa70b85ffdc2aaa21367ba93435/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbeex-kota-abe%2F20260225%2F20260225231904.png" length="None" type="image/png"/>
       <pubDate>Fri, 06 Mar 2026 14:13:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>仮売上と売上の実際にあったゾゾっとする決済パターン 〜重複返金のお話（イシュア側）〜</title>
+      <link>https://blog.miive.jp/entry/2026/03/07/160000</link>
+      <guid isPermaLink="true">https://blog.miive.jp/entry/2026/03/07/160000</guid>
+      <pubDate>Sat, 07 Mar 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>大吉祥寺.pm2026を開催します!!</title>
+      <link>https://kichijojipm.hatenablog.com/entry/2026/03/07/212425</link>
+      <guid isPermaLink="true">https://kichijojipm.hatenablog.com/entry/2026/03/07/212425</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/00e506b20b99d5d99b7f341d7b2aded47a92c40b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsudoakiy%2F20260307%2F20260307185526.png" length="None" type="image/png"/>
+      <pubDate>Sat, 07 Mar 2026 12:24:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

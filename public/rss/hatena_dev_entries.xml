@@ -7,54 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Mar 2026 03:56:13 +0000</lastBuildDate>
-    <item>
-      <title>社内AI LT会を開催しました</title>
-      <link>https://blog.colopl.dev/entry/2026/03/13/110000</link>
-      <guid isPermaLink="true">https://blog.colopl.dev/entry/2026/03/13/110000</guid>
-      <pubDate>Fri, 13 Mar 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>春の教育工学会 全国大会に参加しました</title>
-      <link>https://blog.nnn.dev/entry/2026/03/13/110000</link>
-      <guid isPermaLink="true">https://blog.nnn.dev/entry/2026/03/13/110000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/3b6d64b8346304ff097e2f0bb946161b8a49a176/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fi%2Fitadw%2F20260309%2F20260309171741.png" length="None" type="image/png"/>
-      <pubDate>Fri, 13 Mar 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>JAWS DAYS 2026に参加してきました！</title>
-      <link>https://tech.bm-sms.co.jp/entry/2026/03/13/110000</link>
-      <guid isPermaLink="true">https://tech.bm-sms.co.jp/entry/2026/03/13/110000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/a61350251bb2b31b5073ef8939fa9681b7dcaf3c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbm-sms%2F20260313%2F20260313110043.png" length="None" type="image/png"/>
-      <pubDate>Fri, 13 Mar 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LangfuseによるLLMOps基盤の構築と活用事例</title>
-      <link>https://techblog.zozo.com/entry/llmops-observability-with-langfuse</link>
-      <guid isPermaLink="true">https://techblog.zozo.com/entry/llmops-observability-with-langfuse</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6b87c7e765444c4777d663f815414f1698655508/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260311%2F20260311182013.png" length="None" type="image/png"/>
-      <pubDate>Fri, 13 Mar 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PostgreSQL 18からNOT NULL制約をNOT VALIDで追加できるようになりました</title>
-      <link>https://www.m3tech.blog/entry/2026/03/13/110000</link>
-      <guid isPermaLink="true">https://www.m3tech.blog/entry/2026/03/13/110000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/188442d26dacaf3cec3331f49a1e4dc020fe0840/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20260313%2F20260313110002.png" length="None" type="image/png"/>
-      <pubDate>Fri, 13 Mar 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIコーディングの「3つの負債」を溜めない技術 — 個人の実践から組織の仕組みへ</title>
-      <link>https://techblog.ap-com.co.jp/entry/2026/03/13/110000</link>
-      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/03/13/110000</guid>
-      <pubDate>Fri, 13 Mar 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MS Learnで実践！Microsoft FoundryとVS Code拡張機能でAIエージェントを構築・連携する</title>
-      <link>https://techblog.ap-com.co.jp/entry/2026/03/13/112808</link>
-      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/03/13/112808</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/9bb84f9d5a557160a545af4b9b557b720e458b30/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fs_tomi%2F20260313%2F20260313115533.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 13 Mar 2026 02:28:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Mar 2026 03:58:49 +0000</lastBuildDate>
     <item>
       <title>サイボウズは JaSST'26 Tokyo で協賛＆登壇します！</title>
       <link>https://blog.cybozu.io/entry/2026/03/13/113000</link>
@@ -212,6 +165,51 @@
       <guid isPermaLink="true">https://tech.giftee.co.jp/entry/2026/03/13/192412</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/f83fe3be7066040953de1156ac43410768f4988a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgiftee-dev%2F20260311%2F20260311162852.png" length="None" type="image/png"/>
       <pubDate>Fri, 13 Mar 2026 10:24:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>スクラムフェス福岡に参加して考えた、生成AI時代のスプリント</title>
+      <link>https://aadojo.alterbooth.com/entry/2026/03/15/110000</link>
+      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2026/03/15/110000</guid>
+      <pubDate>Sun, 15 Mar 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>過剰歯</title>
+      <link>https://suzuki-d-c.hatenablog.jp/entry/2026/03/15/140745</link>
+      <guid isPermaLink="true">https://suzuki-d-c.hatenablog.jp/entry/2026/03/15/140745</guid>
+      <pubDate>Sun, 15 Mar 2026 05:07:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>口内炎</title>
+      <link>https://suzuki-d-c.hatenablog.jp/entry/2026/03/15/160310</link>
+      <guid isPermaLink="true">https://suzuki-d-c.hatenablog.jp/entry/2026/03/15/160310</guid>
+      <pubDate>Sun, 15 Mar 2026 07:03:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>口腔がん</title>
+      <link>https://suzuki-d-c.hatenablog.jp/entry/2026/03/15/162709</link>
+      <guid isPermaLink="true">https://suzuki-d-c.hatenablog.jp/entry/2026/03/15/162709</guid>
+      <pubDate>Sun, 15 Mar 2026 07:27:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>送信元 IPでAWSアクセスを制限する際のIAMポリシーの注意点</title>
+      <link>https://blog.serverworks.co.jp/SourceIp</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/SourceIp</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
+      <pubDate>Sun, 15 Mar 2026 08:50:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Lambda不要】EventBridge + SNSでメール件名と本文を自由にカスタマイズする方法（Step Functions活用）</title>
+      <link>https://blog.serverworks.co.jp/2026/03/15/182408</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/03/15/182408</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
+      <pubDate>Sun, 15 Mar 2026 09:24:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code更新 1Mコンテキスト対応・btwコマンド・MCP Elicitation【2026/3/8〜14】</title>
+      <link>https://blog.serverworks.co.jp/2026/03/15/190000</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/03/15/190000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6221963ae08e56f311a6c6321ba5c2f25b9138b5/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-tomoya-ikeda%2F20260314%2F20260314211420.png" length="None" type="image/png"/>
+      <pubDate>Sun, 15 Mar 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

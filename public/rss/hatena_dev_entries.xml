@@ -7,26 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 04 Apr 2026 03:46:31 +0000</lastBuildDate>
-    <item>
-      <title>【3分でわかる】HARMONYとは？コールセンター業務を効率化するクラウドシステム</title>
-      <link>https://blog.logical.co.jp/entry/2026/04/03/132200</link>
-      <guid isPermaLink="true">https://blog.logical.co.jp/entry/2026/04/03/132200</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/f737aa433c566ecb4c2c133b5858fd9b44b941f8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fl%2Flogicalarts%2F20250417%2F20250417131828.png" length="None" type="image/png"/>
-      <pubDate>Fri, 03 Apr 2026 04:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Identity-Aware Proxyで保護されたAPIをGoogleスプレッドシートのApps Scriptから実行する</title>
-      <link>https://techblog.goinc.jp/entry/2026/04/03/132518</link>
-      <guid isPermaLink="true">https://techblog.goinc.jp/entry/2026/04/03/132518</guid>
-      <pubDate>Fri, 03 Apr 2026 04:25:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>エシェロン解析で交通事故発生地点を分類する</title>
-      <link>https://techblog.goinc.jp/entry/2026/04/03/132601</link>
-      <guid isPermaLink="true">https://techblog.goinc.jp/entry/2026/04/03/132601</guid>
-      <pubDate>Fri, 03 Apr 2026 04:26:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Apr 2026 03:58:04 +0000</lastBuildDate>
     <item>
       <title>日本語ばらまきマルウェアメールの観測状況 2026 Q1: ValleyRAT に感染させるメールの分析 </title>
       <link>https://blog.itochuci.co.jp/entry/2026/04/03/133000</link>
@@ -210,6 +191,27 @@
       <guid isPermaLink="true">https://design-tech.xtone.co.jp/entry/2026/04/03/204821</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/c6ad76ebbb94e14157cfff08d7317ac9eade391f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fknktkc%2F20260403%2F20260403204511.jpg" length="None" type="image/jpeg"/>
       <pubDate>Fri, 03 Apr 2026 11:48:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>DataFrameを型安全に使うためのライブラリpaviseを作った話</title>
+      <link>https://www.m3tech.blog/entry/python/pavise</link>
+      <guid isPermaLink="true">https://www.m3tech.blog/entry/python/pavise</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/a736fdc155bac09f1f9a4803d7b1939cdf7c1d21/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20260404%2F20260404110003.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 04 Apr 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>4コマ漫画は“1本”より“1冊”が面白い-コミタンMが4コマ漫画沼にハマるまで</title>
+      <link>https://developers.bookwalker.jp/entry/2026/04/04/150000</link>
+      <guid isPermaLink="true">https://developers.bookwalker.jp/entry/2026/04/04/150000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/a05ec1f2ab6ae1d0a85ba6c4bb69c83116a62662/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbookwalker_writer%2F20260331%2F20260331131931.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 04 Apr 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>imapsync を利用して Amazon WorkMail からの移行をしてみた</title>
+      <link>https://blog.serverworks.co.jp/transfer-from-workmail-to-sakuramailbox</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/transfer-from-workmail-to-sakuramailbox</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 04 Apr 2026 10:07:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

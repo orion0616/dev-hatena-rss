@@ -7,20 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 Apr 2026 03:58:04 +0000</lastBuildDate>
-    <item>
-      <title>日本語ばらまきマルウェアメールの観測状況 2026 Q1: ValleyRAT に感染させるメールの分析 </title>
-      <link>https://blog.itochuci.co.jp/entry/2026/04/03/133000</link>
-      <guid isPermaLink="true">https://blog.itochuci.co.jp/entry/2026/04/03/133000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/23654e4f1fb0317b5cf177cc0290e360e39296dd/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fi%2Fici-blog%2F20260401%2F20260401180610.png" length="None" type="image/png"/>
-      <pubDate>Fri, 03 Apr 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>オープンロジ CRE のいま</title>
-      <link>https://openlogi.hatenablog.com/entry/2026/04/03/133301</link>
-      <guid isPermaLink="true">https://openlogi.hatenablog.com/entry/2026/04/03/133301</guid>
-      <pubDate>Fri, 03 Apr 2026 04:33:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Apr 2026 03:59:15 +0000</lastBuildDate>
     <item>
       <title>  「家族も仕事も、本気で。」——子育て中のパパエンジニアが選んだestieという環境</title>
       <link>https://www.estie.jp/blog/entry/2026/04/03/1400-culture-papaengineer</link>
@@ -212,6 +199,20 @@
       <guid isPermaLink="true">https://blog.serverworks.co.jp/transfer-from-workmail-to-sakuramailbox</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
       <pubDate>Sat, 04 Apr 2026 10:07:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agentic Coding時代のデータ分析環境： marimo + gokartで高速かつ再現性あるEDAを実現しよう</title>
+      <link>https://www.m3tech.blog/entry/agentic-eda</link>
+      <guid isPermaLink="true">https://www.m3tech.blog/entry/agentic-eda</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/a1382859033a3e6bc9bc17d55509089a4389fdd7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20260405%2F20260405183003.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sun, 05 Apr 2026 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code更新 Computer Use CLI・powerup・ultraplan【3/29〜4/4】</title>
+      <link>https://blog.serverworks.co.jp/2026/04/05/190000</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/04/05/190000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/1a67d2280476e4c6bb8b4081b6461b71a0c043d5/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-tomoya-ikeda%2F20260405%2F20260405110806.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sun, 05 Apr 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

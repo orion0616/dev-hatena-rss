@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Apr 2026 03:48:55 +0000</lastBuildDate>
-    <item>
-      <title>オープンソースの PNG 画像変換・軽量化アプリケーション「colopresso」を公開しました</title>
-      <link>https://blog.colopl.dev/entry/2026/04/10/110000</link>
-      <guid isPermaLink="true">https://blog.colopl.dev/entry/2026/04/10/110000</guid>
-      <pubDate>Fri, 10 Apr 2026 02:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Apr 2026 04:00:44 +0000</lastBuildDate>
     <item>
       <title>キャディでの Google Cloud PAM 導入および運用の工夫</title>
       <link>https://caddi.tech/2026/04/10/110000</link>
@@ -99,7 +93,7 @@
       <title>Fargate/LambdaのDockerビルドでCodeArtifactのトークンどう渡す？（ARG/ENVはNG）</title>
       <link>https://blog.serverworks.co.jp/codeartifact-docker-build-secrets</link>
       <guid isPermaLink="true">https://blog.serverworks.co.jp/codeartifact-docker-build-secrets</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6664132dcddbfbd001b2cb683c1d38e33b60a6f1/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-youko-miyake%2F20260409%2F20260409164354.jpg" length="None" type="image/jpeg"/>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
       <pubDate>Fri, 10 Apr 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
@@ -210,6 +204,13 @@
       <guid isPermaLink="true">https://llmo-ai-knowledgeholdings.hatenablog.com/entry/listing-ads-structured-data-strategy</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/51f16d9677b6107a6f1547fd276bfb326ce02b60/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fl%2Fllmo_ai_knowledgeholdings%2F20260410%2F20260410205154.png" length="None" type="image/png"/>
       <pubDate>Fri, 10 Apr 2026 11:55:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agentic MLOpsで加速する機械学習開発</title>
+      <link>https://www.m3tech.blog/entry/2026/04/11/130000</link>
+      <guid isPermaLink="true">https://www.m3tech.blog/entry/2026/04/11/130000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/1d4bf30df1e100a67be5f1a5498540472055ac73/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20260411%2F20260411130001.png" length="None" type="image/png"/>
+      <pubDate>Sat, 11 Apr 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

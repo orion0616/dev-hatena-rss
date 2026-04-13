@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 12 Apr 2026 04:00:44 +0000</lastBuildDate>
-    <item>
-      <title>キャディでの Google Cloud PAM 導入および運用の工夫</title>
-      <link>https://caddi.tech/2026/04/10/110000</link>
-      <guid isPermaLink="true">https://caddi.tech/2026/04/10/110000</guid>
-      <pubDate>Fri, 10 Apr 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>「YAPC::Tokyo 2026」、東京ビッグサイトで開催します!!!</title>
-      <link>https://blog.yapcjapan.org/entry/2026/04/10/110000</link>
-      <guid isPermaLink="true">https://blog.yapcjapan.org/entry/2026/04/10/110000</guid>
-      <pubDate>Fri, 10 Apr 2026 02:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Apr 2026 04:04:30 +0000</lastBuildDate>
     <item>
       <title>QAエンジニアによる既存テストの改善活動</title>
       <link>https://blog.cybozu.io/entry/2026/04/10/113000</link>
@@ -211,6 +199,20 @@
       <guid isPermaLink="true">https://www.m3tech.blog/entry/2026/04/11/130000</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/1d4bf30df1e100a67be5f1a5498540472055ac73/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20260411%2F20260411130001.png" length="None" type="image/png"/>
       <pubDate>Sat, 11 Apr 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAM3とマトリックス・コードで作る"cat matrix"</title>
+      <link>https://www.m3tech.blog/entry/2026/04/12/100000</link>
+      <guid isPermaLink="true">https://www.m3tech.blog/entry/2026/04/12/100000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/33ceb7f8931a1d21dd156d01496f0a7c947b595b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20260412%2F20260412103505.png" length="None" type="image/png"/>
+      <pubDate>Sun, 12 Apr 2026 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code更新 Managed Agents連携・autofix-pr・team-onboarding【4/5〜11】</title>
+      <link>https://blog.serverworks.co.jp/2026/04/12/190000</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/04/12/190000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/b9dedf72bbe211be652c61be7fd23e24854a5233/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-tomoya-ikeda%2F20260412%2F20260412103546.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sun, 12 Apr 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,40 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 19 Apr 2026 04:01:31 +0000</lastBuildDate>
-    <item>
-      <title>「迷ったらYES」が現場を加速させる。職種の壁を溶かし、一体感を生む「オンサイト×密連携」の力（後編）</title>
-      <link>https://iplug-tech.hatenablog.com/entry/2026/04/17/110000</link>
-      <guid isPermaLink="true">https://iplug-tech.hatenablog.com/entry/2026/04/17/110000</guid>
-      <pubDate>Fri, 17 Apr 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>dbt管理下にないテーブルをdbt macroで一括削除する</title>
-      <link>https://tech.yappli.io/entry/dbt-macro-cleanup-tables</link>
-      <guid isPermaLink="true">https://tech.yappli.io/entry/dbt-macro-cleanup-tables</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/762b3c9cd61cddcd7b4e3bf146f671e4d307b955/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-yappli%2F20260414%2F20260414092857.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 17 Apr 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>不確実性を下げるリファインメントでのQAの関わり方</title>
-      <link>https://blog.cybozu.io/entry/2026/04/17/113000</link>
-      <guid isPermaLink="true">https://blog.cybozu.io/entry/2026/04/17/113000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/432e6c2ef5fb01469e9cd223a4111090279c4e77/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcybozuinsideout%2F20260417%2F20260417113004.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 17 Apr 2026 02:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>エニグモのアドベントカレンダー2025の振り返りと運営の工夫</title>
-      <link>https://tech.enigmo.co.jp/entry/2026/04/17/113000</link>
-      <guid isPermaLink="true">https://tech.enigmo.co.jp/entry/2026/04/17/113000</guid>
-      <pubDate>Fri, 17 Apr 2026 02:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Logic AppsをMCPサーバー化してMicrosoft FoundryのAI Agentからフローを呼び出す方法</title>
-      <link>https://blog.jbs.co.jp/entry/2026/04/17/113904</link>
-      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2026/04/17/113904</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d53b2cd64b6aa9771d74712d447be2ca1cb2c54b/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F158660714%2F1667527455467771" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 17 Apr 2026 02:39:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Apr 2026 04:04:26 +0000</lastBuildDate>
     <item>
       <title>Shadow DeployによるMLシステムの安定マイグレーション</title>
       <link>https://caddi.tech/2026/04/17/120000</link>
@@ -207,6 +174,41 @@
       <guid isPermaLink="true">https://blog.smartbank.co.jp/entry/rubykaigi2026</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/a57b6bcabb3b5f6ec0659bebaa615c4ba1fe3a25/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmartbank%2F20260417%2F20260417194323.png" length="None" type="image/png"/>
       <pubDate>Fri, 17 Apr 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EVOX 11・ゼロオフセット</title>
+      <link>https://rizing-pa.hatenablog.com/entry/2026/04/18/124452</link>
+      <guid isPermaLink="true">https://rizing-pa.hatenablog.com/entry/2026/04/18/124452</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/41b83076edbdbe3f3baee087b352210b1491edcd/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FR%2FRIZING-PA%2F20260418%2F20260418120525.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 18 Apr 2026 03:44:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic から新しくリリースされた Claude Design は何であり、何が新しいのか</title>
+      <link>https://tech.kikitori.jp/entry/2026/04/19/132528</link>
+      <guid isPermaLink="true">https://tech.kikitori.jp/entry/2026/04/19/132528</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/b7ca267b055309e55f70bda932795e7cbd7f35f4/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkikitori-jp%2F20260419%2F20260419121215.png" length="None" type="image/png"/>
+      <pubDate>Sun, 19 Apr 2026 04:25:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS の Kiro で AI-DLC をやってみたら、おひとり様でも”非同期コラボ”が捗った話</title>
+      <link>https://techblog.forgevision.com/entry/kiro/ai-dlc</link>
+      <guid isPermaLink="true">https://techblog.forgevision.com/entry/kiro/ai-dlc</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/c6d972c65b36b079a74a29827065f6e1d7fa7690/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fo%2Fotanikohei%2F20260419%2F20260419141051.png" length="None" type="image/png"/>
+      <pubDate>Sun, 19 Apr 2026 05:22:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>【2026年4月最新】Claude Code デスクトップアプリ完全刷新 全機能徹底レビュー</title>
+      <link>https://blog.serverworks.co.jp/claude-code-desktop-redesign-2026</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/claude-code-desktop-redesign-2026</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6a9e594f1dfb356d437f53ac68940b484fe91744/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-tomoya-ikeda%2F20260419%2F20260419081043.png" length="None" type="image/png"/>
+      <pubDate>Sun, 19 Apr 2026 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code更新 デスクトップ刷新・ultrareview【4/12〜18】</title>
+      <link>https://blog.serverworks.co.jp/2026/04/19/190000</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/04/19/190000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/2a84b97ea1214b0ffcbb64e88d947447016dbce6/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-tomoya-ikeda%2F20260419%2F20260419080337.png" length="None" type="image/png"/>
+      <pubDate>Sun, 19 Apr 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

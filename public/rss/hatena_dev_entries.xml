@@ -7,34 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Apr 2026 03:56:46 +0000</lastBuildDate>
-    <item>
-      <title>社内限定 AI Skill 管理 / インストール方法３分クッキング</title>
-      <link>https://techblog.hacomono.jp/entry/2026/04/24/110000</link>
-      <guid isPermaLink="true">https://techblog.hacomono.jp/entry/2026/04/24/110000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/1929dc5cc5c3c20248203b724eccf5024ac1b750/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhacomono-tech%2F20260422%2F20260422154041.png" length="None" type="image/png"/>
-      <pubDate>Fri, 24 Apr 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PHPカンファレンス小田原2026のブース企画でスタンプラリーをやりました</title>
-      <link>https://devblog.thebase.in/entry/2026/04/24/110000</link>
-      <guid isPermaLink="true">https://devblog.thebase.in/entry/2026/04/24/110000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/4a595212d9b99db43b348eb3dcda79a9eaa6b08d/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F153078222%2F1614340287711564" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 24 Apr 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>新人PM Devinくん奮闘記</title>
-      <link>https://tech.repro.io/entry/2026/04/24/110109</link>
-      <guid isPermaLink="true">https://tech.repro.io/entry/2026/04/24/110109</guid>
-      <pubDate>Fri, 24 Apr 2026 02:01:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>新卒3年目QAの振り返り：少しずつできることが増えてきた話</title>
-      <link>https://blog.cybozu.io/entry/2026/04/24/113000</link>
-      <guid isPermaLink="true">https://blog.cybozu.io/entry/2026/04/24/113000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/5baf8b05f53076b5e675898d3a05b89665af1a35/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcybozuinsideout%2F20260424%2F20260424113002.png" length="None" type="image/png"/>
-      <pubDate>Fri, 24 Apr 2026 02:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Apr 2026 04:07:45 +0000</lastBuildDate>
     <item>
       <title>AIエージェントのチャット中断機能の実装 — AbortSignalからポーリング方式へ</title>
       <link>https://tech.righttouch.co.jp/entry/2026/04/24/121945</link>
@@ -207,6 +180,33 @@
       <guid isPermaLink="true">https://tech.akariinc.co.jp/entry/2026/04/24/192149</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/9ae80fe5344255b4583ec7682f5091674c6b3f4f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Fakariinc%2F20260424%2F20260424192103.png" length="None" type="image/png"/>
       <pubDate>Fri, 24 Apr 2026 10:21:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>RubyKaigi 2026 3日目 体験レポート</title>
+      <link>https://design-tech.xtone.co.jp/entry/2026/04/25/060154</link>
+      <guid isPermaLink="true">https://design-tech.xtone.co.jp/entry/2026/04/25/060154</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/f598b6a00d3c56d17f5707337f570181fff22658/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ft_morooka%2F20260424%2F20260424234034.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Fri, 24 Apr 2026 21:01:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>ICLR2026が開催中なので、エムスリー AI・機械学習チームの推し論文を勝手に紹介するぜ！</title>
+      <link>https://www.m3tech.blog/entry/2026/04/25/100000</link>
+      <guid isPermaLink="true">https://www.m3tech.blog/entry/2026/04/25/100000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/2767c7a93daf22e97d9ab593fc4f65f5f9affb44/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20260425%2F20260425100027.png" length="None" type="image/png"/>
+      <pubDate>Sat, 25 Apr 2026 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>rubydex MCPでClaude Codeのトークン消費は減るのか？タイミーモノリスRailsで検証した</title>
+      <link>https://tech.timee.co.jp/entry/2026/04/25/185149</link>
+      <guid isPermaLink="true">https://tech.timee.co.jp/entry/2026/04/25/185149</guid>
+      <pubDate>Sat, 25 Apr 2026 09:51:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Opus 4.7 vs GPT-5.5 どこが強くてどこが弱い？ベンチマーク比較</title>
+      <link>https://blog.serverworks.co.jp/2026/04/25/190000</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/04/25/190000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/01ba65088b894cf12c533db13b4dd68da6b06d79/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-tomoya-ikeda%2F20260425%2F20260425132853.png" length="None" type="image/png"/>
+      <pubDate>Sat, 25 Apr 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

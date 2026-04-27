@@ -7,27 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Apr 2026 04:07:45 +0000</lastBuildDate>
-    <item>
-      <title>AIエージェントのチャット中断機能の実装 — AbortSignalからポーリング方式へ</title>
-      <link>https://tech.righttouch.co.jp/entry/2026/04/24/121945</link>
-      <guid isPermaLink="true">https://tech.righttouch.co.jp/entry/2026/04/24/121945</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/53e2a0af7d8d7a9c218ba7318a74d8ed35ee25e7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Frighttouch_dev%2F20260422%2F20260422191516.png" length="None" type="image/png"/>
-      <pubDate>Fri, 24 Apr 2026 03:19:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>EMConf JP 2026 参加レポート~「増幅」と「触媒」としてのEM~</title>
-      <link>https://tech.enechange.co.jp/entry/2026/04/24/122150</link>
-      <guid isPermaLink="true">https://tech.enechange.co.jp/entry/2026/04/24/122150</guid>
-      <pubDate>Fri, 24 Apr 2026 03:21:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>GA 版 Microsoft Agent Framework を使って Microsoft Foundry 上の既存エージェントを利用する</title>
-      <link>https://blog.jbs.co.jp/entry/2026/04/24/122416</link>
-      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2026/04/24/122416</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/962fd123d60052307beb691b1e2674458209ef38/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjbs_terasawas%2F20260420%2F20260420123640.png" length="None" type="image/png"/>
-      <pubDate>Fri, 24 Apr 2026 03:24:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Apr 2026 04:11:18 +0000</lastBuildDate>
     <item>
       <title>RubyKaigi 2026 Day 2 体験記 </title>
       <link>https://design-tech.xtone.co.jp/entry/2026/04/24/122528</link>
@@ -63,7 +43,7 @@
       <pubDate>Fri, 24 Apr 2026 04:19:55 +0000</pubDate>
     </item>
     <item>
-      <title>8 Tips to Agentic Security Operations in 18 Minutes(Google Cloud Next '26セッションレポート)</title>
+      <title>8 Tips to Agentic Security Operations in 18 Minutes(Google Cloud Next '26速報)</title>
       <link>https://blog.g-gen.co.jp/entry/next-26-eight-tips-to-agentic-security-operations</link>
       <guid isPermaLink="true">https://blog.g-gen.co.jp/entry/next-26-eight-tips-to-agentic-security-operations</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/156e47663fe1a83e2b395b9ed4081457d47a711a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20260424%2F20260424133002.jpg" length="None" type="image/jpeg"/>
@@ -207,6 +187,27 @@
       <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/04/25/190000</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/01ba65088b894cf12c533db13b4dd68da6b06d79/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-tomoya-ikeda%2F20260425%2F20260425132853.png" length="None" type="image/png"/>
       <pubDate>Sat, 25 Apr 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>try! Swift Tokyo 2026を開催しました</title>
+      <link>https://tryswifttokyo.hatenablog.com/entry/2026/04/26/114040</link>
+      <guid isPermaLink="true">https://tryswifttokyo.hatenablog.com/entry/2026/04/26/114040</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/770d14d842f9c027851aa00576349980a8956f85/height=144;version=1;width=224/https%3A%2F%2Flh3.googleusercontent.com%2Fpw%2FAP1GczOt1wD40lOvRZFRjPYua74C6L3x7PUadls1Ofjq59uUE_MNR57hrtVn_bHmgC5sc83f2QmJ0lcd-xJpC3IIBleMHcj3TdDnDT_RpVOcBpU7oTzfWENCUKF9mEfRe3P1mOPA0cCpC_EelGPTbSwvRUrImw%3Dw2574-h1716-s-no-gm%3Fauthuser%3D0" length="None" type="image/jpeg"/>
+      <pubDate>Sun, 26 Apr 2026 02:40:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code更新 Forkサブエージェント・MCPフック・Vim強化【4/19〜25】</title>
+      <link>https://blog.serverworks.co.jp/2026/04/26/190000</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/04/26/190000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e1f84e3de700e9562250505c377c64700b3a52d6/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-tomoya-ikeda%2F20260426%2F20260426111506.png" length="None" type="image/png"/>
+      <pubDate>Sun, 26 Apr 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Graph MemoryでAgentic Searchをさらに強化する</title>
+      <link>https://blog.ingage.jp/entry/2026/04/26/223731</link>
+      <guid isPermaLink="true">https://blog.ingage.jp/entry/2026/04/26/223731</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/4c10fb0dbc51d449acdcc0f2e265f0cfa9867f74/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjinyang%2F20260426%2F20260426220207.gif" length="None" type="image/jpeg"/>
+      <pubDate>Sun, 26 Apr 2026 13:37:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

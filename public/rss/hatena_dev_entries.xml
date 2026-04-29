@@ -7,209 +7,210 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 28 Apr 2026 04:14:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 04:11:31 +0000</lastBuildDate>
     <item>
-      <title>データで見るGoogleマップMEO効果！成功事例と失敗から学ぶLLMO戦略【ダイジェスト版】</title>
-      <link>https://llmo-ai-knowledgeholdings.hatenablog.com/entry/google-maps-meo-llmo-data</link>
-      <guid isPermaLink="true">https://llmo-ai-knowledgeholdings.hatenablog.com/entry/google-maps-meo-llmo-data</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/48029de41cb7ba6e56f1ea2efaea579e6b87ec90/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fl%2Fllmo_ai_knowledgeholdings%2F20260427%2F20260427102437.png" length="None" type="image/png"/>
-      <pubDate>Mon, 27 Apr 2026 01:28:39 +0000</pubDate>
+      <title>継続的な負荷テスト環境をBASEに構築しました 〜 第3回: モックツールの構築と運用</title>
+      <link>https://devblog.thebase.in/entry/2026/04/28/110000</link>
+      <guid isPermaLink="true">https://devblog.thebase.in/entry/2026/04/28/110000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/4a595212d9b99db43b348eb3dcda79a9eaa6b08d/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F153078222%2F1614340287711564" length="None" type="image/jpeg"/>
+      <pubDate>Tue, 28 Apr 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZEN Study SRE 10年のインフラ・CI/CDの変遷</title>
+      <link>https://blog.nnn.dev/entry/2026/04/28/110000</link>
+      <guid isPermaLink="true">https://blog.nnn.dev/entry/2026/04/28/110000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/cdf30d45e5c4b400b3945d3a70cbf8e69f41de7c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnaari_3%2F20260424%2F20260424204042.png" length="None" type="image/png"/>
+      <pubDate>Tue, 28 Apr 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>しゃぶ葉のテーブルで学ぶMITM 〜届かなかった六穀豚が教えてくれた通信暗号化の大切さ〜</title>
+      <link>https://tech-blog.sterrasec.com/entry/2026/04/28/110000</link>
+      <guid isPermaLink="true">https://tech-blog.sterrasec.com/entry/2026/04/28/110000</guid>
+      <pubDate>Tue, 28 Apr 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QAエンジニアとして 1年目 → 2年目 の仕事はどう変わった？これまでの変化を振り返る</title>
+      <link>https://blog.cybozu.io/entry/2026/04/28/113000</link>
+      <guid isPermaLink="true">https://blog.cybozu.io/entry/2026/04/28/113000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/ea3db5e4b8d0fd3503547c4544837e038c767316/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcybozuinsideout%2F20260428%2F20260428113001.png" length="None" type="image/png"/>
+      <pubDate>Tue, 28 Apr 2026 02:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title> [Daily AlpacaHack] One More Login Challenge &amp; HTML2PNG Writeup</title>
+      <link>https://labs.spookies.co.jp/entry/202608</link>
+      <guid isPermaLink="true">https://labs.spookies.co.jp/entry/202608</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/a18f88605b53e03df2cd13f3377b93307d80f9f8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fspookies_mayumi_shimizu%2F20260427%2F20260427153710.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Tue, 28 Apr 2026 02:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Repro における AWS アカウント分離の取り組み Part4 - Terraform Module の整理</title>
+      <link>https://tech.repro.io/entry/2026/04/28/repro-account-isolation-terraform-module</link>
+      <guid isPermaLink="true">https://tech.repro.io/entry/2026/04/28/repro-account-isolation-terraform-module</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/27c098b4cf23995ed7f7638173b5cff5f4979857/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftkonsoy%2F20260428%2F20260428112533.png" length="None" type="image/png"/>
+      <pubDate>Tue, 28 Apr 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【カムバック歓迎】虎の穴ラボ、アルムナイ（卒業生）採用を正式スタート。今のラボを、もう一度見てみませんか？</title>
+      <link>https://toranoana-lab.hatenablog.com/entry/2026/04/28/120000</link>
+      <guid isPermaLink="true">https://toranoana-lab.hatenablog.com/entry/2026/04/28/120000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/3aa960326ef3a64041468060af519b1ff7c0a4ff/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftoranoana-lab%2F20260420%2F20260420135843.png" length="None" type="image/png"/>
+      <pubDate>Tue, 28 Apr 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>React 19 アップグレードに伴う大規模フロントエンド移行を、Claude Code で加速させた話</title>
+      <link>https://tech.revcomm.co.jp/speeding-up-react-19-migration-with-claude-code</link>
+      <guid isPermaLink="true">https://tech.revcomm.co.jp/speeding-up-react-19-migration-with-claude-code</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/1660e7cd4c144a743aa94f9113bd50a63d1e06f3/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Frevcomm-tech%2F20260428%2F20260428120003.png" length="None" type="image/png"/>
+      <pubDate>Tue, 28 Apr 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code を快適に使うための macOS デスクトップ通知セットアップ 〜 alerter と Hook でクリックから VSCode 復帰まで 〜</title>
+      <link>https://tech.every.tv/entry/2026/04/28/120000</link>
+      <guid isPermaLink="true">https://tech.every.tv/entry/2026/04/28/120000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e3a4bec9ab9943b312fceea265648db9be747afa/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhawk-eyes%2F20260427%2F20260427185832.png" length="None" type="image/png"/>
+      <pubDate>Tue, 28 Apr 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIと考える「思想」についての自由研究</title>
+      <link>https://goodpatch-tech.hatenablog.com/entry/ai-shisou-lab</link>
+      <guid isPermaLink="true">https://goodpatch-tech.hatenablog.com/entry/ai-shisou-lab</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/7f4aedf84ad6ab86d16b972f36eacfcefdb78141/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgp_CHAKI%2F20260427%2F20260427222352.png" length="None" type="image/png"/>
+      <pubDate>Tue, 28 Apr 2026 03:34:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>産業用途でのAI実装コストはどこに発生するのか——PoC・本番展開・運用の3フェーズで整理する</title>
+      <link>https://blog.analogtech.co.jp/entry/2026/04/28/130234</link>
+      <guid isPermaLink="true">https://blog.analogtech.co.jp/entry/2026/04/28/130234</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/fd10ca7194e6e4da213a9949a7754a689dd7cedd/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FA%2FAT-Eng%2F20260428%2F20260428125248.png" length="None" type="image/png"/>
+      <pubDate>Tue, 28 Apr 2026 04:02:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>MCPの認可仕様について</title>
+      <link>https://techblog.vpoint.co.jp/entry/2026/04/28/130918</link>
+      <guid isPermaLink="true">https://techblog.vpoint.co.jp/entry/2026/04/28/130918</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/fd3d4edb7a91650ad11f7747f150bfc2644ff467/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmiu4930%2F20260428%2F20260428130738.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Tue, 28 Apr 2026 04:09:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Relic のログを Kinesis Firehose 経由で S3 に保存して Athena で分析してみた</title>
+      <link>https://blog.serverworks.co.jp/newrelic-streaming-export-s3-kinesis-firehose</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/newrelic-streaming-export-s3-kinesis-firehose</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
+      <pubDate>Tue, 28 Apr 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>makeを卒業してjustに乗り換えてみよう</title>
+      <link>https://devops-blog.virtualtech.jp/entry/20260428/1777354853</link>
+      <guid isPermaLink="true">https://devops-blog.virtualtech.jp/entry/20260428/1777354853</guid>
+      <pubDate>Tue, 28 Apr 2026 05:40:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft Fabric】パイプラインでストアドプロシージャを実行する方法を解説</title>
+      <link>https://blog.jbs.co.jp/entry/2026/04/28/153835</link>
+      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2026/04/28/153835</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/a69a1851cf0850b5b8c5965db77806e732ac6380/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjbs_morikaz%2F20260304%2F20260304192007.png" length="None" type="image/png"/>
+      <pubDate>Tue, 28 Apr 2026 06:38:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>医療 × AI/データの「総合格闘技」が始まる——カケハシ「VP of Data &amp; AI」新設の理由</title>
+      <link>https://kakehashi-dev.hatenablog.com/entry/2026/04/28/154508</link>
+      <guid isPermaLink="true">https://kakehashi-dev.hatenablog.com/entry/2026/04/28/154508</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/fc61b9ea8e174e98c35854298ccdfc8d0c2573f3/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkakehashi_dev%2F20260428%2F20260428110926.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Tue, 28 Apr 2026 06:45:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年5月技術イベント予定</title>
+      <link>https://buildersbox.corp-sansan.com/entry/2026/04/28/160000</link>
+      <guid isPermaLink="true">https://buildersbox.corp-sansan.com/entry/2026/04/28/160000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/5e5b6859b5d9426f0a43400ccce8c6962541c3fd/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsansantech%2F20260424%2F20260424182418.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Tue, 28 Apr 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Apps Script(GAS)で遊んでみた</title>
+      <link>https://tech.iimon.co.jp/entry/2026/04/28/160000</link>
+      <guid isPermaLink="true">https://tech.iimon.co.jp/entry/2026/04/28/160000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/61f7fbeae79f138277c1167649570ca8b538d0d9/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhayakatsu0120%2F20260428%2F20260428110705.png" length="None" type="image/png"/>
+      <pubDate>Tue, 28 Apr 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>忙しい経営者必見！最小の労力で最大効果を出すGoogleマップMEO対策【ダイジェスト版】</title>
+      <link>https://llmo-ai-knowledgeholdings.hatenablog.com/entry/meo-time-saving-strategy</link>
+      <guid isPermaLink="true">https://llmo-ai-knowledgeholdings.hatenablog.com/entry/meo-time-saving-strategy</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/fd240d37b7df8259d9b62b2c664aa80a11670163/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fl%2Fllmo_ai_knowledgeholdings%2F20260428%2F20260428162551.png" length="None" type="image/png"/>
+      <pubDate>Tue, 28 Apr 2026 07:29:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI エージェントをチームで導入していくまでの道のり</title>
+      <link>https://tech.smarthr.jp/entry/2026/04/28/165243</link>
+      <guid isPermaLink="true">https://tech.smarthr.jp/entry/2026/04/28/165243</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/c54c651eb4fffe1df04cd85f1eaa4880169f97f4/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20260428%2F20260428165244.png" length="None" type="image/png"/>
+      <pubDate>Tue, 28 Apr 2026 07:52:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>ウェブアクセシビリティ基盤委員会（WAIC）にてサイボウズメンバーはこんな活動をしています</title>
+      <link>https://blog.cybozu.io/entry/2026/04/28/170000</link>
+      <guid isPermaLink="true">https://blog.cybozu.io/entry/2026/04/28/170000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/be076278c36a15b0bd83d82acd90657261eb157a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcybozuinsideout%2F20260428%2F20260428170007.png" length="None" type="image/png"/>
+      <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Observations of “Japanese Malspam” in 2026 Q1: Analysis of Emails Delivering ValleyRAT</title>
+      <link>https://blog-en.itochuci.co.jp/entry/2026/04/28/170000</link>
+      <guid isPermaLink="true">https://blog-en.itochuci.co.jp/entry/2026/04/28/170000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/cf0dbd30173fd6ba520794a98955fcb564469d2e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fi%2Fici-blog%2F20260428%2F20260428125955.png" length="None" type="image/png"/>
+      <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ETCカードに対応するため、クレジットカードの決済を無停止でDBマイグレーションするときに考えたこと</title>
+      <link>https://tech.layerx.co.jp/entry/migrate-card-db-for-etc-card-support</link>
+      <guid isPermaLink="true">https://tech.layerx.co.jp/entry/migrate-card-db-for-etc-card-support</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d211e4d02294cc8e6afaf4708b53c572d399476a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbudougumi0617%2F20260428%2F20260428130939.png" length="None" type="image/png"/>
+      <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>そのTableau、いま必要？あえてRedashを選んだ理由</title>
+      <link>https://techblog.openwork.co.jp/entry/redash_tableau</link>
+      <guid isPermaLink="true">https://techblog.openwork.co.jp/entry/redash_tableau</guid>
+      <pubDate>Tue, 28 Apr 2026 08:03:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ace Every Stack — Voicy A.C.E.チームが目指す"越境し合うエンジニア組織"</title>
+      <link>https://tech-blog.voicy.jp/entry/2026/04/28/172139</link>
+      <guid isPermaLink="true">https://tech-blog.voicy.jp/entry/2026/04/28/172139</guid>
+      <pubDate>Tue, 28 Apr 2026 08:21:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>なんでも作れる時代に、何を作るか　— アラン・ケイとAI時代のプロダクトデザイン</title>
+      <link>https://techblog.enechain.com/entry/what-to-build-now</link>
+      <guid isPermaLink="true">https://techblog.enechain.com/entry/what-to-build-now</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/5f0be128ff6ee76420692d732ea464eedc03ec31/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fe%2Fenechain%2F20260422%2F20260422140731.png" length="None" type="image/png"/>
+      <pubDate>Tue, 28 Apr 2026 08:30:00 +0000</pubDate>
     </item>
     <item>
       <title>RubyKaigi 2026 参加レポート</title>
-      <link>https://akerun.hateblo.jp/entry/2026/04/27/103548</link>
-      <guid isPermaLink="true">https://akerun.hateblo.jp/entry/2026/04/27/103548</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/246c8344d7480030203db0f4390c45ed3207e46e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fp%2Fphotosynth-inc%2F20260424%2F20260424125323.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Mon, 27 Apr 2026 01:35:48 +0000</pubDate>
+      <link>https://tech.youtrust.co.jp/entry/rubykaigi2026</link>
+      <guid isPermaLink="true">https://tech.youtrust.co.jp/entry/rubykaigi2026</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6eb43e508cc260e2287f4c1347c0e024592e1293/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkrpk1900%2F20260428%2F20260428171356.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Tue, 28 Apr 2026 08:33:48 +0000</pubDate>
     </item>
     <item>
-      <title>Mac を JBS と導入しませんか？</title>
-      <link>https://blog.jbs.co.jp/entry/2026/04/27/105809</link>
-      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2026/04/27/105809</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/fcba563b1c0b33dd9e494202746a18b6af0e9b20/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjbs_katoko%2F20260423%2F20260423182925.png" length="None" type="image/png"/>
-      <pubDate>Mon, 27 Apr 2026 01:58:09 +0000</pubDate>
+      <title>DevOpsDays登壇レポート：CNCF KonveyorとAIで実現する、レガシーコード移行の確実な加速</title>
+      <link>https://rheb.hatenablog.com/entry/2026/04/28/181320</link>
+      <guid isPermaLink="true">https://rheb.hatenablog.com/entry/2026/04/28/181320</guid>
+      <pubDate>Tue, 28 Apr 2026 09:13:20 +0000</pubDate>
     </item>
     <item>
-      <title>GS1 Barcode Syntax Engineを使ってみる・JavaScript編</title>
-      <link>https://gs1japan.hatenablog.com/entry/gs1-barcode-syntax-engine-javascript</link>
-      <guid isPermaLink="true">https://gs1japan.hatenablog.com/entry/gs1-barcode-syntax-engine-javascript</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/01a5b12c62e857115d7de53171b4f24a67789c9d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgs1japan%2F20260420%2F20260420134309.png" length="None" type="image/png"/>
-      <pubDate>Mon, 27 Apr 2026 02:00:00 +0000</pubDate>
+      <title>Red Hat Connectivity Link 第3回: JWTベースの認証 と ロールベースアクセス制御（RBAC）</title>
+      <link>https://rheb.hatenablog.com/entry/rhcl-03</link>
+      <guid isPermaLink="true">https://rheb.hatenablog.com/entry/rhcl-03</guid>
+      <pubDate>Tue, 28 Apr 2026 09:50:31 +0000</pubDate>
     </item>
     <item>
-      <title>ITフリーランス向けサイト「レバテックフリーランス」にて、当ブログが紹介されました</title>
-      <link>https://blog.colopl.dev/entry/2026/04/27/111032</link>
-      <guid isPermaLink="true">https://blog.colopl.dev/entry/2026/04/27/111032</guid>
-      <pubDate>Mon, 27 Apr 2026 02:10:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>モバイルQAで積んだテスト設計が、gRPCの自動テストを支えてくれた</title>
-      <link>https://blog.cybozu.io/entry/2026/04/27/113000</link>
-      <guid isPermaLink="true">https://blog.cybozu.io/entry/2026/04/27/113000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/1e3f8ab497a1ca249a02f34dd37292b14e7d7ed0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcybozuinsideout%2F20260427%2F20260427113001.png" length="None" type="image/png"/>
-      <pubDate>Mon, 27 Apr 2026 02:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SpaceCoreを陰で支えているバックエンドの紹介（後編）</title>
-      <link>https://tech.accel-lab.com/entry/2026/04/27/120000</link>
-      <guid isPermaLink="true">https://tech.accel-lab.com/entry/2026/04/27/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/b4a8fbf2f8671bbc60ef4897278858251c456b09/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Faccel-lab-admin%2F20260427%2F20260427120010.png" length="None" type="image/png"/>
-      <pubDate>Mon, 27 Apr 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>「推し活」から「婚活」までシステムで支える！クリエイター支援『Creatia』、オタク婚活『とら婚』サービスや開発の魅力とは？</title>
-      <link>https://toranoana-lab.hatenablog.com/entry/2026/04/27/120000</link>
-      <guid isPermaLink="true">https://toranoana-lab.hatenablog.com/entry/2026/04/27/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8ba7e37a54ca17a2d16f3aa785503b1f3e0e5131/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftoranoana-lab%2F20260420%2F20260420132351.png" length="None" type="image/png"/>
-      <pubDate>Mon, 27 Apr 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SAP Inside Track Tokyo 2026 参加・登壇レポート</title>
-      <link>https://techblog.beex-inc.com/entry/2026/04/27/120043</link>
-      <guid isPermaLink="true">https://techblog.beex-inc.com/entry/2026/04/27/120043</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8a39d4da2f889492b9420e714f2f0d240fb759e8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbeextech%2F20260427%2F20260427121325.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Mon, 27 Apr 2026 03:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Google Cloud Next 2026 in Las Vegas】Opening keynote: The agentic cloud 個人的ハイライト</title>
-      <link>https://tech.nri-net.com/entry/keynote_personal_highlights</link>
-      <guid isPermaLink="true">https://tech.nri-net.com/entry/keynote_personal_highlights</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/cc1aae8117c3ec95e7057c09d0062ee662ef79c6/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcqwfunp%2F20260427%2F20260427121443.png" length="None" type="image/png"/>
-      <pubDate>Mon, 27 Apr 2026 03:16:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>フロントエンドニュース2026年5月号</title>
-      <link>https://tech.itandi.co.jp/entry/2026/04/27/123418</link>
-      <guid isPermaLink="true">https://tech.itandi.co.jp/entry/2026/04/27/123418</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/34ae9abd2826538a3962ece66341a6b6b3344440/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Fa_miyanaga%2F20260427%2F20260427151037.png" length="None" type="image/png"/>
-      <pubDate>Mon, 27 Apr 2026 03:34:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>【CloudFormation/SAM】既存のLambda関数を AWS::Serverless::Function としてインポートする</title>
-      <link>https://blog.serverworks.co.jp/2026/04/27/123447</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/04/27/123447</guid>
-      <pubDate>Mon, 27 Apr 2026 03:34:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>外部API呼出しにおける「Too many files open」の回避とHTTPクライアントの適切な管理</title>
-      <link>https://tech.uzabase.com/entry/2026/04/27/124034</link>
-      <guid isPermaLink="true">https://tech.uzabase.com/entry/2026/04/27/124034</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/122a4138f72cbba87c82a564c8a8b2d823b8cfb4/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyu-tarrrr%2F20260423%2F20260423154516.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Mon, 27 Apr 2026 03:40:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>RubyKaigi 2026 Day 4 〜 aftermath</title>
-      <link>https://design-tech.xtone.co.jp/entry/2026/04/27/124726</link>
-      <guid isPermaLink="true">https://design-tech.xtone.co.jp/entry/2026/04/27/124726</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/ed05a3dc5d3dd001d831df0951df5d986f4250cc/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Frs_wisteria%2F20260425%2F20260425103908.png" length="None" type="image/png"/>
-      <pubDate>Mon, 27 Apr 2026 03:47:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Transform meetings into outcomes using Google Workspace with Gemini（Google Cloud Next '26速報）</title>
-      <link>https://blog.g-gen.co.jp/entry/next-26-transform-meetings-into-outcomes-using-google-workspace-with-gemini</link>
-      <guid isPermaLink="true">https://blog.g-gen.co.jp/entry/next-26-transform-meetings-into-outcomes-using-google-workspace-with-gemini</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/5a99debb580b2e992dc1298d364c79f8be4fcc26/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20260427%2F20260427130002.png" length="None" type="image/png"/>
-      <pubDate>Mon, 27 Apr 2026 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Humanoid robots in pediatric care（Google Cloud Next '26速報）</title>
-      <link>https://blog.g-gen.co.jp/entry/next-26-humanoid-robots-in-pediatric-care</link>
-      <guid isPermaLink="true">https://blog.g-gen.co.jp/entry/next-26-humanoid-robots-in-pediatric-care</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/fd362a1df07cea202bf2fd57b16aea8fb5948ceb/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20260427%2F20260427133002.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Mon, 27 Apr 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Transform cloud operations and management with generative AI（Google Cloud Next '26速報）</title>
-      <link>https://blog.g-gen.co.jp/entry/next-26-transform-cloud-operations-with-ai</link>
-      <guid isPermaLink="true">https://blog.g-gen.co.jp/entry/next-26-transform-cloud-operations-with-ai</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/a9af09a156a8fc5ce68b6cb3831a833ba551b584/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20260427%2F20260427140002.png" length="None" type="image/png"/>
-      <pubDate>Mon, 27 Apr 2026 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>汎用性抜群！DBスキーマを中心に据えた Go × TypeScript ハイブリッド構成の紹介 - （前編）</title>
-      <link>https://tech.repro.io/entry/2026/04/27/140536</link>
-      <guid isPermaLink="true">https://tech.repro.io/entry/2026/04/27/140536</guid>
-      <pubDate>Mon, 27 Apr 2026 05:05:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Google Cloud Next 2026 in Las Vegas】Day 2 現地参加レポート ~ エージェント時代のデータ分析基盤 ~</title>
-      <link>https://tech.nri-net.com/entry/google_cloud_next26_in_las_vegas_day2</link>
-      <guid isPermaLink="true">https://tech.nri-net.com/entry/google_cloud_next26_in_las_vegas_day2</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/0aecbe218861d5419c45fd46657bf3dd89b77efd/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnnc-t2-hashimoto%2F20260425%2F20260425201438.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Mon, 27 Apr 2026 05:25:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>iOSビルドの凡ミスから学ぶ、FlutterのビルドキャッシュとAOTコンパイルの仕組み</title>
-      <link>https://www.m3tech.blog/entry/2026/04/27/145836</link>
-      <guid isPermaLink="true">https://www.m3tech.blog/entry/2026/04/27/145836</guid>
-      <pubDate>Mon, 27 Apr 2026 05:58:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>「開発組織を左右するAIの活かし方｜アウトカムを最大化する育成×仕組み化とは」に登壇しました！</title>
-      <link>https://tech.smarthr.jp/entry/2026/04/27/150847</link>
-      <guid isPermaLink="true">https://tech.smarthr.jp/entry/2026/04/27/150847</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/3142e4be2555abcf0e0694e86da969afb97aba23/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20260427%2F20260427150853.png" length="None" type="image/png"/>
-      <pubDate>Mon, 27 Apr 2026 06:08:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Self-hosted runnerにおけるキャッシュ運用【Android】</title>
-      <link>https://developer.hatenastaff.com/entry/2026/04/27/150913</link>
-      <guid isPermaLink="true">https://developer.hatenastaff.com/entry/2026/04/27/150913</guid>
-      <pubDate>Mon, 27 Apr 2026 06:09:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>入社4ヶ月を振り返る</title>
-      <link>https://engineer.crowdworks.jp/entry/2026/04/27/155710</link>
-      <guid isPermaLink="true">https://engineer.crowdworks.jp/entry/2026/04/27/155710</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/4419f5e6ec455306e8eb165bb3c9bf851fbca7f1/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhideki-kuroda-crowdworks%2F20260421%2F20260421171407.png" length="None" type="image/png"/>
-      <pubDate>Mon, 27 Apr 2026 06:57:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Spec Kitで複数のコーディングエージェントを使い分けたい</title>
-      <link>https://blog.serverworks.co.jp/github-spec-kit-multiple-coding-agents</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/github-spec-kit-multiple-coding-agents</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
-      <pubDate>Mon, 27 Apr 2026 07:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub CLIで自作のエージェントスキルを発行する</title>
-      <link>https://aadojo.alterbooth.com/entry/2026/04/27/165935</link>
-      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2026/04/27/165935</guid>
-      <pubDate>Mon, 27 Apr 2026 07:59:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>大規模Railsアプリを支える「バックエンド委員会」とRuby YJIT導入によるパフォーマンス改善</title>
-      <link>https://developers.freee.co.jp/entry/backend-committee-and-ruby-yjit</link>
-      <guid isPermaLink="true">https://developers.freee.co.jp/entry/backend-committee-and-ruby-yjit</guid>
-      <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code に AWS コストを PR 上で試算させる</title>
-      <link>https://tech.mntsq.co.jp/entry/2026/04/27/173830</link>
-      <guid isPermaLink="true">https://tech.mntsq.co.jp/entry/2026/04/27/173830</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/97a36e6b5d1cacab9eec12f913b733f7993cc789/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fguge%2F20260424%2F20260424174359.png" length="None" type="image/png"/>
-      <pubDate>Mon, 27 Apr 2026 08:38:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>ETLだけじゃない！Informatica IDMCの4本柱をざっくり解説</title>
-      <link>https://cloud.flect.co.jp/entry/2026/04/27/175425</link>
-      <guid isPermaLink="true">https://cloud.flect.co.jp/entry/2026/04/27/175425</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/581527797a19247fb2daaba342717defe2710692/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Frena-moue-flect%2F20260427%2F20260427165622.png" length="None" type="image/png"/>
-      <pubDate>Mon, 27 Apr 2026 08:54:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>LINE・Notion・Cloud Run で作る小規模文書検索システムの設計</title>
-      <link>https://blog.linkode.co.jp/entry/2026/04/27/181355</link>
-      <guid isPermaLink="true">https://blog.linkode.co.jp/entry/2026/04/27/181355</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d6ad43a127ba395128acc95c5dd8c3b7fa9d4cc8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fken01-linkode%2F20260420%2F20260420104326.gif" length="None" type="image/jpeg"/>
-      <pubDate>Mon, 27 Apr 2026 09:13:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS DevOps AgentとBacklog MCPを連携してみた</title>
-      <link>https://blog.serverworks.co.jp/devops_agent_with_backlog</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/devops_agent_with_backlog</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/db6e24bbea95320f4b01289125b4965ead4df7ba/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-satoshi-moriyama%2F20260423%2F20260423060509.png" length="None" type="image/png"/>
-      <pubDate>Mon, 27 Apr 2026 10:39:42 +0000</pubDate>
+      <title>MCP サーバーの API キーを AWS Secrets Manager で管理してみた</title>
+      <link>https://blog.serverworks.co.jp/mcp-api-key-secrets-manager</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/mcp-api-key-secrets-manager</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/2f70e7e838decf81f8825c2ad3de4eafe8608d51/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-yamamoto%2F20260428%2F20260428203811.png" length="None" type="image/png"/>
+      <pubDate>Tue, 28 Apr 2026 11:39:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

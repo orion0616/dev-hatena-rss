@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Apr 2026 04:11:31 +0000</lastBuildDate>
-    <item>
-      <title>継続的な負荷テスト環境をBASEに構築しました 〜 第3回: モックツールの構築と運用</title>
-      <link>https://devblog.thebase.in/entry/2026/04/28/110000</link>
-      <guid isPermaLink="true">https://devblog.thebase.in/entry/2026/04/28/110000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/4a595212d9b99db43b348eb3dcda79a9eaa6b08d/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F153078222%2F1614340287711564" length="None" type="image/jpeg"/>
-      <pubDate>Tue, 28 Apr 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZEN Study SRE 10年のインフラ・CI/CDの変遷</title>
-      <link>https://blog.nnn.dev/entry/2026/04/28/110000</link>
-      <guid isPermaLink="true">https://blog.nnn.dev/entry/2026/04/28/110000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/cdf30d45e5c4b400b3945d3a70cbf8e69f41de7c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnaari_3%2F20260424%2F20260424204042.png" length="None" type="image/png"/>
-      <pubDate>Tue, 28 Apr 2026 02:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Apr 2026 04:13:25 +0000</lastBuildDate>
     <item>
       <title>しゃぶ葉のテーブルで学ぶMITM 〜届かなかった六穀豚が教えてくれた通信暗号化の大切さ〜</title>
       <link>https://tech-blog.sterrasec.com/entry/2026/04/28/110000</link>
@@ -211,6 +197,20 @@
       <guid isPermaLink="true">https://blog.serverworks.co.jp/mcp-api-key-secrets-manager</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/2f70e7e838decf81f8825c2ad3de4eafe8608d51/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-yamamoto%2F20260428%2F20260428203811.png" length="None" type="image/png"/>
       <pubDate>Tue, 28 Apr 2026 11:39:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>RubyKaigi 2026に参加してきました！</title>
+      <link>https://ventus-inc.hatenablog.com/entry/2026/04/29/110545</link>
+      <guid isPermaLink="true">https://ventus-inc.hatenablog.com/entry/2026/04/29/110545</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/45be850e7ecc6048b65a46f057fc39b4eeb44348/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fventus-inc%2F20260428%2F20260428184751.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Wed, 29 Apr 2026 02:05:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Nutanix】テンプレートからデプロイ（展開）時の Sysprep連携がさらに分かりやすく！実際に使ってみた</title>
+      <link>https://blogs.networld.co.jp/entry/2026/04/29/140137</link>
+      <guid isPermaLink="true">https://blogs.networld.co.jp/entry/2026/04/29/140137</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/b40b69ab28ed46ce97f951a68be308fe18d13227/height=144;version=1;width=224/https%3A%2F%2Fcdn.blog.st-hatena.com%2Fimages%2Ftheme%2Fog-image-1500.png" length="None" type="image/png"/>
+      <pubDate>Wed, 29 Apr 2026 05:01:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

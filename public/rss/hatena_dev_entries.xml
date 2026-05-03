@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 02 May 2026 04:04:30 +0000</lastBuildDate>
-    <item>
-      <title>Unixにおけるリダイレクト処理を改めて確認 &gt;file 2&gt;&amp;1 は実際にはなにをやっているのか</title>
-      <link>https://tech.every.tv/entry/2026/05/01/111453</link>
-      <guid isPermaLink="true">https://tech.every.tv/entry/2026/05/01/111453</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/f2f343565c19612eeb2af8c6541b77cf3ad5db8d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvanak%2F20260501%2F20260501103025.png" length="None" type="image/png"/>
-      <pubDate>Fri, 01 May 2026 02:14:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 03 May 2026 04:16:39 +0000</lastBuildDate>
     <item>
       <title>Engineer Abdel: Elevating Expertise with Team Support</title>
       <link>https://commerce-engineer.rakuten.careers/entry/workstyle/0112</link>
@@ -209,6 +202,12 @@
       <guid isPermaLink="true">https://tech.kickflow.co.jp/entry/2026/05/01/225308</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/461970f0f5de4f033bdd097885719d24c8bc1451/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkickflow%2F20260501%2F20260501141804.png" length="None" type="image/png"/>
       <pubDate>Fri, 01 May 2026 13:53:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>【CloudFormation/SAM】既存の API Gateway(REST API) を AWS::Serverless::Api としてインポートする</title>
+      <link>https://blog.serverworks.co.jp/2026/05/02/185302</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/05/02/185302</guid>
+      <pubDate>Sat, 02 May 2026 09:53:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

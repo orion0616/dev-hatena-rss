@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 04 May 2026 04:16:12 +0000</lastBuildDate>
-    <item>
-      <title>もう、言い訳を考える時間すら惜しい</title>
-      <link>https://tech.codmon.com/entry/2026/05/01/120000</link>
-      <guid isPermaLink="true">https://tech.codmon.com/entry/2026/05/01/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/655201b6a9decc0212cbcb8ea0e73f634cff0e3a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fg_gunji%2F20260421%2F20260421171928.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 01 May 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon Bedrock Knowledge Base を Amazon Bedrock AgentCore Gateway で MCP サーバー化する</title>
-      <link>https://blog.serverworks.co.jp/bedrock-knowledge-base-agentcore-gateway-mcp</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/bedrock-knowledge-base-agentcore-gateway-mcp</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/cf4666f9232e25b45270452f0b8cea5bc7afec3f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-genki-echigo%2F20260501%2F20260501110249.png" length="None" type="image/png"/>
-      <pubDate>Fri, 01 May 2026 03:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 May 2026 04:01:53 +0000</lastBuildDate>
     <item>
       <title>Agent Skillsによる負荷試験の民主化への歩みと学び - 後編</title>
       <link>https://tech.buysell-technologies.com/entry/2026/05/01/120000</link>
@@ -33,6 +19,7 @@
       <title>全開できる2枚引戸</title>
       <link>https://hirakawa-interior.hateblo.jp/entry/2026/05/01/131125</link>
       <guid isPermaLink="true">https://hirakawa-interior.hateblo.jp/entry/2026/05/01/131125</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/f93c807c90380f510fa52d9716c3c435b1af9cc0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhirakawa-interior%2F20260501%2F20260501094426.jpg" length="None" type="image/jpeg"/>
       <pubDate>Fri, 01 May 2026 04:11:25 +0000</pubDate>
     </item>
     <item>
@@ -188,6 +175,20 @@
       <guid isPermaLink="true">https://tech.kickflow.co.jp/entry/2026/05/01/225308</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/461970f0f5de4f033bdd097885719d24c8bc1451/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkickflow%2F20260501%2F20260501141804.png" length="None" type="image/png"/>
       <pubDate>Fri, 01 May 2026 13:53:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>.NET調査を振り返る  パッケージ環境依存解決 NU1608</title>
+      <link>https://tech.kentem.jp/entry/2026/05/04/090000</link>
+      <guid isPermaLink="true">https://tech.kentem.jp/entry/2026/05/04/090000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/21643dcc300c6d3d8fab7f498530aa2d466c954d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkentem_dev_to_seki%2F20260501%2F20260501114120.png" length="None" type="image/png"/>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Backstage】New Frontend System (NFS) 入門</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/05/04/123456</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/05/04/123456</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/94cd30bfd94432d57a10ca6492e273dbd29a8d3c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Fturtle2005%2F20230303%2F20230303210336.png" length="None" type="image/png"/>
+      <pubDate>Mon, 04 May 2026 03:34:56 +0000</pubDate>
     </item>
     <item>
       <title>【CloudFormation/SAM】既存の API Gateway(REST API) を AWS::Serverless::Api としてインポートする</title>

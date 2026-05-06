@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 05 May 2026 04:01:53 +0000</lastBuildDate>
-    <item>
-      <title>Agent Skillsによる負荷試験の民主化への歩みと学び - 後編</title>
-      <link>https://tech.buysell-technologies.com/entry/2026/05/01/120000</link>
-      <guid isPermaLink="true">https://tech.buysell-technologies.com/entry/2026/05/01/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/daf085e15d45c821619410b074a8fa217890c851/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbst-tech%2F20260430%2F20260430183852.png" length="None" type="image/png"/>
-      <pubDate>Fri, 01 May 2026 03:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 May 2026 04:14:01 +0000</lastBuildDate>
     <item>
       <title>全開できる2枚引戸</title>
       <link>https://hirakawa-interior.hateblo.jp/entry/2026/05/01/131125</link>
@@ -106,6 +99,7 @@
       <title>AWS Community Builder 2026選出を受けて①</title>
       <link>https://techblog.beex-inc.com/entry/2026/05/01/180930</link>
       <guid isPermaLink="true">https://techblog.beex-inc.com/entry/2026/05/01/180930</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6f5f0c52e74d0a14cff10d813b34ca5cd7311766/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbeextech%2F20260505%2F20260505135900.png" length="None" type="image/png"/>
       <pubDate>Fri, 01 May 2026 09:09:30 +0000</pubDate>
     </item>
     <item>
@@ -208,6 +202,13 @@
       <link>https://techblog.ap-com.co.jp/entry/2026/05/03/214910</link>
       <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/05/03/214910</guid>
       <pubDate>Sun, 03 May 2026 12:49:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>閾値付き Snapshot Test で Lighthouse Score の劣化を防ぐ</title>
+      <link>https://techblog.hacomono.jp/entry/2026/05/05/110000</link>
+      <guid isPermaLink="true">https://techblog.hacomono.jp/entry/2026/05/05/110000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/24adaf6b89f6834b8b6b51e09162ca313c1c4f8c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhacomono-tech%2F20260505%2F20260505195108.png" length="None" type="image/png"/>
+      <pubDate>Tue, 05 May 2026 02:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

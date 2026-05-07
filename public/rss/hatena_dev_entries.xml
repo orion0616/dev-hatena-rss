@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 06 May 2026 04:14:01 +0000</lastBuildDate>
-    <item>
-      <title>全開できる2枚引戸</title>
-      <link>https://hirakawa-interior.hateblo.jp/entry/2026/05/01/131125</link>
-      <guid isPermaLink="true">https://hirakawa-interior.hateblo.jp/entry/2026/05/01/131125</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/f93c807c90380f510fa52d9716c3c435b1af9cc0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhirakawa-interior%2F20260501%2F20260501094426.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 01 May 2026 04:11:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>OCI オブジェクトストレージ ライフサイクルポリシーによるオブジェクト管理</title>
-      <link>https://blog.jbs.co.jp/entry/2026/05/01/132724</link>
-      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2026/05/01/132724</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d53b2cd64b6aa9771d74712d447be2ca1cb2c54b/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F158660714%2F1667527455467771" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 01 May 2026 04:27:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 May 2026 04:13:44 +0000</lastBuildDate>
     <item>
       <title>Kubernetesの非推奨/削除APIをGitHub Actionsで継続検知する仕組みを作った話</title>
       <link>https://tech-blog.rakus.co.jp/entry/20260501/sre</link>
@@ -209,6 +195,19 @@
       <guid isPermaLink="true">https://techblog.hacomono.jp/entry/2026/05/05/110000</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/24adaf6b89f6834b8b6b51e09162ca313c1c4f8c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhacomono-tech%2F20260505%2F20260505195108.png" length="None" type="image/png"/>
       <pubDate>Tue, 05 May 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>開発部でAIハッカソンを始めました</title>
+      <link>https://tech.toreta.in/entry/2026/05/06/%E9%96%8B%E7%99%BA%E9%83%A8%E3%81%A7AI%E3%83%8F%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3%E3%82%92%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F</link>
+      <guid isPermaLink="true">https://tech.toreta.in/entry/2026/05/06/%E9%96%8B%E7%99%BA%E9%83%A8%E3%81%A7AI%E3%83%8F%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3%E3%82%92%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F</guid>
+      <pubDate>Wed, 06 May 2026 08:38:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Codeで作ったシミュレーションRPG風ゲームをKiroで再実装してみた～設計のみを流用した仕様駆動開発の品質検証～</title>
+      <link>https://techblog.forgevision.com/entry/kiro/spec-driven-game-comparison</link>
+      <guid isPermaLink="true">https://techblog.forgevision.com/entry/kiro/spec-driven-game-comparison</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/3d15274f437f23e1c4f2303495bbb6f1b7aa0eab/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmatsuo1017%2F20260429%2F20260429022513.png" length="None" type="image/png"/>
+      <pubDate>Wed, 06 May 2026 13:20:55 +0000</pubDate>
     </item>
   </channel>
 </rss>

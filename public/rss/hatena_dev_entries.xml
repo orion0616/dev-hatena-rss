@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 10 May 2026 04:19:36 +0000</lastBuildDate>
-    <item>
-      <title>Storybook Play functionからPlaywrightへ移行して得た「正しさ」と「書きやすさ」</title>
-      <link>https://tech.itandi.co.jp/entry/2026/05/08/105149</link>
-      <guid isPermaLink="true">https://tech.itandi.co.jp/entry/2026/05/08/105149</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e89ee8b76fdffc070472d030aa9eaa1765b34550/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Fa_miyanaga%2F20260508%2F20260508133848.png" length="None" type="image/png"/>
-      <pubDate>Fri, 08 May 2026 01:51:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 May 2026 04:23:41 +0000</lastBuildDate>
     <item>
       <title>はてなサマーインターンシップ2026募集開始！今年も京都とリモートのハイブリッド！クイズに答えて応募しよう！</title>
       <link>https://developer.hatenastaff.com/entry/2026/05/08/105416</link>
@@ -208,6 +201,13 @@
       <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/05/09/190000</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/e03e4c0219d18ed7072514f620e12e029e676f3d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-tomoya-ikeda%2F20260507%2F20260507160751.png" length="None" type="image/png"/>
       <pubDate>Sat, 09 May 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code更新 worktree baseRef・hooks effort・scrollback復活【5/3〜9】</title>
+      <link>https://blog.serverworks.co.jp/2026/05/10/190000</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/05/10/190000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/3aa916408a07538e427171374605be89e4ee26c8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-tomoya-ikeda%2F20260510%2F20260510122858.png" length="None" type="image/png"/>
+      <pubDate>Sun, 10 May 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

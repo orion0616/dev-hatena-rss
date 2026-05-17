@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 16 May 2026 04:11:34 +0000</lastBuildDate>
-    <item>
-      <title>Claude Code Desktop で「最近使ったフォルダ」を削除する方法【実機検証済み】</title>
-      <link>https://blog.serverworks.co.jp/claude-code-desktop-remove-recent-folder</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/claude-code-desktop-remove-recent-folder</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e4d173d0989a7710618a1bbe8c3950fea91220cf/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-takhei-law%2F20260515%2F20260515024458.png" length="None" type="image/png"/>
-      <pubDate>Fri, 15 May 2026 02:12:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 17 May 2026 04:22:28 +0000</lastBuildDate>
     <item>
       <title>Claude DesktopのスキルアーキテクチャをWindowsのファイルシステムから読み解く</title>
       <link>https://blog.serverworks.co.jp/cowork-code-desktop-skill-sharing-windows</link>
@@ -209,6 +202,13 @@
       <guid isPermaLink="true">https://design-tech.xtone.co.jp/entry/2026/05/15/194941</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/086c2fe360ad6f119185042207cd3f5d7e139501/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fknktkc%2F20260515%2F20260515185243.jpg" length="None" type="image/jpeg"/>
       <pubDate>Fri, 15 May 2026 10:49:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon FSx for NetApp ONTAP の SVM ルートボリュームには何が入っているのか調べてみた</title>
+      <link>https://blog.serverworks.co.jp/fsx-ontap-svm-volume</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/fsx-ontap-svm-volume</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 16 May 2026 05:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

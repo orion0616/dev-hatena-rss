@@ -7,28 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 30 May 2026 04:20:38 +0000</lastBuildDate>
-    <item>
-      <title>Google Sheets から Snowflake を参照するアドオンの実行基盤を Snowflake Tasks に移行した</title>
-      <link>https://tech.layerx.co.jp/entry/gas-to-snowflake-tasks</link>
-      <guid isPermaLink="true">https://tech.layerx.co.jp/entry/gas-to-snowflake-tasks</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/c2da4a92d60b3e07c58a34b10d53b732867d316a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FT%2FTrsNium%2F20260528%2F20260528161825.png" length="None" type="image/png"/>
-      <pubDate>Fri, 29 May 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Cloud Next 2026 で 現地でしかできなかった体験 を語り尽くす</title>
-      <link>https://developersblog.dmm.com/entry/2026/05/29/110000</link>
-      <guid isPermaLink="true">https://developersblog.dmm.com/entry/2026/05/29/110000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/2c2c4220fc47b39bd35960942ebc3abc91467081/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FD%2FDMMTech%2F20260428%2F20260428160133.png" length="None" type="image/png"/>
-      <pubDate>Fri, 29 May 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ロボットAI時代における高品質データ収集のOSS「OpenLUTRA」が公開されました</title>
-      <link>https://fastlabel.hatenablog.com/entry/20260529/1780020893</link>
-      <guid isPermaLink="true">https://fastlabel.hatenablog.com/entry/20260529/1780020893</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/f1f3f73c37ed334c105821ddc7df2ba92e293695/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Ffastlabel%2F20260529%2F20260529085006.png" length="None" type="image/png"/>
-      <pubDate>Fri, 29 May 2026 02:14:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 31 May 2026 04:28:29 +0000</lastBuildDate>
     <item>
       <title>入社エントリ〜backend大森〜</title>
       <link>https://techblog.dt-dynamics.com/entry/2026/05/29/111748</link>
@@ -209,6 +188,25 @@
       <link>https://blog.generative-agents.co.jp/entry/2026/05/29/225827</link>
       <guid isPermaLink="true">https://blog.generative-agents.co.jp/entry/2026/05/29/225827</guid>
       <pubDate>Fri, 29 May 2026 13:58:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>distrolessコンテナイメージ使おうとして依存が足りないときはどうすればいいですか？あ、OCamlなんですけど。</title>
+      <link>https://www.m3tech.blog/entry/2026/05/30/000000</link>
+      <guid isPermaLink="true">https://www.m3tech.blog/entry/2026/05/30/000000</guid>
+      <pubDate>Fri, 29 May 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon BedrockでAIモデルのパラメータ検証していたらカップラーメンが破壊されるとか言ってきた</title>
+      <link>https://blog.serverworks.co.jp/amazon-nova-temperature-test</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/amazon-nova-temperature-test</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5dc7b1bddf6f0a8a11b63a32384973a34c42a0e/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155844699%2F1589415473304665" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 30 May 2026 01:37:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Fabricのしくみをもう一歩理解する - Tablesの中で何が起きているのか（Delta Lake入門）</title>
+      <link>https://aadojo.alterbooth.com/entry/2026/05/30/130629</link>
+      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2026/05/30/130629</guid>
+      <pubDate>Sat, 30 May 2026 04:06:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

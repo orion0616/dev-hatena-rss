@@ -7,27 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 31 May 2026 04:28:29 +0000</lastBuildDate>
-    <item>
-      <title>入社エントリ〜backend大森〜</title>
-      <link>https://techblog.dt-dynamics.com/entry/2026/05/29/111748</link>
-      <guid isPermaLink="true">https://techblog.dt-dynamics.com/entry/2026/05/29/111748</guid>
-      <pubDate>Fri, 29 May 2026 02:17:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Copilot Coworkを触ってみました</title>
-      <link>https://blog.nextscape.net/archives/2026/05/29/112735</link>
-      <guid isPermaLink="true">https://blog.nextscape.net/archives/2026/05/29/112735</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/df6d186bd749f0b6afd56bab86fceb4589337702/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F158346556%2F1633330490515050" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 29 May 2026 02:27:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google I/O 2026 現地参加レポート</title>
-      <link>https://blog.cybozu.io/entry/google-io-2026-report</link>
-      <guid isPermaLink="true">https://blog.cybozu.io/entry/google-io-2026-report</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e19c4bb0948b3e544aa07d84b46e83d6eca567d7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcybozuinsideout%2F20260529%2F20260529113809.png" length="None" type="image/png"/>
-      <pubDate>Fri, 29 May 2026 02:35:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Jun 2026 04:29:24 +0000</lastBuildDate>
     <item>
       <title>CSチームの近くで働いて気づいた現場にある改善のヒント</title>
       <link>https://m3career-eng.hatenablog.com/entry/2026/05/29/120000</link>
@@ -207,6 +187,26 @@
       <link>https://aadojo.alterbooth.com/entry/2026/05/30/130629</link>
       <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2026/05/30/130629</guid>
       <pubDate>Sat, 30 May 2026 04:06:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>【6月企画】KENTEMテックブログ、リレーブログ始めます！</title>
+      <link>https://tech.kentem.jp/entry/2026/05/31/090000</link>
+      <guid isPermaLink="true">https://tech.kentem.jp/entry/2026/05/31/090000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/afbdb0ab21af7c5937b6abad08244c63c70d3715/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkentem_dev_tokatou%2F20260529%2F20260529144704.png" length="None" type="image/png"/>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FSx for NetApp ONTAP のログの種類と用途についてまとめてみた</title>
+      <link>https://blog.serverworks.co.jp/fsx-ontap-log-type</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/fsx-ontap-log-type</guid>
+      <pubDate>Sun, 31 May 2026 03:37:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWSのKiro Webを「うちのリポジトリの同僚」にしたら、Issue起票がそのままPRに化けた話</title>
+      <link>https://techblog.forgevision.com/entry/kiro/kiro-web/ai-dlc</link>
+      <guid isPermaLink="true">https://techblog.forgevision.com/entry/kiro/kiro-web/ai-dlc</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/39143d8e7f326c9dfea3e580a305b6744bfb7fef/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fo%2Fotanikohei%2F20260531%2F20260531130606.png" length="None" type="image/png"/>
+      <pubDate>Sun, 31 May 2026 04:15:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

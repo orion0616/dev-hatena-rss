@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 06 Jun 2026 04:21:36 +0000</lastBuildDate>
-    <item>
-      <title>Google Cloud Next 2026 で見えた「減らす設計」という考え方</title>
-      <link>https://developersblog.dmm.com/entry/2026/06/05/110000</link>
-      <guid isPermaLink="true">https://developersblog.dmm.com/entry/2026/06/05/110000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6897d79bb3b65ab639637d1aa1fc0c80a42527ed/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FD%2FDMMTech%2F20260521%2F20260521171423.webp" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 05 Jun 2026 02:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 Jun 2026 04:28:41 +0000</lastBuildDate>
     <item>
       <title>Java 初学者にこそ JJUG CCC への参加を勧めたい - JJUG CCC 2026 Spring 参加レポート</title>
       <link>https://blog.cybozu.io/entry/jjug-ccc-2026-spring</link>
@@ -211,6 +204,13 @@
       <guid isPermaLink="true">https://blog.sre-next.dev/entry/2026/06/05/211735</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/41d084a3f1982a0ad0eb42a441bb47ba1de2dfef/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsaku_238%2F20260605%2F20260605214005.png" length="None" type="image/png"/>
       <pubDate>Fri, 05 Jun 2026 12:17:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub ActionsのNode.jsバージョンアップ対応をしたときの作業ポイント</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/06/06/113000</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/06/06/113000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/0f03fcdaed264b647d11608721a38012dcc6cdf5/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F91061897%2F163480237573261" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 06 Jun 2026 02:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

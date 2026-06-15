@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 14 Jun 2026 04:28:49 +0000</lastBuildDate>
-    <item>
-      <title>「フリーランスHub」にてASKUL Engineering BLOGをご紹介いただきました！</title>
-      <link>https://tech.askul.co.jp/entry/2026/06/12/122524</link>
-      <guid isPermaLink="true">https://tech.askul.co.jp/entry/2026/06/12/122524</guid>
-      <pubDate>Fri, 12 Jun 2026 03:25:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Jun 2026 04:29:35 +0000</lastBuildDate>
     <item>
       <title>BigQuery のテーブルをコピーすると有効期限が引き継がれる場合があるから気をつけろ！</title>
       <link>https://www.m3tech.blog/entry/bq-table-expiration</link>
@@ -165,13 +159,6 @@
       <pubDate>Fri, 12 Jun 2026 09:03:32 +0000</pubDate>
     </item>
     <item>
-      <title>人工知能学会全国大会（JSAI2026）参加レポート</title>
-      <link>https://www.estie.jp/blog/entry/2026/06/12/182924</link>
-      <guid isPermaLink="true">https://www.estie.jp/blog/entry/2026/06/12/182924</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/49908ce0e802e36a0d89becd1ecb238453c611a8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fe%2Festie%2F20260612%2F20260612173336.png" length="None" type="image/png"/>
-      <pubDate>Fri, 12 Jun 2026 09:29:24 +0000</pubDate>
-    </item>
-    <item>
       <title>【CloudFormation/SAM】デプロイ時の環境変数を参照する方法</title>
       <link>https://blog.serverworks.co.jp/2026/06/12/195620</link>
       <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/06/12/195620</guid>
@@ -211,6 +198,19 @@
       <guid isPermaLink="true">https://tech.uzabase.com/entry/2026/06/13/170409</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/903ec424d768f8baff3bac0767161911f54e68be/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftakzw%2F20260504%2F20260504163835.png" length="None" type="image/png"/>
       <pubDate>Sat, 13 Jun 2026 08:04:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Azure CLIでAzure App Service (Linux)の起動時のログを確認する</title>
+      <link>https://aadojo.alterbooth.com/entry/2026/06/14/100000</link>
+      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2026/06/14/100000</guid>
+      <pubDate>Sun, 14 Jun 2026 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【OCI】OCI Functionsを利用してComputeインスタンスのOCPU/メモリを変更してみた</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/06/14/192121</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/06/14/192121</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/c7e54d46c9e078b1abaa6ffae7b5fe38f779e214/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmn_ymp%2F20250509%2F20250509175227.png" length="None" type="image/png"/>
+      <pubDate>Sun, 14 Jun 2026 10:21:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

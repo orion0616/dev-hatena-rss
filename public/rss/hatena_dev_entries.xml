@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Jun 2026 04:27:18 +0000</lastBuildDate>
-    <item>
-      <title>google-adk 2.2.0 更新後に /a2aが404になってAnalysis Templateが失敗する</title>
-      <link>https://tech.uzabase.com/entry/2026/06/19/101024</link>
-      <guid isPermaLink="true">https://tech.uzabase.com/entry/2026/06/19/101024</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/85e835c9a469cd57db5fd3438f890222b30ca223/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FS%2FSicut_study%2F20260619%2F20260619100241.png" length="None" type="image/png"/>
-      <pubDate>Fri, 19 Jun 2026 01:10:24 +0000</pubDate>
-    </item>
-    <item>
-      <title> AIプロバイダーを抽象化してモデル選定を柔軟にする</title>
-      <link>https://tech.yappli.io/entry/ai-muilti-provider</link>
-      <guid isPermaLink="true">https://tech.yappli.io/entry/ai-muilti-provider</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/ac9c7fdd65d6924228041d9ee5b27f4152d8b68d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftaku-0728%2F20260618%2F20260618231840.png" length="None" type="image/png"/>
-      <pubDate>Fri, 19 Jun 2026 01:14:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 Jun 2026 04:28:47 +0000</lastBuildDate>
     <item>
       <title>【開催レポート】トヨタコネクティッド株式会社とAI推進に関するオンラインイベント「AI MeetUP」を開催しました</title>
       <link>https://techtekt.persol-career.co.jp/entry/culture/260619_01</link>
@@ -213,6 +199,19 @@
       <guid isPermaLink="true">https://blogs.networld.co.jp/entry/2026/06/19/194149</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/825deab97ca6e8174756e5e808423f4c59a567da/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnetworld-blog%2F20260619%2F20260619194149.png" length="None" type="image/png"/>
       <pubDate>Fri, 19 Jun 2026 10:41:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Honraku Taroを作った話 〜#H0Hackathon参加記〜</title>
+      <link>https://techblog.forgevision.com/entry/vercel/H0Hackathon/Honraku-Taro</link>
+      <guid isPermaLink="true">https://techblog.forgevision.com/entry/vercel/H0Hackathon/Honraku-Taro</guid>
+      <pubDate>Fri, 19 Jun 2026 15:23:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>RCF製品～</title>
+      <link>https://rizing-pa.hatenablog.com/entry/2026/06/20/160159</link>
+      <guid isPermaLink="true">https://rizing-pa.hatenablog.com/entry/2026/06/20/160159</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/f88c6c6a1112b2cc5bc6186c4dd987d5e7e8170c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FR%2FRIZING-PA%2F20260620%2F20260620154438.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 20 Jun 2026 07:01:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

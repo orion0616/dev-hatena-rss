@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 04:28:47 +0000</lastBuildDate>
-    <item>
-      <title>【開催レポート】トヨタコネクティッド株式会社とAI推進に関するオンラインイベント「AI MeetUP」を開催しました</title>
-      <link>https://techtekt.persol-career.co.jp/entry/culture/260619_01</link>
-      <guid isPermaLink="true">https://techtekt.persol-career.co.jp/entry/culture/260619_01</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5f91fb3871f2d99bfec33de9512a2c9544ca35f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fp%2Fpcads_media%2F20260619%2F20260619100513.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 19 Jun 2026 01:20:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIコードレビューに最適なモデルを探す</title>
-      <link>https://tech.kickflow.co.jp/entry/2026/06/19/103711</link>
-      <guid isPermaLink="true">https://tech.kickflow.co.jp/entry/2026/06/19/103711</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/3e032d0d267fbe1628f3a6e98627d2428ad5d96f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkickflow%2F20260618%2F20260618234105.png" length="None" type="image/png"/>
-      <pubDate>Fri, 19 Jun 2026 01:37:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Jun 2026 04:29:33 +0000</lastBuildDate>
     <item>
       <title>TSKaigi 2026 に参加してきました！</title>
       <link>https://techblog.jmdc.co.jp/entry/2026/06/19/110000</link>
@@ -212,6 +198,19 @@
       <guid isPermaLink="true">https://rizing-pa.hatenablog.com/entry/2026/06/20/160159</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/f88c6c6a1112b2cc5bc6186c4dd987d5e7e8170c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FR%2FRIZING-PA%2F20260620%2F20260620154438.jpg" length="None" type="image/jpeg"/>
       <pubDate>Sat, 20 Jun 2026 07:01:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Fabricのしくみをもう一歩理解する - Power BIのレポートを使って分析してみる</title>
+      <link>https://aadojo.alterbooth.com/entry/2026/06/21/100000</link>
+      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2026/06/21/100000</guid>
+      <pubDate>Sun, 21 Jun 2026 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Datadog】Pup CLI ＋ Claude Code で モニター情報をレポート化してみた</title>
+      <link>https://blog.serverworks.co.jp/dd-pup-cli01</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/dd-pup-cli01</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/034a16ca0d45c456f1f5475a6fcbc723086d146a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-fukuda%2F20260621%2F20260621152823.png" length="None" type="image/png"/>
+      <pubDate>Sun, 21 Jun 2026 06:37:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

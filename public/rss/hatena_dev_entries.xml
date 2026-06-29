@@ -7,20 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Jun 2026 04:28:11 +0000</lastBuildDate>
-    <item>
-      <title>AWSのバックエンドをTypeScriptで簡単構築！AWS Blocks（パブリックプレビュー）を使ってみた</title>
-      <link>https://blog.serverworks.co.jp/aws-blocks</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/aws-blocks</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6bbf9c328e0000ef7da201ebb8bf4a81399a9186/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155681015%2F1782273580258620" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 26 Jun 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloud Run × FastAPI でアプリログに trace を付ける（google-cloud-logging だけでは足りなかった話）</title>
-      <link>https://techblog.technology-doctor.com/entry/2026/06/26/171112</link>
-      <guid isPermaLink="true">https://techblog.technology-doctor.com/entry/2026/06/26/171112</guid>
-      <pubDate>Fri, 26 Jun 2026 08:11:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Jun 2026 04:28:54 +0000</lastBuildDate>
     <item>
       <title>【AWS Summit Japan 2026】Apache Iceberg on AWS 実践ガイド [ANT355] セッションレポート</title>
       <link>https://blog.serverworks.co.jp/AWS_Summit_Japan_2026__ANT355</link>
@@ -212,6 +199,20 @@
       <guid isPermaLink="true">https://eight-hundred-800-dev.hatenablog.com/entry/2026/06/27/210806</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/36050436d0322dd8fc7766ce9908ec5acd3f18e6/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fe%2Feight-hundred-800%2F20260618%2F20260618095418.webp" length="None" type="image/jpeg"/>
       <pubDate>Sat, 27 Jun 2026 12:08:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【AWS Summit Japan 2026】AI-DLCについての話をセッション横断でまとめてみました</title>
+      <link>https://blog.serverworks.co.jp/AWS_Summit_Japan_2026_AI-DLC_Summary</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/AWS_Summit_Japan_2026_AI-DLC_Summary</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6bbf9c328e0000ef7da201ebb8bf4a81399a9186/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155681015%2F1782273580258620" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 27 Jun 2026 18:01:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prowler を使ってアカウントのセキュリティ状態についてチェックしてみた。</title>
+      <link>https://blog.serverworks.co.jp/prowler-account-check</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/prowler-account-check</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6bbf9c328e0000ef7da201ebb8bf4a81399a9186/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155681015%2F1782273580258620" length="None" type="image/jpeg"/>
+      <pubDate>Sun, 28 Jun 2026 04:43:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

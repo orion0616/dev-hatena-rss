@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Jul 2026 05:30:51 +0000</lastBuildDate>
-    <item>
-      <title>内定者インターンがUIライブラリを20バージョン分アップデートするまで</title>
-      <link>https://tech.smarthr.jp/entry/2026/07/10/103000</link>
-      <guid isPermaLink="true">https://tech.smarthr.jp/entry/2026/07/10/103000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/a192e719f4d50fd3af82abbf408f1cc1f0f96300/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20260710%2F20260710103002.png" length="None" type="image/png"/>
-      <pubDate>Fri, 10 Jul 2026 01:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日常に溶け込んだプラクティスをふりかえる ─ テーマを絞ったふりかえりのすすめ</title>
-      <link>https://tech.uzabase.com/entry/2026/07/10/103253</link>
-      <guid isPermaLink="true">https://tech.uzabase.com/entry/2026/07/10/103253</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/dcda4ea601f159dedff1527ed4c7f74f32fdc58c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fi%2Fikuta1919%2F20260709%2F20260709192821.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 10 Jul 2026 01:32:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Jul 2026 05:46:33 +0000</lastBuildDate>
     <item>
       <title>【Microsoft Fabric】 移行アシスタントを試す――既存ADFパイプラインの移行検証</title>
       <link>https://eight-hundred-800-dev.hatenablog.com/entry/2026/07/10/103501</link>
@@ -210,6 +196,19 @@
       <guid isPermaLink="true">https://moneyforward-dev.jp/entry/2026/07/10/passkey-report-vol10</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/ea59046d6a1956fe41072124f5da55429c69283b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2FmoneyforwardDev%2F20260710%2F20260710151548.png" length="None" type="image/png"/>
       <pubDate>Fri, 10 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ウィンドスクリーンも・・・</title>
+      <link>https://rizing-pa.hatenablog.com/entry/2026/07/11/124912</link>
+      <guid isPermaLink="true">https://rizing-pa.hatenablog.com/entry/2026/07/11/124912</guid>
+      <pubDate>Sat, 11 Jul 2026 03:49:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>新規作成する AWS Organizations 組織に組織離脱を防ぐ SCP が自動付与されるようになりました</title>
+      <link>https://blog.serverworks.co.jp/20260711_DenyLeaveAndCloseAccount</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/20260711_DenyLeaveAndCloseAccount</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6bbf9c328e0000ef7da201ebb8bf4a81399a9186/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155681015%2F1782273580258620" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 11 Jul 2026 06:16:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

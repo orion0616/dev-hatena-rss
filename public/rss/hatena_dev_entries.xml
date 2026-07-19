@@ -7,49 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Jul 2026 05:14:44 +0000</lastBuildDate>
-    <item>
-      <title>スクラムフェス金沢2026の参加報告とその後の変化</title>
-      <link>https://developers.freee.co.jp/entry/scrum-fest-kanazawa-2026</link>
-      <guid isPermaLink="true">https://developers.freee.co.jp/entry/scrum-fest-kanazawa-2026</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/0959a58f61c846261a088df3742ad9e0088f3d26/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fl%2Flettuce222%2F20260716%2F20260716110217.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 17 Jul 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>検索から探索へ：データプラットフォーム設計の実践 (2) ― 分断されたデータを繋ぐ</title>
-      <link>https://caddi.tech/elasticon-2026-caddi-2</link>
-      <guid isPermaLink="true">https://caddi.tech/elasticon-2026-caddi-2</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/ef3f0f95975c422c1cb5d816d4bfd3977f2c64d7/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F159376513%2F1709270017315899" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 17 Jul 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BigQuery のデータエージェントを Gemini Enterprise App に追加する</title>
-      <link>https://tech.nri-net.com/entry/adding_bigquery_data_agent_to_gemini_enterprise_app</link>
-      <guid isPermaLink="true">https://tech.nri-net.com/entry/adding_bigquery_data_agent_to_gemini_enterprise_app</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/3dd211fc705feae6d36d13f7a412b0def683acaa/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fk-kanzaki%2F20260709%2F20260709190505.png" length="None" type="image/png"/>
-      <pubDate>Fri, 17 Jul 2026 02:08:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>第2回 プロダクトチームオフサイトを開催しました！</title>
-      <link>https://tacoms-inc.hatenablog.com/entry/2026/07/17/111627</link>
-      <guid isPermaLink="true">https://tacoms-inc.hatenablog.com/entry/2026/07/17/111627</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/af169eaa5defc86ffe9067478ed8207e5498f17f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmomiom%2F20260716%2F20260716162314.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 17 Jul 2026 02:16:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>新卒エンジニアが、サイボウズの新卒研修を経て</title>
-      <link>https://blog.cybozu.io/entry/2026/07/17/113000</link>
-      <guid isPermaLink="true">https://blog.cybozu.io/entry/2026/07/17/113000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/9c610ed41a29e8c1c62c65fef2b7ea1b1b9a8806/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcybozuinsideout%2F20260717%2F20260717114007.png" length="None" type="image/png"/>
-      <pubDate>Fri, 17 Jul 2026 02:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【HVM】Bulk Migration機能でWindows Serverを移行してみた ～VirtIOドライバ自動インストールを検証～</title>
-      <link>https://blogs.networld.co.jp/entry/2026/07/17/114212</link>
-      <guid isPermaLink="true">https://blogs.networld.co.jp/entry/2026/07/17/114212</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/9996e6193c4761a5ec4cc77a2d0d7e3d5e84a9ce/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnetworld-blog%2F20260717%2F20260717114326.png" length="None" type="image/png"/>
-      <pubDate>Fri, 17 Jul 2026 02:42:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Jul 2026 05:42:43 +0000</lastBuildDate>
     <item>
       <title>医療現場のリスク評価を、QAに活かすという視点</title>
       <link>https://dev.henry.jp/entry/2026/07/17/120000</link>
@@ -81,6 +39,7 @@
       <title>レビューは人間がすべきか問題：Critの紹介</title>
       <link>https://blog.ingage.jp/entry/2026/07/17/135429</link>
       <guid isPermaLink="true">https://blog.ingage.jp/entry/2026/07/17/135429</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8fd02f9fda6067fcae1754f4adeb6278de2bce2f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkizashi1122%2F20260717%2F20260717135233.png" length="None" type="image/png"/>
       <pubDate>Fri, 17 Jul 2026 04:54:29 +0000</pubDate>
     </item>
     <item>
@@ -125,6 +84,12 @@
       <pubDate>Fri, 17 Jul 2026 06:01:48 +0000</pubDate>
     </item>
     <item>
+      <title>【開発Days vol.8】「AIに生成させる」から「AIと一緒に考える」へ：要件定義・設計プロセスを見直した話</title>
+      <link>https://blog.howtelevision.co.jp/entry/2026/07/17/153409</link>
+      <guid isPermaLink="true">https://blog.howtelevision.co.jp/entry/2026/07/17/153409</guid>
+      <pubDate>Fri, 17 Jul 2026 06:34:09 +0000</pubDate>
+    </item>
+    <item>
       <title>PRレビューの材料をAIエージェントに残してもらう：gh-imageでスクリーンショットを添付する流れ</title>
       <link>https://tech.algomatic.jp/entry/2026/07/17/160959</link>
       <guid isPermaLink="true">https://tech.algomatic.jp/entry/2026/07/17/160959</guid>
@@ -151,6 +116,13 @@
       <guid isPermaLink="true">https://tech.smarthr.jp/entry/qa_summit</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/e2aa432f9eabf5c86a2f807a6034104f3af2b33a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20260717%2F20260717173516.png" length="None" type="image/png"/>
       <pubDate>Fri, 17 Jul 2026 08:35:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>【復旧済】AWS Cost Explorer で桁違いの高額コストが表示される事象が発生していました</title>
+      <link>https://blog.serverworks.co.jp/aws-cost-billing-issue-20260717</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/aws-cost-billing-issue-20260717</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/94617d396bd6fa21df29eb3f10dd5cb4cbd19422/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-satake%2F20260717%2F20260717181517.png" length="None" type="image/png"/>
+      <pubDate>Fri, 17 Jul 2026 08:51:46 +0000</pubDate>
     </item>
     <item>
       <title>BIM Useとは？ 概念と使うときの注意点</title>
@@ -212,6 +184,33 @@
       <guid isPermaLink="true">https://design-tech.xtone.co.jp/entry/2026/07/17/200000</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/6773111d7dbbbcf3a3965a9ca2dcb274962cd397/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fknktkc%2F20260717%2F20260717190635.png" length="None" type="image/png"/>
       <pubDate>Fri, 17 Jul 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>大吉祥寺.pm 2026 当日の配布物、企画について</title>
+      <link>https://kichijojipm.hatenablog.com/entry/2026/07/18/081001</link>
+      <guid isPermaLink="true">https://kichijojipm.hatenablog.com/entry/2026/07/18/081001</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/ee482e606723ea0c985a5ac99855b9d9add912e3/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsudoakiy%2F20260627%2F20260627181640.png" length="None" type="image/png"/>
+      <pubDate>Fri, 17 Jul 2026 23:10:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS Support からの調査目的のアクセスでデータへのアクセス許可を定義できるようになりました</title>
+      <link>https://blog.serverworks.co.jp/20260718_AWSSupportAuthorization</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/20260718_AWSSupportAuthorization</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6bbf9c328e0000ef7da201ebb8bf4a81399a9186/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155681015%2F1782273580258620" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 18 Jul 2026 00:42:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>「AIエージェントキャッチアップ #84 - OpenWiki」を開催しました</title>
+      <link>https://blog.generative-agents.co.jp/entry/2026/07/18/100318</link>
+      <guid isPermaLink="true">https://blog.generative-agents.co.jp/entry/2026/07/18/100318</guid>
+      <pubDate>Sat, 18 Jul 2026 01:03:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>CloudFront の VPC Origins を利用している環境で 5xx エラーが発生した障害について考えてみた</title>
+      <link>https://blog.serverworks.co.jp/cloudfront-vpcorigin</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/cloudfront-vpcorigin</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6bbf9c328e0000ef7da201ebb8bf4a81399a9186/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155681015%2F1782273580258620" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 18 Jul 2026 02:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

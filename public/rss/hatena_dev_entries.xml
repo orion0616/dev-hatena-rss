@@ -7,20 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 19 Jul 2026 05:42:43 +0000</lastBuildDate>
-    <item>
-      <title>医療現場のリスク評価を、QAに活かすという視点</title>
-      <link>https://dev.henry.jp/entry/2026/07/17/120000</link>
-      <guid isPermaLink="true">https://dev.henry.jp/entry/2026/07/17/120000</guid>
-      <pubDate>Fri, 17 Jul 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows Server 2025：Hyper-V レプリケーションの設定と試験（試験編）</title>
-      <link>https://blog.jbs.co.jp/entry/2026/07/17/121255</link>
-      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2026/07/17/121255</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d53b2cd64b6aa9771d74712d447be2ca1cb2c54b/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F158660714%2F1667527455467771" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 17 Jul 2026 03:12:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Jul 2026 05:58:27 +0000</lastBuildDate>
     <item>
       <title>【Backstage】 New Frontend System導入ガイド （Part3「Catalog Overview/Tabへの追加」）</title>
       <link>https://techblog.ap-com.co.jp/entry/2026/07/17/123000</link>
@@ -211,6 +198,20 @@
       <guid isPermaLink="true">https://blog.serverworks.co.jp/cloudfront-vpcorigin</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/6bbf9c328e0000ef7da201ebb8bf4a81399a9186/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155681015%2F1782273580258620" length="None" type="image/jpeg"/>
       <pubDate>Sat, 18 Jul 2026 02:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kiro for iOS のベータ版を使って、移動中にアプリを作ってみた</title>
+      <link>https://techblog.forgevision.com/entry/kiro/for_ios</link>
+      <guid isPermaLink="true">https://techblog.forgevision.com/entry/kiro/for_ios</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/20582973b9c1feb88c9bd16c2a4ecd641db991b9/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fo%2Fotanikohei%2F20260717%2F20260717100444.png" length="None" type="image/png"/>
+      <pubDate>Sat, 18 Jul 2026 12:29:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>WordPressの深刻度「緊急」脆弱性 wp2shell の概要と対応指針</title>
+      <link>https://blog.flatt.tech/entry/wp2shell_wordpress</link>
+      <guid isPermaLink="true">https://blog.flatt.tech/entry/wp2shell_wordpress</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/4697765b05639d9616f7f3983315e3c7383468fc/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Fflattsecurity%2F20260718%2F20260718214018.png" length="None" type="image/png"/>
+      <pubDate>Sat, 18 Jul 2026 12:56:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

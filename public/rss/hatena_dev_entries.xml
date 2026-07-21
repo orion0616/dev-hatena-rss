@@ -7,41 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 20 Jul 2026 05:58:27 +0000</lastBuildDate>
-    <item>
-      <title>【Backstage】 New Frontend System導入ガイド （Part3「Catalog Overview/Tabへの追加」）</title>
-      <link>https://techblog.ap-com.co.jp/entry/2026/07/17/123000</link>
-      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/07/17/123000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/94cd30bfd94432d57a10ca6492e273dbd29a8d3c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Fturtle2005%2F20230303%2F20230303210336.png" length="None" type="image/png"/>
-      <pubDate>Fri, 17 Jul 2026 03:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年前期 web-study 参加報告</title>
-      <link>https://blog.cybozu.io/entry/2026/07/17/133000</link>
-      <guid isPermaLink="true">https://blog.cybozu.io/entry/2026/07/17/133000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/f14f0a7cd8c2e7a613acaa2d3507791fd65ada9a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcybozuinsideout%2F20260717%2F20260717133033.png" length="None" type="image/png"/>
-      <pubDate>Fri, 17 Jul 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>レビューは人間がすべきか問題：Critの紹介</title>
-      <link>https://blog.ingage.jp/entry/2026/07/17/135429</link>
-      <guid isPermaLink="true">https://blog.ingage.jp/entry/2026/07/17/135429</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8fd02f9fda6067fcae1754f4adeb6278de2bce2f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkizashi1122%2F20260717%2F20260717135233.png" length="None" type="image/png"/>
-      <pubDate>Fri, 17 Jul 2026 04:54:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>はてなブログのAndroidアプリにおけるはてなスター機能の実装</title>
-      <link>https://developer.hatenastaff.com/entry/2026/07/17/142424</link>
-      <guid isPermaLink="true">https://developer.hatenastaff.com/entry/2026/07/17/142424</guid>
-      <pubDate>Fri, 17 Jul 2026 05:24:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google検索が「AIエージェント」へ進化！手動検索が不要になる未来が到来か？【ダイジェスト版】</title>
-      <link>https://llmo-ai-knowledgeholdings.hatenablog.com/entry/google-ai-agent-search-future-2026</link>
-      <guid isPermaLink="true">https://llmo-ai-knowledgeholdings.hatenablog.com/entry/google-ai-agent-search-future-2026</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/24c679670ed0cc116abdd623931e4a3afcfc063f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fl%2Fllmo_ai_knowledgeholdings%2F20260717%2F20260717134725.png" length="None" type="image/png"/>
-      <pubDate>Fri, 17 Jul 2026 05:28:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 05:39:47 +0000</lastBuildDate>
     <item>
       <title>IntuneでiOSサードパーティ製ストアアプリのインストールをブロックする設定</title>
       <link>https://blog.jbs.co.jp/entry/2026/07/17/143337</link>
@@ -178,6 +144,40 @@
       <guid isPermaLink="true">https://kichijojipm.hatenablog.com/entry/2026/07/18/081001</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/ee482e606723ea0c985a5ac99855b9d9add912e3/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsudoakiy%2F20260627%2F20260627181640.png" length="None" type="image/png"/>
       <pubDate>Fri, 17 Jul 2026 23:10:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pull Requestでレビューするブログ運用 〜はてなブログ × GitHub〜</title>
+      <link>https://tech.kentem.jp/entry/2026/07/20/090000</link>
+      <guid isPermaLink="true">https://tech.kentem.jp/entry/2026/07/20/090000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/a12f0b2bb867e6161c7a527c79ba13ae05a76ce1/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkentem_dev%2F20260625%2F20260625141230.png" length="None" type="image/png"/>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon Inspector v2の脆弱性スキャンパイプラインを構築してみた</title>
+      <link>https://techblog.techfirm.co.jp/entry/amazon-inspector-scan-pipeline</link>
+      <guid isPermaLink="true">https://techblog.techfirm.co.jp/entry/amazon-inspector-scan-pipeline</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/35d6365ddcf5d20f83f820b98b3fbd84a2dbcaf3/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F158883635%2F1666791273156818" length="None" type="image/jpeg"/>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>YAPC::Tokyo 2026のチケットを販売します！</title>
+      <link>https://blog.yapcjapan.org/entry/2026/07/20/170000</link>
+      <guid isPermaLink="true">https://blog.yapcjapan.org/entry/2026/07/20/170000</guid>
+      <pubDate>Mon, 20 Jul 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FY26 Zscaler Partner Top Sales Tour 2026 参加レポート【第2部/最終回】</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/07/20/205423</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/07/20/205423</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/065468c338494e8b1399160d22a7235307bf06e0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20260720%2F20260720170056.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Mon, 20 Jul 2026 11:54:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS Chalice + Docker で定期実行 Slack 通知を作る — ローカル開発から AWS デプロイまで</title>
+      <link>https://tech.sme.co.jp/entry/2026/07/20/230000</link>
+      <guid isPermaLink="true">https://tech.sme.co.jp/entry/2026/07/20/230000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/fc3771d5aae352103e6278eae0057f9429a7a756/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsme_tech%2F20260716%2F20260716125553.png" length="None" type="image/png"/>
+      <pubDate>Mon, 20 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AWS Support からの調査目的のアクセスでデータへのアクセス許可を定義できるようになりました</title>

@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Jul 2026 05:33:24 +0000</lastBuildDate>
-    <item>
-      <title>estie PM Meetup #7「エンジニア・事業開発・セールスから広がるプロダクトマネジメント」を開催しました</title>
-      <link>https://www.estie.jp/blog/entry/2026/07/24/105317</link>
-      <guid isPermaLink="true">https://www.estie.jp/blog/entry/2026/07/24/105317</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/c3559b1caf4396492bfe6c76a95a09ae4c081496/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fe%2Festie%2F20260723%2F20260723111844.png" length="None" type="image/png"/>
-      <pubDate>Fri, 24 Jul 2026 01:53:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metabase MCPの「たぶん」を減らすために、dbtの資産を活かしてセマンティックタイプを整備した</title>
-      <link>https://tech.kickflow.co.jp/entry/2026/07/24/105712</link>
-      <guid isPermaLink="true">https://tech.kickflow.co.jp/entry/2026/07/24/105712</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8eb695f6edd0041fc919caea1a8e4954007627ea/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkickflow%2F20260721%2F20260721182912.png" length="None" type="image/png"/>
-      <pubDate>Fri, 24 Jul 2026 01:57:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Jul 2026 05:49:48 +0000</lastBuildDate>
     <item>
       <title>自動テストの基盤構築と保守・拡張へのAI活用</title>
       <link>https://developersblog.dmm.com/entry/2026/07/24/110000</link>
@@ -210,6 +196,20 @@
       <guid isPermaLink="true">https://design-tech.xtone.co.jp/entry/2026/07/24/200000</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/fbfd892d48520ec02314be55df81acf12f4fc23f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fknktkc%2F20260724%2F20260724193501.png" length="None" type="image/png"/>
       <pubDate>Fri, 24 Jul 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS Organizations に潜り込んでも、請求から逃れることはできなかった話</title>
+      <link>https://techblog.forgevision.com/entry/aws/identity_center</link>
+      <guid isPermaLink="true">https://techblog.forgevision.com/entry/aws/identity_center</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/bf5917879317d3d4dc193363320b4c0c3f857fd7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fo%2Fotanikohei%2F20260725%2F20260725085026.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Fri, 24 Jul 2026 23:56:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Dev Day 2026で「MCPをつなげて作る組織横断のAIエージェント基盤」について登壇しました #AIDevDay</title>
+      <link>https://aadojo.alterbooth.com/entry/2026/07/25/094008</link>
+      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2026/07/25/094008</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/31c8f965b95c40317896961f96db3cb5f9462f54/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-tsubaki%2F20260725%2F20260725092552.png" length="None" type="image/png"/>
+      <pubDate>Sat, 25 Jul 2026 00:40:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

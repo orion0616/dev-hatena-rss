@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Jul 2026 05:49:48 +0000</lastBuildDate>
-    <item>
-      <title>自動テストの基盤構築と保守・拡張へのAI活用</title>
-      <link>https://developersblog.dmm.com/entry/2026/07/24/110000</link>
-      <guid isPermaLink="true">https://developersblog.dmm.com/entry/2026/07/24/110000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/7ecb876496fbbcd25ddeeb5422182dbe6ca8b35f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FD%2FDMMTech%2F20260716%2F20260716180725.png" length="None" type="image/png"/>
-      <pubDate>Fri, 24 Jul 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LANSCOPE エンドポイントマネージャー オンプレミス版のログ変化検知に対する効率化</title>
-      <link>https://tech.motex.co.jp/entry/2026/07/24/111324</link>
-      <guid isPermaLink="true">https://tech.motex.co.jp/entry/2026/07/24/111324</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/a524ba6c7f5dea759b88d95f0da2bee8988c3907/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmo-masuda%2F20260715%2F20260715140625.png" length="None" type="image/png"/>
-      <pubDate>Fri, 24 Jul 2026 02:13:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Jul 2026 06:15:47 +0000</lastBuildDate>
     <item>
       <title>React移行を機にグラフ描画ロジックを整理した話</title>
       <link>https://blog.cybozu.io/entry/2026/07/24/113000</link>
@@ -210,6 +196,20 @@
       <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2026/07/25/094008</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/31c8f965b95c40317896961f96db3cb5f9462f54/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-tsubaki%2F20260725%2F20260725092552.png" length="None" type="image/png"/>
       <pubDate>Sat, 25 Jul 2026 00:40:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>【AI Security】「いずれ起きる」は、もう起きた</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/07/26/163238</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/07/26/163238</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/9d1cad356d9e9a5b0a209482244db577ab4ac73b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20260726%2F20260726160820.png" length="None" type="image/png"/>
+      <pubDate>Sun, 26 Jul 2026 07:32:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Zscaler】図解でZscalerの全体像を10の機能領域で理解する</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/07/26/224749</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/07/26/224749</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/bf507468bb62ed327c72abbf33f4030e979bcd39/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20260726%2F20260726223100.png" length="None" type="image/png"/>
+      <pubDate>Sun, 26 Jul 2026 13:47:49 +0000</pubDate>
     </item>
   </channel>
 </rss>

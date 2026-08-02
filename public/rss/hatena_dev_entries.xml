@@ -7,27 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 05:44:58 +0000</lastBuildDate>
-    <item>
-      <title>Amazon Q in Connectを使ったコールセンター業務への活用例を紹介する。</title>
-      <link>https://blog.serverworks.co.jp/call-in-amazon-connect-202607</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/call-in-amazon-connect-202607</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6bbf9c328e0000ef7da201ebb8bf4a81399a9186/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155681015%2F1782273580258620" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 31 Jul 2026 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Feature FlagとRemote Configで大きな機能を早く混ぜて安全に出す</title>
-      <link>https://buildersbox.corp-sansan.com/entry/2026/07/31/130000</link>
-      <guid isPermaLink="true">https://buildersbox.corp-sansan.com/entry/2026/07/31/130000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/c2b25807a1b69005f75acd9c51594c9f36ee7f47/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsansantech%2F20260731%2F20260731130011.png" length="None" type="image/png"/>
-      <pubDate>Fri, 31 Jul 2026 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>新機能を「作る前」にやったこと —— 価値仮説を最小コストで検証したプロセスと学び</title>
-      <link>https://tech.connehito.com/entry/2026/07/31/132831</link>
-      <guid isPermaLink="true">https://tech.connehito.com/entry/2026/07/31/132831</guid>
-      <pubDate>Fri, 31 Jul 2026 04:28:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Aug 2026 05:45:55 +0000</lastBuildDate>
     <item>
       <title>Hacker's Event 6月号 を開催しました！</title>
       <link>https://tech.mti.co.jp/entry/2026/07/31/133000</link>
@@ -206,6 +186,26 @@
       <guid isPermaLink="true">https://blog.serverworks.co.jp/aws-security-hub-impact-analysis</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/557a3230e3d17c7e159211bcc3d772c7a062569e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-ryu-abe%2F20260724%2F20260724135944.png" length="None" type="image/png"/>
       <pubDate>Fri, 31 Jul 2026 14:35:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live2Dモデル最適化でUnity処理速度がどう変化するか検証</title>
+      <link>https://tech.liberent.co.jp/entry/2026/08/01/000000</link>
+      <guid isPermaLink="true">https://tech.liberent.co.jp/entry/2026/08/01/000000</guid>
+      <pubDate>Fri, 31 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>100冊分のレビューを一人で動画撮影！？ 12年ぶりに伝説の『100本ノック』がリメイクされた裏側に迫ります！</title>
+      <link>https://developers.bookwalker.jp/entry/2026/08/01/000000</link>
+      <guid isPermaLink="true">https://developers.bookwalker.jp/entry/2026/08/01/000000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/95ded7a8298c54cc82b980e1bcb3b7b213f87c72/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbookwalker_writer%2F20260730%2F20260730110849.png" length="None" type="image/png"/>
+      <pubDate>Fri, 31 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code更新 プロンプト削減・sandbox強化【7/24〜30】</title>
+      <link>https://blog.serverworks.co.jp/2026/08/01/190000</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/08/01/190000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/fe0af14bcd4bdc5e24fa6f62dfac82b00fb37e78/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-tomoya-ikeda%2F20260731%2F20260731174410.png" length="None" type="image/png"/>
+      <pubDate>Sat, 01 Aug 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,28 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 04:02:46 +0000</lastBuildDate>
-    <item>
-      <title>Cost Optimization Hubを使ってAWSのコスト削減に取り組んだ</title>
-      <link>https://tech.every.tv/entry/2026/08/07/124327</link>
-      <guid isPermaLink="true">https://tech.every.tv/entry/2026/08/07/124327</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/be9674f719f4c573c6cde6e623d6cb2de53b03bc/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcroro613%2F20260807%2F20260807114357.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 07 Aug 2026 03:43:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike Falconでオンデマンドスキャン(ODS)を実行する方法</title>
-      <link>https://blog.serverworks.co.jp/crowdstrike-ods</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/crowdstrike-ods</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/4197b7fbbcc4251aba76a057afa6e4ca3a31d5c2/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmiyazawa24%2F20250825%2F20250825143523.png" length="None" type="image/png"/>
-      <pubDate>Fri, 07 Aug 2026 03:59:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Cloud Next Tokyo 26 参加レポ</title>
-      <link>https://tech-waves.hakuhodody-one.co.jp/entry/google-cloud-tokyo-26-report</link>
-      <guid isPermaLink="true">https://tech-waves.hakuhodody-one.co.jp/entry/google-cloud-tokyo-26-report</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/638dfe21bab32e43416d04813bb5c4740cac70a0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhakuhodody-one%2F20260807%2F20260807130003.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 07 Aug 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 09 Aug 2026 04:09:03 +0000</lastBuildDate>
     <item>
       <title>AIの回答を「自分の知識」に変えるために ―― 業務における「知る」の再定義 #夏のAI技術発信祭</title>
       <link>https://techtekt.persol-career.co.jp/entry/tech/260807_01</link>
@@ -213,6 +192,26 @@
       <guid isPermaLink="true">https://llmo-ai-knowledgeholdings.hatenablog.com/entry/review-survey-2026</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/9aa11df05f73b96d8e4448eb6c3c69e69caa5faf/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fl%2Fllmo_ai_knowledgeholdings%2F20260807%2F20260807205811.png" length="None" type="image/png"/>
       <pubDate>Fri, 07 Aug 2026 12:01:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code更新 review統合・権限バイパス修正【7/31〜8/6】</title>
+      <link>https://blog.serverworks.co.jp/2026/08/08/190000</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/08/08/190000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6ae36057b364a11fd9cbe89e87210ee673d5d838/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-tomoya-ikeda%2F20260807%2F20260807175337.png" length="None" type="image/png"/>
+      <pubDate>Sat, 08 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NeurIPS 2026 にて "2nd Workshop on Agentic AI Benchmark and Application for Enterprise Tasks" の開催が決定しました 〜論文投稿募集のお知らせ〜</title>
+      <link>https://blog.fltech.dev/entry/2026/08/07/NeurIPS2026-WS-AgenticAIBenchmarks-ja</link>
+      <guid isPermaLink="true">https://blog.fltech.dev/entry/2026/08/07/NeurIPS2026-WS-AgenticAIBenchmarks-ja</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/35558df65e5270e82b029b4a82f5f5e7ae95de80/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Fauchida-fltech%2F20260805%2F20260805104034.png" length="None" type="image/png"/>
+      <pubDate>Sat, 08 Aug 2026 10:53:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>NeurIPS 2026 to Host "2nd Workshop on Agentic AI Benchmark and Application for Enterprise Tasks" - Call for Papers Now Open!</title>
+      <link>https://blog-en.fltech.dev/entry/2026/08/07/NeurIPS2026-WS-AgenticAIBenchmarks-en</link>
+      <guid isPermaLink="true">https://blog-en.fltech.dev/entry/2026/08/07/NeurIPS2026-WS-AgenticAIBenchmarks-en</guid>
+      <pubDate>Sat, 08 Aug 2026 10:54:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,20 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 03:29:15 +0000</lastBuildDate>
-    <item>
-      <title>PMもプロダクトも未経験で大規模技術基盤アップデートを完遂した話 ~ 生成AIでの越境と、地図の先のコミュニケーション</title>
-      <link>https://tech.asoview.co.jp/entry/2026/08/14/103952</link>
-      <guid isPermaLink="true">https://tech.asoview.co.jp/entry/2026/08/14/103952</guid>
-      <pubDate>Fri, 14 Aug 2026 01:39:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>意外とできる！NWエンジニアが考えるスケールしやすいk8s用NW設計</title>
-      <link>https://developersblog.dmm.com/entry/2026/08/14/110000</link>
-      <guid isPermaLink="true">https://developersblog.dmm.com/entry/2026/08/14/110000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/ced96a20842410d15248d8c1a1e60880f9d8988c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FD%2FDMMTech%2F20260804%2F20260804190038.png" length="None" type="image/png"/>
-      <pubDate>Fri, 14 Aug 2026 02:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 16 Aug 2026 03:38:30 +0000</lastBuildDate>
     <item>
       <title>ジュニアこそやるべき！？アラート対応の考え方と実践</title>
       <link>https://techblog.cartaholdings.co.jp/entry/junior-alert-response</link>
@@ -206,6 +193,19 @@
       <guid isPermaLink="true">https://design-tech.xtone.co.jp/entry/2026/08/14/190000</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/e579226f2185fccb3d74790f69e117a1f2d4c8e2/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fknktkc%2F20260814%2F20260814183018.png" length="None" type="image/png"/>
       <pubDate>Fri, 14 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>第6回 基幹システム調達の3つの選択肢と、その先にある盲点</title>
+      <link>https://tech.briswell.com/entry/2026/08/15/070000</link>
+      <guid isPermaLink="true">https://tech.briswell.com/entry/2026/08/15/070000</guid>
+      <pubDate>Fri, 14 Aug 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>学生向け招待プログラムとして Kaigi on Rails 2026 の参加者を募集します</title>
+      <link>https://tech.giftee.co.jp/entry/2026/08/15/164209</link>
+      <guid isPermaLink="true">https://tech.giftee.co.jp/entry/2026/08/15/164209</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/ae3b8813fa85fb4470f5c5da1244e7a4d116c89d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgiftee-dev%2F20260814%2F20260814162845.png" length="None" type="image/png"/>
+      <pubDate>Sat, 15 Aug 2026 07:42:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

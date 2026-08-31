@@ -7,35 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Aug 2026 08:38:14 +0000</lastBuildDate>
-    <item>
-      <title>YANS2026参加レポート</title>
-      <link>https://tech.cierpa.co.jp/entry/2026/08/28/125356</link>
-      <guid isPermaLink="true">https://tech.cierpa.co.jp/entry/2026/08/28/125356</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/38a37eb3cf3043f36f8d439bddc9698ae8d70b3a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsho-asn%2F20260826%2F20260826132531.png" length="None" type="image/png"/>
-      <pubDate>Fri, 28 Aug 2026 03:53:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analysis of Suspicious Emails Targeting the Hotel Industry (Part 1: Campaign Overview)</title>
-      <link>https://blog-en.itochuci.co.jp/entry/2026/08/28/130000</link>
-      <guid isPermaLink="true">https://blog-en.itochuci.co.jp/entry/2026/08/28/130000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/f0dcbfa8c28354958cc675fae6246d126a8de8ad/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fi%2Fici-blog%2F20260611%2F20260611091220.png" length="None" type="image/png"/>
-      <pubDate>Fri, 28 Aug 2026 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analysis of Suspicious Emails Targeting the Hotel Industry (Part 2: Technical Details)</title>
-      <link>https://blog-en.itochuci.co.jp/entry/2026/08/28/130100</link>
-      <guid isPermaLink="true">https://blog-en.itochuci.co.jp/entry/2026/08/28/130100</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/077ea809ca3b2db98aec1e50414a8fd2d79ef987/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fi%2Fici-blog%2F20260611%2F20260611093411.png" length="None" type="image/png"/>
-      <pubDate>Fri, 28 Aug 2026 04:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Salesforceのフロー承認プロセスとは何か？ 従来の承認プロセスとの違いを整理する</title>
-      <link>https://cloud.flect.co.jp/entry/2026/08/28/130105</link>
-      <guid isPermaLink="true">https://cloud.flect.co.jp/entry/2026/08/28/130105</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/544c16f8fdd1c6e49b13c8723c7a8e1919e1f18a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftoyonari-fujikawa-flect%2F20260826%2F20260826001928.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 28 Aug 2026 04:01:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 31 Aug 2026 09:02:11 +0000</lastBuildDate>
     <item>
       <title>クレカ不要でAIエージェントを体験！AWS Builder Center SandboxでD&amp;D Game Masterを作ってみた</title>
       <link>https://media.zenet-web.co.jp/entry/2026/08/28/132633</link>
@@ -206,11 +178,37 @@
       <pubDate>Sat, 29 Aug 2026 11:57:58 +0000</pubDate>
     </item>
     <item>
-      <title>LLMに全部読ませない。スクリプト同梱のエージェントスキルでトークンを減らす</title>
+      <title>LLMに全部読ませない。スクリプト同梱スキルでトークンを減らす設計</title>
       <link>https://tech.algomatic.jp/entry/2026/08/29/225704</link>
       <guid isPermaLink="true">https://tech.algomatic.jp/entry/2026/08/29/225704</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/1b145c146af4714d030703d18420fb34f52c9b58/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgotadano%2F20260829%2F20260829225122.png" length="None" type="image/png"/>
       <pubDate>Sat, 29 Aug 2026 13:57:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>IAM Identity Center × Amazon Bedrockで ChatGPTと Codex を使う</title>
+      <link>https://blog.serverworks.co.jp/2026/08/30/102412</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/08/30/102412</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6bbf9c328e0000ef7da201ebb8bf4a81399a9186/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155681015%2F1782273580258620" length="None" type="image/jpeg"/>
+      <pubDate>Sun, 30 Aug 2026 01:24:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>会社のはてなブログ運用をHatenaBlog WorkflowsとAIで効率化する</title>
+      <link>https://devblog.thebase.in/entry/2026/08/30/110000</link>
+      <guid isPermaLink="true">https://devblog.thebase.in/entry/2026/08/30/110000</guid>
+      <pubDate>Sun, 30 Aug 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>冬がいちばん賑わう街。データで読む岩手県八幡平市の「季節のリレー」</title>
+      <link>https://tech-blog.rei-frontier.jp/entry/hachimantai-seasonal-flow</link>
+      <guid isPermaLink="true">https://tech-blog.rei-frontier.jp/entry/hachimantai-seasonal-flow</guid>
+      <pubDate>Sun, 30 Aug 2026 02:20:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIと人が同じブラウザを使える「ego lite」とは？実際に使って分かった便利さと注意点</title>
+      <link>https://tech.algomatic.jp/entry/2026/08/30/165255</link>
+      <guid isPermaLink="true">https://tech.algomatic.jp/entry/2026/08/30/165255</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/be041c4186b843a8d8182883891e905872d96e80/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgotadano%2F20260830%2F20260830133140.png" length="None" type="image/png"/>
+      <pubDate>Sun, 30 Aug 2026 07:52:55 +0000</pubDate>
     </item>
   </channel>
 </rss>

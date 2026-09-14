@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 13 Sep 2026 07:44:16 +0000</lastBuildDate>
-    <item>
-      <title>Clojureのmapに1項目追加したら順番が変わる PersistentArrayMapとPersistentHashMap</title>
-      <link>https://tech.uzabase.com/entry/2026/09/11/101954</link>
-      <guid isPermaLink="true">https://tech.uzabase.com/entry/2026/09/11/101954</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/531f2b49b777f8582990592ddd17d50adc9b3c47/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FS%2FSicut_study%2F20260910%2F20260910175854.png" length="None" type="image/png"/>
-      <pubDate>Fri, 11 Sep 2026 01:19:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZOZOTOWN Androidのマルチモジュール構成を段階的に整理する</title>
-      <link>https://techblog.zozo.com/entry/zozotown-android-modularization</link>
-      <guid isPermaLink="true">https://techblog.zozo.com/entry/zozotown-android-modularization</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e00619c76e5c93a76fcf1f9428a1c91638a896ac/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260909%2F20260909182431.png" length="None" type="image/png"/>
-      <pubDate>Fri, 11 Sep 2026 02:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Sep 2026 08:13:52 +0000</lastBuildDate>
     <item>
       <title>Why Join Sansan Data Intelligence in the Age of AI</title>
       <link>https://buildersbox.corp-sansan.com/entry/2026/09/11/113000</link>
@@ -204,11 +190,23 @@
       <pubDate>Sat, 12 Sep 2026 09:45:00 +0000</pubDate>
     </item>
     <item>
-      <title>RO-MAN 2026に2件採択！～人とロボットの協調を実現する技術～</title>
-      <link>https://blog.fltech.dev/entry/2026/09/11/roman2026-ja</link>
-      <guid isPermaLink="true">https://blog.fltech.dev/entry/2026/09/11/roman2026-ja</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8542a5f29e3736d49e67e66b4c7c9817686e2c41/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Ffltech%2F20260911%2F20260911080010.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Thu, 10 Sep 2026 23:00:00 +0000</pubDate>
+      <title>検算ハーネス：AI にも人にも、正しさを判定させない</title>
+      <link>https://tech.enechange.co.jp/entry/2026/09/13/003945</link>
+      <guid isPermaLink="true">https://tech.enechange.co.jp/entry/2026/09/13/003945</guid>
+      <pubDate>Sat, 12 Sep 2026 15:39:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>【AGNTCon + MCPCon Japan 2026】 標準に準拠する重要性</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/09/13/123456</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/09/13/123456</guid>
+      <pubDate>Sun, 13 Sep 2026 03:34:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>1週間かかっていた機能実装が半日で実現？ スクラッチ開発経験からのAIコーディング入門</title>
+      <link>https://tech.sme.co.jp/entry/2026/09/13/230000</link>
+      <guid isPermaLink="true">https://tech.sme.co.jp/entry/2026/09/13/230000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/012501040b150f80b3054ea62d81b9d8ae75fd49/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsme_tech%2F20260826%2F20260826154921.png" length="None" type="image/png"/>
+      <pubDate>Sun, 13 Sep 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

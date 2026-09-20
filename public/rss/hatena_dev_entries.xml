@@ -7,93 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 19 Sep 2026 07:37:29 +0000</lastBuildDate>
-    <item>
-      <title>AIに「アクセシビリティを改善して」と頼んだら、lintエラーだけが消えたコードが返ってきた</title>
-      <link>https://tech-blog.rakus.co.jp/entry/20260918/a11y</link>
-      <guid isPermaLink="true">https://tech-blog.rakus.co.jp/entry/20260918/a11y</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/1de5bc2a457f21e8b673f662b1bd127e46b723d4/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20260918%2F20260918125730.png" length="None" type="image/png"/>
-      <pubDate>Fri, 18 Sep 2026 04:03:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>パスキーと認証画面設計について</title>
-      <link>https://tech.synapse.jp/entry/2026/09/18/133000</link>
-      <guid isPermaLink="true">https://tech.synapse.jp/entry/2026/09/18/133000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/73202ad337f04feffea88c840782bc3b80ecc368/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fneko-pon%2F20260916%2F20260916112408.png" length="None" type="image/png"/>
-      <pubDate>Fri, 18 Sep 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bet AI Day 2026 振り返り</title>
-      <link>https://tech.layerx.co.jp/entry/betaiday_2026</link>
-      <guid isPermaLink="true">https://tech.layerx.co.jp/entry/betaiday_2026</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/1625ebfe3524b2d21646eebfa7663a67f1d84679/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fi%2Fipod_nana%2F20260918%2F20260918133508.png" length="None" type="image/png"/>
-      <pubDate>Fri, 18 Sep 2026 04:36:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>自分の施策を自分で評価する —— 結果を見る前に決めておいたことと、そこから外したこと</title>
-      <link>https://tech.smarthr.jp/entry/2026/09/18/143604</link>
-      <guid isPermaLink="true">https://tech.smarthr.jp/entry/2026/09/18/143604</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/3e277977d9897ee8e73be0bd6c0c8a3819bfd262/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20260918%2F20260918143606.png" length="None" type="image/png"/>
-      <pubDate>Fri, 18 Sep 2026 05:36:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Selenium Gridでblobダウンロードが未確認.crdownloadのまま確定しないのでKotlinのテストが失敗する</title>
-      <link>https://tech.uzabase.com/entry/2026/09/18/143724</link>
-      <guid isPermaLink="true">https://tech.uzabase.com/entry/2026/09/18/143724</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/a3ae69559d4d9355845f1f2c71813cf912ca8d24/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FS%2FSicut_study%2F20260918%2F20260918112001.png" length="None" type="image/png"/>
-      <pubDate>Fri, 18 Sep 2026 05:37:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>開発初心者がClaude Codeに頼りすぎて学んだAIとの向き合い方 #夏のAI技術発信祭</title>
-      <link>https://techtekt.persol-career.co.jp/entry/2026/09/18/143809</link>
-      <guid isPermaLink="true">https://techtekt.persol-career.co.jp/entry/2026/09/18/143809</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/12d20a655513fb51160034801b0e1d71dd93944e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fp%2Fpcads_media%2F20260812%2F20260812093011.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 18 Sep 2026 05:38:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>【AIに任せて失敗した③】「見れば分かる」を自動判定させようとして、設計から作り直した</title>
-      <link>https://eight-hundred-800-dev.hatenablog.com/entry/2026/09/18/145246</link>
-      <guid isPermaLink="true">https://eight-hundred-800-dev.hatenablog.com/entry/2026/09/18/145246</guid>
-      <pubDate>Fri, 18 Sep 2026 05:52:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>フロントエンドカンファレンス福岡2026に参加しました #fec_fukuoka</title>
-      <link>https://tech.layerx.co.jp/entry/2026/09/18/145656</link>
-      <guid isPermaLink="true">https://tech.layerx.co.jp/entry/2026/09/18/145656</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8cb7afdf8464bb1deb7b7a8446bd32400c98d549/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fp%2Fpirosikick%2F20260912%2F20260912152656.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 18 Sep 2026 05:56:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Web エンジニアなら知っておきたい、安全なバージョンアップの進め方</title>
-      <link>https://engineers.fenrir-inc.com/entry/2026/09/18/145958</link>
-      <guid isPermaLink="true">https://engineers.fenrir-inc.com/entry/2026/09/18/145958</guid>
-      <pubDate>Fri, 18 Sep 2026 05:59:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>OAuth/OIDC Numa(Immersion)  Workshop 2026とOpenID Summit Tokyo 2026 Special Editionに参加しました</title>
-      <link>https://buildersbox.corp-sansan.com/entry/2026/09/18/150000</link>
-      <guid isPermaLink="true">https://buildersbox.corp-sansan.com/entry/2026/09/18/150000</guid>
-      <pubDate>Fri, 18 Sep 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>内定者インターンから正社員へ――プロダクトエンジニアとして感じた仕事の「広さ」と「深さ」</title>
-      <link>https://techblog.leadingmark.jp/entry/2026/09/18/150000_1</link>
-      <guid isPermaLink="true">https://techblog.leadingmark.jp/entry/2026/09/18/150000_1</guid>
-      <pubDate>Fri, 18 Sep 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SaaSを入れずに会議の空気を変える：匿名コメントオーバーレイを社内LAN完結で自作した話</title>
-      <link>https://techblog.leadingmark.jp/entry/2026/09/18/150000</link>
-      <guid isPermaLink="true">https://techblog.leadingmark.jp/entry/2026/09/18/150000</guid>
-      <pubDate>Fri, 18 Sep 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>巨大モノレポ2つをまたぐ開発を、Claudeにちょうどよい大きさで渡す</title>
-      <link>https://tech.uzabase.com/entry/2026/09/18/153846</link>
-      <guid isPermaLink="true">https://tech.uzabase.com/entry/2026/09/18/153846</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/4efe5ea538a3a790e2dcb4ea6d84f064400d9951/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnaoki-tomita%2F20260918%2F20260918152936.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 18 Sep 2026 06:38:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 20 Sep 2026 08:00:25 +0000</lastBuildDate>
     <item>
       <title>「駅すぱあと API」がJR東海「Supreme Class」の座席種別取得に対応しました</title>
       <link>https://blog.ekispert.com/2026/09/18/supreme-class-seat</link>
@@ -208,6 +122,96 @@
       <link>https://tech.talentx.co.jp/entry/2026/09/18/194718</link>
       <guid isPermaLink="true">https://tech.talentx.co.jp/entry/2026/09/18/194718</guid>
       <pubDate>Fri, 18 Sep 2026 10:47:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Snowflake World Tour Tokyo 2026 で登壇してきました</title>
+      <link>https://tech.layerx.co.jp/entry/snowflake-world-tour-tokyo-2026</link>
+      <guid isPermaLink="true">https://tech.layerx.co.jp/entry/snowflake-world-tour-tokyo-2026</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/497204119136539c6dd95d58034c662c8775a387/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcivitaspo%2F20260919%2F20260919084122.png" length="None" type="image/png"/>
+      <pubDate>Fri, 18 Sep 2026 23:55:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code更新 Mods・Slides【9/11〜17】</title>
+      <link>https://blog.serverworks.co.jp/2026/09/19/190000</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/09/19/190000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/5733b5a4ee590e91971f6813936cc65efe93225d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-tomoya-ikeda%2F20260918%2F20260918155747.png" length="None" type="image/png"/>
+      <pubDate>Sat, 19 Sep 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>第11回 IPアドレスって、そもそも何を表している？</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/09/19/192522</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/09/19/192522</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/907caac3030554469669650118303fec0f25e142/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20260913%2F20260913131256.png" length="None" type="image/png"/>
+      <pubDate>Sat, 19 Sep 2026 10:25:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>第12回 パケットはどうやって目的地まで届く？ルーティングの基本</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/09/19/192549</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/09/19/192549</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/f65dabde11d68c7f0620e363018cd190a9fddff1/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20260913%2F20260913131618.png" length="None" type="image/png"/>
+      <pubDate>Sat, 19 Sep 2026 10:25:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>第13回 NATで何が変わる？「送信元IP」の話</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/09/19/192618</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/09/19/192618</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/66bcf153c75850d59539f836889f72dbe48971e5/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20260913%2F20260913131932.png" length="None" type="image/png"/>
+      <pubDate>Sat, 19 Sep 2026 10:26:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>第14回 DNSは何をしている？名前からIPアドレスが分かるまで</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/09/19/192634</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/09/19/192634</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/03d65932ed5b5e1d44550c69b4868a54d2147a0c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20260913%2F20260913132347.png" length="None" type="image/png"/>
+      <pubDate>Sat, 19 Sep 2026 10:26:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>第15回 URLを入力してからWebページが表示されるまで</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/09/19/192649</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/09/19/192649</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/a59f5c75c3fe28723310159f6e22fe3f2a03a25a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20260913%2F20260913132550.png" length="None" type="image/png"/>
+      <pubDate>Sat, 19 Sep 2026 10:26:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>第16回 HTTPSはなぜ安全？TLSの役割をやさしく理解する</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/09/19/192707</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/09/19/192707</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/cd820f8814f8aa0a7216e9438250a6cb6fc32e23/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20260913%2F20260913132947.png" length="None" type="image/png"/>
+      <pubDate>Sat, 19 Sep 2026 10:27:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>第17回 証明書って何のためにある？ブラウザーが相手を信頼する仕組み</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/09/19/192723</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/09/19/192723</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d19602e7f9a727ac4b1a63dc901afc8f70b51805/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20260913%2F20260913133517.png" length="None" type="image/png"/>
+      <pubDate>Sat, 19 Sep 2026 10:27:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>第18回 Proxyって結局何？Zscalerとの関係を理解する</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/09/19/192746</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/09/19/192746</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/fe026324e41cea0d4041085b278e84b528bb3552/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20260913%2F20260913133753.png" length="None" type="image/png"/>
+      <pubDate>Sat, 19 Sep 2026 10:27:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>第19回 PACファイルって何？Proxyをどう選んでいるの？</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/09/19/192822</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/09/19/192822</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d719667913e305fbe2d5da038f184d829ec6a066/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20260913%2F20260913134005.png" length="None" type="image/png"/>
+      <pubDate>Sat, 19 Sep 2026 10:28:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>第20回 VPNに接続すると何が起きる？ZPAを理解するための前提知識</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/09/19/192839</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/09/19/192839</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/ba634c28c853b9354ae5cc4fcfec0ccd759b63cc/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20260913%2F20260913134309.png" length="None" type="image/png"/>
+      <pubDate>Sat, 19 Sep 2026 10:28:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>KARAⅡ～</title>
+      <link>https://rizing-pa.hatenablog.com/entry/2026/09/19/201458</link>
+      <guid isPermaLink="true">https://rizing-pa.hatenablog.com/entry/2026/09/19/201458</guid>
+      <pubDate>Sat, 19 Sep 2026 11:14:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

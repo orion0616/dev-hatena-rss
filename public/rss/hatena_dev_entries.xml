@@ -7,34 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 21 Sep 2026 08:19:15 +0000</lastBuildDate>
-    <item>
-      <title>TypeSafe AI - 現時点でわかっていることまとめ</title>
-      <link>https://mobilus.hatenablog.com/entry/2026/09/18/155720</link>
-      <guid isPermaLink="true">https://mobilus.hatenablog.com/entry/2026/09/18/155720</guid>
-      <pubDate>Fri, 18 Sep 2026 06:57:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Informatica の Inferred Lineage は、どこまで自動で繋がるのか試してみた</title>
-      <link>https://cloud.flect.co.jp/entry/2026/09/18/155726</link>
-      <guid isPermaLink="true">https://cloud.flect.co.jp/entry/2026/09/18/155726</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/c18fc1010f6afff2a1cb2ce445185e7625e522d5/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjun-ooka-flect%2F20260917%2F20260917163956.png" length="None" type="image/png"/>
-      <pubDate>Fri, 18 Sep 2026 06:57:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>BigQueryのスロット、返し忘れていませんか? fluid scalingによるスロット費用最適化</title>
-      <link>https://www.m3tech.blog/entry/2026/09/18/160000</link>
-      <guid isPermaLink="true">https://www.m3tech.blog/entry/2026/09/18/160000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/364c28d099895c5ca7570c8d5d7cd8f92be640d8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20260918%2F20260918160001.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 18 Sep 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SPAを丸ごと差し替えながら、画面単位で新基盤へ引っ越した話</title>
-      <link>https://developers.freee.co.jp/entry/spa_react_upgrade</link>
-      <guid isPermaLink="true">https://developers.freee.co.jp/entry/spa_react_upgrade</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/771d0063d13693c75bfd2dd00a6c76bc97ef76f2/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshuchan1%2F20260915%2F20260915155248.png" length="None" type="image/png"/>
-      <pubDate>Fri, 18 Sep 2026 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Sep 2026 08:02:17 +0000</lastBuildDate>
     <item>
       <title>ECCV2026参加レポート：ワークショップ運営とポスター発表</title>
       <link>https://caddi.tech/2026/09/18/162220</link>
@@ -124,6 +97,26 @@
       <pubDate>Fri, 18 Sep 2026 23:55:22 +0000</pubDate>
     </item>
     <item>
+      <title>GitHub issueの添付画像がAPIトークンで404になる理由とgh CLIでの回避策</title>
+      <link>https://tech.kentem.jp/entry/2026/09/21/090000</link>
+      <guid isPermaLink="true">https://tech.kentem.jp/entry/2026/09/21/090000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/5ad03cbbeb284cddad8a62672c6a3b3f03e84f09/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkentem_dev_re_hiramatsu%2F20260909%2F20260909135037.png" length="None" type="image/png"/>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>不動産投資講座Lover’sとは？初心者＆女性にぴったりのオンライン講座</title>
+      <link>https://lovers-official.hatenablog.com/entry/2026/09/21/093407</link>
+      <guid isPermaLink="true">https://lovers-official.hatenablog.com/entry/2026/09/21/093407</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/12b5647e5693afa871a694f596cbc0f30bd1bd73/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmomokan_lovers%2F20260921%2F20260921091603.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Mon, 21 Sep 2026 00:34:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>20周年</title>
+      <link>https://blog.spookies.co.jp/entry/2026/09/21/233700</link>
+      <guid isPermaLink="true">https://blog.spookies.co.jp/entry/2026/09/21/233700</guid>
+      <pubDate>Mon, 21 Sep 2026 14:37:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Claude Code更新 Mods・Slides【9/11〜17】</title>
       <link>https://blog.serverworks.co.jp/2026/09/19/190000</link>
       <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/09/19/190000</guid>
@@ -204,6 +197,7 @@
       <title>KARAⅡ～</title>
       <link>https://rizing-pa.hatenablog.com/entry/2026/09/19/201458</link>
       <guid isPermaLink="true">https://rizing-pa.hatenablog.com/entry/2026/09/19/201458</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/95e97a37c9c77c3a4f903d7170d52e1f133d35bb/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FR%2FRIZING-PA%2F20260919%2F20260919201125.jpg" length="None" type="image/jpeg"/>
       <pubDate>Sat, 19 Sep 2026 11:14:58 +0000</pubDate>
     </item>
     <item>
@@ -211,6 +205,13 @@
       <link>https://ventus-inc.hatenablog.com/entry/2026/09/20/174931</link>
       <guid isPermaLink="true">https://ventus-inc.hatenablog.com/entry/2026/09/20/174931</guid>
       <pubDate>Sun, 20 Sep 2026 08:49:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIに聞くだけだった自分が、AIと一緒に開発するようになるまで</title>
+      <link>https://tech.unifa-e.com/entry/2026/09/21/080000</link>
+      <guid isPermaLink="true">https://tech.unifa-e.com/entry/2026/09/21/080000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/20e3239f92303c255b8168f56aba311bde47c0d0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fu%2Funifa_tech%2F20260916%2F20260916160936.png" length="None" type="image/png"/>
+      <pubDate>Sun, 20 Sep 2026 23:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

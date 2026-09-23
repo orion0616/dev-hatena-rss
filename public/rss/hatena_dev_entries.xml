@@ -7,34 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 22 Sep 2026 08:02:17 +0000</lastBuildDate>
-    <item>
-      <title>ECCV2026参加レポート：ワークショップ運営とポスター発表</title>
-      <link>https://caddi.tech/2026/09/18/162220</link>
-      <guid isPermaLink="true">https://caddi.tech/2026/09/18/162220</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e3dc38195bfaa29dccc94ab4b901ac909b3637bb/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcaddi-tech%2F20260918%2F20260918162221.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 18 Sep 2026 07:22:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>runnを使ってチーム用のE2Eダッシュボードを作成した話</title>
-      <link>https://techblog.goinc.jp/entry/2026/09/18/163317</link>
-      <guid isPermaLink="true">https://techblog.goinc.jp/entry/2026/09/18/163317</guid>
-      <pubDate>Fri, 18 Sep 2026 07:33:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZOZOの基幹システムをステートレス化 ── 段階的なフロントエンドリプレイスに向けたセッションオフロード</title>
-      <link>https://techblog.zozo.com/entry/backoffice-stateless-session-offload-2026</link>
-      <guid isPermaLink="true">https://techblog.zozo.com/entry/backoffice-stateless-session-offload-2026</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/a37dae57936436645337563a6d248d5ff9e5fb69/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260917%2F20260917144837.png" length="None" type="image/png"/>
-      <pubDate>Fri, 18 Sep 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude CodeやCursorの"働きぶり"を可視化する ー New Relic Preflightのローカル導入ガイド</title>
-      <link>https://blog.serverworks.co.jp/newrelic-preflight-startup-guide</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/newrelic-preflight-startup-guide</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6bbf9c328e0000ef7da201ebb8bf4a81399a9186/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155681015%2F1782273580258620" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 18 Sep 2026 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Sep 2026 08:04:24 +0000</lastBuildDate>
     <item>
       <title>福岡に6杯の"替え玉"が集合！フロントエンド勉強会「替え玉.web」開催レポート</title>
       <link>https://blog.cybozu.io/entry/2026/09/18/170000</link>
@@ -212,6 +185,32 @@
       <guid isPermaLink="true">https://tech.unifa-e.com/entry/2026/09/21/080000</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/20e3239f92303c255b8168f56aba311bde47c0d0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fu%2Funifa_tech%2F20260916%2F20260916160936.png" length="None" type="image/png"/>
       <pubDate>Sun, 20 Sep 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【デブサミ福岡】Postmanのアップデートを間近で体験しました</title>
+      <link>https://aadojo.alterbooth.com/entry/2026/09/22/100000</link>
+      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2026/09/22/100000</guid>
+      <pubDate>Tue, 22 Sep 2026 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>独自給電をPoEへ切り替えた理由――現場の誤接続と総コストをどう捉え直したか</title>
+      <link>https://techblog.hacomono.jp/entry/2026/09/22/110000</link>
+      <guid isPermaLink="true">https://techblog.hacomono.jp/entry/2026/09/22/110000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/42dc49a4c330db933edefbc0e5230e09d71476c5/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhacomono-tech%2F20260918%2F20260918161421.png" length="None" type="image/png"/>
+      <pubDate>Tue, 22 Sep 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>YAPC::Tokyo 2026の当日ボランティアスタッフを募集します！</title>
+      <link>https://blog.yapcjapan.org/entry/2026/09/22/111500</link>
+      <guid isPermaLink="true">https://blog.yapcjapan.org/entry/2026/09/22/111500</guid>
+      <pubDate>Tue, 22 Sep 2026 02:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>9/13物件視察会♡わたしも大家さん企画</title>
+      <link>https://lovers-official.hatenablog.com/entry/2026/09/22/151830</link>
+      <guid isPermaLink="true">https://lovers-official.hatenablog.com/entry/2026/09/22/151830</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/f835b8e1d930f6ddf7b2e04be411adf566e97296/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmomokan_lovers%2F20260922%2F20260922150956.png" length="None" type="image/png"/>
+      <pubDate>Tue, 22 Sep 2026 06:18:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

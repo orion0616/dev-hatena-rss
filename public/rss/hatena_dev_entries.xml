@@ -7,27 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 26 Sep 2026 08:04:55 +0000</lastBuildDate>
-    <item>
-      <title>Ethernet PHY制御の基礎 - MII系インタフェースとMDIOレジスタアクセス</title>
-      <link>https://miraxia-engineers-blog.hatenablog.com/entry/2026/09/25/113350</link>
-      <guid isPermaLink="true">https://miraxia-engineers-blog.hatenablog.com/entry/2026/09/25/113350</guid>
-      <pubDate>Fri, 25 Sep 2026 02:33:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>PIM利用による特権ロール管理(ロール付与/申請編)</title>
-      <link>https://blog.jbs.co.jp/entry/2026/09/25/114059</link>
-      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2026/09/25/114059</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/041b48732e7b66b8969eb3b1979b99c0f4517953/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjbs_ritamura%2F20260621%2F20260621133236.png" length="None" type="image/png"/>
-      <pubDate>Fri, 25 Sep 2026 02:40:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>iOSDC Japan 2026 出展&amp;参加レポート</title>
-      <link>https://techblog.spiderplus.co.jp/entry/2026/09/25/120000</link>
-      <guid isPermaLink="true">https://techblog.spiderplus.co.jp/entry/2026/09/25/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/ed86267d0c2e249e5f71a9ed9beff8fac6778ce7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fspiderplus%2F20260918%2F20260918140850.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 25 Sep 2026 03:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 27 Sep 2026 08:40:47 +0000</lastBuildDate>
     <item>
       <title>新卒1ヶ月目のSREがk6で200万ユーザーSaaSのパフォーマンス改善に貢献した話</title>
       <link>https://techblog.leadingmark.jp/entry/2026/09/25/120000</link>
@@ -210,6 +190,26 @@
       <guid isPermaLink="true">https://blog.serverworks.co.jp/20260925_introduction-aws-service-eol-data</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/6bbf9c328e0000ef7da201ebb8bf4a81399a9186/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155681015%2F1782273580258620" length="None" type="image/jpeg"/>
       <pubDate>Fri, 25 Sep 2026 14:07:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Codeの司令塔をGrok Botに渡した</title>
+      <link>https://tech.enechange.co.jp/entry/2026/09/26/060405</link>
+      <guid isPermaLink="true">https://tech.enechange.co.jp/entry/2026/09/26/060405</guid>
+      <pubDate>Fri, 25 Sep 2026 21:04:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>PHPカンファレンス小田原を主催するasumikamさんにインタビュー「きっとヤバいカンファレンスになります」</title>
+      <link>https://blog.yapcjapan.org/entry/2026/09/26/164500</link>
+      <guid isPermaLink="true">https://blog.yapcjapan.org/entry/2026/09/26/164500</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8fb73364c06a85b7b82a0eccfc0f3f00f1f78ebf/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftoya%2F20260926%2F20260926150340.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 26 Sep 2026 07:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code更新 AGENTS.md対応・クラウドセッション正式提供【9/18〜24】</title>
+      <link>https://blog.serverworks.co.jp/2026/09/26/190000</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/09/26/190000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/7f172bb73266bc86a5e5d15c2119b6c008b4d9bf/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-tomoya-ikeda%2F20260925%2F20260925132436.png" length="None" type="image/png"/>
+      <pubDate>Sat, 26 Sep 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

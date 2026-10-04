@@ -7,40 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 03 Oct 2026 08:41:24 +0000</lastBuildDate>
-    <item>
-      <title>Teams Phone新機能「パーソナルアテンダント（Copilot Call Delegation）」を使ってみる</title>
-      <link>https://blog.jbs.co.jp/entry/2026/10/02/103337</link>
-      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2026/10/02/103337</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/9b23584b3c17d48b82439e9c9c4382bf83edac4f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjbs_hirkimura%2F20260814%2F20260814090956.png" length="None" type="image/png"/>
-      <pubDate>Fri, 02 Oct 2026 01:33:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>DroidKaigi 2026に参加しました</title>
-      <link>https://tech.stmn.co.jp/entry/2026/10/02/104523</link>
-      <guid isPermaLink="true">https://tech.stmn.co.jp/entry/2026/10/02/104523</guid>
-      <pubDate>Fri, 02 Oct 2026 01:45:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>CEDEC2026の「この講演よかったよ」を持ち寄る社内LT会を開催しました！</title>
-      <link>https://blog.colopl.dev/entry/2026/10/02/110000</link>
-      <guid isPermaLink="true">https://blog.colopl.dev/entry/2026/10/02/110000</guid>
-      <pubDate>Fri, 02 Oct 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Everpure FlashArrayで実現するランサムウェア対策 ── 基幹データベースの不変スナップショット運用</title>
-      <link>https://techblog.zozo.com/entry/everpure-flasharray-safemode</link>
-      <guid isPermaLink="true">https://techblog.zozo.com/entry/everpure-flasharray-safemode</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e3c11fbfd6075da0011c8729a8a09a732fe70022/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260929%2F20260929112411.png" length="None" type="image/png"/>
-      <pubDate>Fri, 02 Oct 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>JaSST'26 Niigata 参加レポート：基調講演・事例発表でLayerXメンバー4名がお話ししました #JaSST</title>
-      <link>https://tech.layerx.co.jp/entry/2026/10/02/110935</link>
-      <guid isPermaLink="true">https://tech.layerx.co.jp/entry/2026/10/02/110935</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/efaf76dcf5c31a009f329b6eeb40692ee56cb554/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmatsu802%2F20260930%2F20260930171329.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 02 Oct 2026 02:09:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Oct 2026 08:56:07 +0000</lastBuildDate>
     <item>
       <title> 技術部門のお仕事紹介【連載目次】</title>
       <link>https://techblog.asahi-net.co.jp/entry/2026/10/02/115134</link>
@@ -211,6 +178,41 @@
       <guid isPermaLink="true">https://blog-en.fltech.dev/entry/2026/10/02/Bringing_quantum_computing_closer_to_practical_chemistry_problems%3A_calculating_molecular_properties_in_solution_at_room_temperature</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/cd8a98f6e5367f50e5dcda70fb11f45c39876259/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbistafa%2F20260520%2F20260520171703.png" length="None" type="image/png"/>
       <pubDate>Fri, 02 Oct 2026 11:43:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI駆動開発のポテンシャルを引き出すために克服すべき6つの問題と解決の方向性</title>
+      <link>https://techblog.boostconsulting.co.jp/entry/2026/10/02/223023</link>
+      <guid isPermaLink="true">https://techblog.boostconsulting.co.jp/entry/2026/10/02/223023</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/daf724d8a1211c5d0635637041aa3ff939e5a282/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhiroto-aibara%2F20261002%2F20261002221319.png" length="None" type="image/png"/>
+      <pubDate>Fri, 02 Oct 2026 13:30:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHubのimmutable subject claimsにより、GitHubとAWS間のOIDC認証がちょっと変わったのに気づきました</title>
+      <link>https://blog.serverworks.co.jp/github-aws-oidc-immutable-subject-claims</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/github-aws-oidc-immutable-subject-claims</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/0affec6dcf2529e55be657f9909a56efd0f60e48/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-satoshi-kaneyasu%2F20261003%2F20261003170212.png" length="None" type="image/png"/>
+      <pubDate>Fri, 02 Oct 2026 23:39:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>【10月WEB開催/無料】初心者さんのためのやさしい不動産セミナー2Days</title>
+      <link>https://lovers-official.hatenablog.com/entry/2026/10/03/154747</link>
+      <guid isPermaLink="true">https://lovers-official.hatenablog.com/entry/2026/10/03/154747</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/94977736b4de487cad2be3aa29e23d4ab458fab0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmomokan_lovers%2F20261003%2F20261003154103.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 03 Oct 2026 06:47:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code更新 Ultracode独立切替【9/25〜10/1】</title>
+      <link>https://blog.serverworks.co.jp/2026/10/03/190000</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/10/03/190000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/b0e31592c032c90c0c31e97f4c915650a127964e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-tomoya-ikeda%2F20261002%2F20261002085825.png" length="None" type="image/png"/>
+      <pubDate>Sat, 03 Oct 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RecSys 2026の論文を紹介するぜ！</title>
+      <link>https://www.m3tech.blog/entry/2026/10/03/210914</link>
+      <guid isPermaLink="true">https://www.m3tech.blog/entry/2026/10/03/210914</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/f4c1be2c1e5bd73941935dbc42c330a7db1311c9/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20261003%2F20261003210943.png" length="None" type="image/png"/>
+      <pubDate>Sat, 03 Oct 2026 12:09:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,95 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 04 Oct 2026 08:56:07 +0000</lastBuildDate>
-    <item>
-      <title> 技術部門のお仕事紹介【連載目次】</title>
-      <link>https://techblog.asahi-net.co.jp/entry/2026/10/02/115134</link>
-      <guid isPermaLink="true">https://techblog.asahi-net.co.jp/entry/2026/10/02/115134</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/1d03fc9c9f4c637724083a81324ab3881ceefe04/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F152850864%2F1567060072922012" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 02 Oct 2026 02:51:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>開発部・ISPチームの仕事 ― インターネットを支えるアプリケーション開発</title>
-      <link>https://techblog.asahi-net.co.jp/entry/2026/10/02/115227</link>
-      <guid isPermaLink="true">https://techblog.asahi-net.co.jp/entry/2026/10/02/115227</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/bbbc6ac53e54dad30af1899e3c3aecb82d18f305/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fw%2Fwatanabe06%2F20260911%2F20260911114010.png" length="None" type="image/png"/>
-      <pubDate>Fri, 02 Oct 2026 02:52:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Codeに秘密情報を読ませないiOSプロジェクトの構成</title>
-      <link>https://iridge-tech.hatenablog.com/entry/2026/10/02/120000</link>
-      <guid isPermaLink="true">https://iridge-tech.hatenablog.com/entry/2026/10/02/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/af669156c19f113bd5e7e3d5148249f383deb00c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fi%2Firidge_yoshida%2F20250409%2F20250409110413.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 02 Oct 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>iOSDC Japan 2026にてピクシブのエンジニアが5名登壇、3名パンフ記事執筆、そしてゴールドスポンサーとブース出展をしました！</title>
-      <link>https://inside.pixiv.blog/2026/10/02/120000</link>
-      <guid isPermaLink="true">https://inside.pixiv.blog/2026/10/02/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/55776fa985d2642cd17f10e5f9de54aa27690613/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fd%2Fdevpixiv%2F20261002%2F20261002103508.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 02 Oct 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Salesforce の 外部クライアントアプリケーションを IaC 的に管理する</title>
-      <link>https://tech.revcomm.co.jp/manage-salesforce-eca-as-code</link>
-      <guid isPermaLink="true">https://tech.revcomm.co.jp/manage-salesforce-eca-as-code</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/b00fdb0f180124e4f10994b3215bc2031d40f39a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Frevcomm-tech%2F20261002%2F20261002120002.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 02 Oct 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【AWS】Amazon Linux 2023のパッチ適用｜Patch Managerが「準拠」でも脆弱性が残る理由</title>
-      <link>https://www.g-a-t.co.jp/blog/entry/al2023-patch-inspector-ssm-patch-manager</link>
-      <guid isPermaLink="true">https://www.g-a-t.co.jp/blog/entry/al2023-patch-inspector-ssm-patch-manager</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/ef35005cc64ba0f12c572eea9e73cf48336af4ba/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgat_tech_blog%2F20261002%2F20261002124644.png" length="None" type="image/png"/>
-      <pubDate>Fri, 02 Oct 2026 03:41:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Power AutomateのTeams Webhookを使ってみた</title>
-      <link>https://blog.jbs.co.jp/entry/2026/10/02/130836</link>
-      <guid isPermaLink="true">https://blog.jbs.co.jp/entry/2026/10/02/130836</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d53b2cd64b6aa9771d74712d447be2ca1cb2c54b/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F158660714%2F1667527455467771" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 02 Oct 2026 04:08:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>When Development Got Faster, QA Had to Follow: Building an AI-Assisted Test Execution Toolkit</title>
-      <link>https://buildersbox.corp-sansan.com/entry/ai-assisted-toolkit-en</link>
-      <guid isPermaLink="true">https://buildersbox.corp-sansan.com/entry/ai-assisted-toolkit-en</guid>
-      <pubDate>Fri, 02 Oct 2026 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>開発が高速化した先で、QAはどう追随したか — AI支援によるテスト実行ツールキットの構築</title>
-      <link>https://buildersbox.corp-sansan.com/entry/ai-assisted-toolkit-jp</link>
-      <guid isPermaLink="true">https://buildersbox.corp-sansan.com/entry/ai-assisted-toolkit-jp</guid>
-      <pubDate>Fri, 02 Oct 2026 05:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>エラー対応設計: 例外と障害を区別しよう</title>
-      <link>https://link-and-motivation.hatenablog.com/entry/2026/10/02/144840</link>
-      <guid isPermaLink="true">https://link-and-motivation.hatenablog.com/entry/2026/10/02/144840</guid>
-      <pubDate>Fri, 02 Oct 2026 05:48:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kubernetesの「境界」と「粒度」を引き直す 〜社内プラットフォームの設計判断〜</title>
-      <link>https://tech-blog.rakus.co.jp/entry/20261002/k8s</link>
-      <guid isPermaLink="true">https://tech-blog.rakus.co.jp/entry/20261002/k8s</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/56b7c23e172d37d7e18f03f2bbd0e8ac38d2e257/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgumamon%2F20261001%2F20261001145748.png" length="None" type="image/png"/>
-      <pubDate>Fri, 02 Oct 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS Certified AI Business Strategist（AIB-C01）ベータ試験を受験してみた</title>
-      <link>https://tech.nri-net.com/entry/took_the_aib_c01_beta_exam</link>
-      <guid isPermaLink="true">https://tech.nri-net.com/entry/took_the_aib_c01_beta_exam</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/1bcc932822e08792f9ca5ec5dd106207ef3f3c4b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3-wada%2F20260930%2F20260930202223.png" length="None" type="image/png"/>
-      <pubDate>Fri, 02 Oct 2026 06:11:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>AVDのプロファイルの格納先であるAzureFilesをPrivate Endpoint構成にしてみた！</title>
-      <link>https://blogs.networld.co.jp/entry/2026/10/02/152843</link>
-      <guid isPermaLink="true">https://blogs.networld.co.jp/entry/2026/10/02/152843</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/4d2a36920136fdd1cbb37b97f5f10e483bde9a60/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnetworld-blog%2F20261002%2F20261002152844.png" length="None" type="image/png"/>
-      <pubDate>Fri, 02 Oct 2026 06:28:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Oct 2026 09:45:58 +0000</lastBuildDate>
     <item>
       <title>AIでチームを組んだら工場長になった話</title>
       <link>https://blog.ingage.jp/entry/2026/10/02/153825</link>
@@ -213,6 +125,97 @@
       <guid isPermaLink="true">https://www.m3tech.blog/entry/2026/10/03/210914</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/f4c1be2c1e5bd73941935dbc42c330a7db1311c9/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20261003%2F20261003210943.png" length="None" type="image/png"/>
       <pubDate>Sat, 03 Oct 2026 12:09:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chapter 4｜第41回 Client ConnectorはPCの中で何をしている？</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/10/04/102210</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/04/102210</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e4e1ec27ececfde1abc63b4886613e81499b5418/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20260913%2F20260913225145.png" length="None" type="image/png"/>
+      <pubDate>Sun, 04 Oct 2026 01:22:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chapter 4｜第42回 ZIAとZPAの通信をClient Connectorはどう使い分ける？</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/10/04/102213</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/04/102213</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6487596566d2065da6feee6574893696163d3d50/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20260913%2F20260913225600.png" length="None" type="image/png"/>
+      <pubDate>Sun, 04 Oct 2026 01:22:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chapter 4｜第43回 Forwarding Profileって何？通信の行き先を決める考え方</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/10/04/102217</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/04/102217</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/b620587dc450531ac9ab190179dce5bd93283dce/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20260913%2F20260913225842.png" length="None" type="image/png"/>
+      <pubDate>Sun, 04 Oct 2026 01:22:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chapter 4｜第44回 Trusted Networkって何？場所によって動作を変える理由</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/10/04/102221</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/04/102221</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/fb0b2fe716010a7b9cae0112f7e8259226865613/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20260913%2F20260913232000.png" length="None" type="image/png"/>
+      <pubDate>Sun, 04 Oct 2026 01:22:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chapter 4｜第45回 Zscalerはどうやってユーザーを認証する？</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/10/04/102224</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/04/102224</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8fdbdafeb0cfa6b9f6a18a07078799b569f40c35/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20260913%2F20260913232240.png" length="None" type="image/png"/>
+      <pubDate>Sun, 04 Oct 2026 01:22:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chapter 4｜第46回 SAMLって何？ZscalerとIdPの間で起きていること</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/10/04/102228</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/04/102228</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/b57f9ae7de300729434c5dc7b415df843a098f48/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20260913%2F20260913232422.png" length="None" type="image/png"/>
+      <pubDate>Sun, 04 Oct 2026 01:22:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chapter 4｜第47回 Entra IDやOktaはZscalerとどう関わる？</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/10/04/102231</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/04/102231</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/55af3a469b3476640a54f2d15d24562ae48ff53d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20260913%2F20260913232737.png" length="None" type="image/png"/>
+      <pubDate>Sun, 04 Oct 2026 01:22:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chapter 4｜第48回 SCIMって何？ユーザーやグループ情報を連携する仕組み</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/10/04/102234</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/04/102234</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/fe1c97599356de7eae57993f3626b221ef1c4273/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20260913%2F20260913232922.png" length="None" type="image/png"/>
+      <pubDate>Sun, 04 Oct 2026 01:22:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chapter 4｜第49回 Device Postureって何？「誰」だけでなく「どの端末」も見る理由</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/10/04/102237</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/04/102237</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/16ab42929d055ee817681421e174b7acb8f32874/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20260913%2F20260913233153.png" length="None" type="image/png"/>
+      <pubDate>Sun, 04 Oct 2026 01:22:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chapter 4｜第50回 MFAとZero Trustはどう組み合わせて考える？</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/10/04/102241</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/04/102241</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/06e9afaae9cedea4e8947e963b0c73fa51490b84/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20260913%2F20260913233428.png" length="None" type="image/png"/>
+      <pubDate>Sun, 04 Oct 2026 01:22:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>クリックの先のオンラインCVではなく、オフラインCV(レジ)を見る</title>
+      <link>https://do-tech.hatenadiary.com/entry/2026/10/04/161219</link>
+      <guid isPermaLink="true">https://do-tech.hatenadiary.com/entry/2026/10/04/161219</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6ac10b8a40953b9ca44733533c0c7fe1d7a2bcd7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftakehiko-y%2F20261001%2F20261001095351.png" length="None" type="image/png"/>
+      <pubDate>Sun, 04 Oct 2026 07:12:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>【OCI認定】無償で受験できるOCI資格を全て取得してみた</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/10/04/oci-free-cert</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/04/oci-free-cert</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8209ca0f89cf01e8da531ba97ced33c09b786078/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsori883%2F20251031%2F20251031001812.png" length="None" type="image/png"/>
+      <pubDate>Sun, 04 Oct 2026 10:25:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>【連載】オーディション管理システム開発#2～要件定義・設計製造編～</title>
+      <link>https://tech.sme.co.jp/entry/2026/10/04/230000</link>
+      <guid isPermaLink="true">https://tech.sme.co.jp/entry/2026/10/04/230000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/7f9e16c6597e391b81bd702cb073d2060a9eaff7/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsme_tech%2F20260901%2F20260901145306.png" length="None" type="image/png"/>
+      <pubDate>Sun, 04 Oct 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

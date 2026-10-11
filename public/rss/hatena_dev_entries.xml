@@ -7,26 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 10 Oct 2026 09:11:38 +0000</lastBuildDate>
-    <item>
-      <title>Cilium Conntrack のメトリクス拡張の検証と提案</title>
-      <link>https://blog.cybozu.io/entry/cilium-ct-metrics-proposal</link>
-      <guid isPermaLink="true">https://blog.cybozu.io/entry/cilium-ct-metrics-proposal</guid>
-      <pubDate>Fri, 09 Oct 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon Connect Talent とは？実際にインスタンスを立ち上げて分かった自動生成リソースとクリーンアップの注意点</title>
-      <link>https://blog.serverworks.co.jp/study-amazon-connect-202610</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/study-amazon-connect-202610</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6bbf9c328e0000ef7da201ebb8bf4a81399a9186/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155681015%2F1782273580258620" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 09 Oct 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>法情報のモデリングについて — 入社して３ヶ月で見えてきたこと</title>
-      <link>https://tech.legalscape.co.jp/entry/2026/10/09/120110</link>
-      <guid isPermaLink="true">https://tech.legalscape.co.jp/entry/2026/10/09/120110</guid>
-      <pubDate>Fri, 09 Oct 2026 03:01:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 11 Oct 2026 09:26:34 +0000</lastBuildDate>
     <item>
       <title>Larry Wall氏＆まつもとゆきひろ（Matz）氏の特別企画、Larry Wall氏のAMAに関するお知らせ</title>
       <link>https://blog.yapcjapan.org/entry/2026/10/09/120227</link>
@@ -209,6 +190,26 @@
       <guid isPermaLink="true">https://design-tech.xtone.co.jp/entry/2026/10/09/200000</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/4a71c8d59c3a0282c03361b77716b65ac0dfd980/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fy_pregum%2F20261009%2F20261009135636.png" length="None" type="image/png"/>
       <pubDate>Fri, 09 Oct 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Zscaler】Entra IDのSAML署名証明書を更新する｜ZIAへの反映から認証確認まで</title>
+      <link>https://techblog.ap-com.co.jp/entry/zscaler/zia/entra-id-saml-certificate-renewal</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/zscaler/zia/entra-id-saml-certificate-renewal</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/0f03fcdaed264b647d11608721a38012dcc6cdf5/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F91061897%2F163480237573261" length="None" type="image/jpeg"/>
+      <pubDate>Fri, 09 Oct 2026 15:21:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Terminal Night 3を10/15に開催します</title>
+      <link>https://kichijojipm.hatenablog.com/entry/2026/10/10/154637</link>
+      <guid isPermaLink="true">https://kichijojipm.hatenablog.com/entry/2026/10/10/154637</guid>
+      <pubDate>Sat, 10 Oct 2026 06:46:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code更新 hooks失敗時ブロック・Mods試用【10/2〜8】</title>
+      <link>https://blog.serverworks.co.jp/2026/10/10/190000</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/2026/10/10/190000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/b847b3c3a31d6d56eebc7714b1be8a01ca6c8386/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-tomoya-ikeda%2F20261009%2F20261009133947.png" length="None" type="image/png"/>
+      <pubDate>Sat, 10 Oct 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

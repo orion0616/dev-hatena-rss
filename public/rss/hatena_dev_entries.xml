@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 17 Oct 2026 07:16:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 07:30:18 +0000</lastBuildDate>
     <item>
       <title>【3Dアートディレクター】面接官に聞いてみた！＜前編＞</title>
       <link>https://blog.adglobe.co.jp/entry/2026/10/16/111723</link>
@@ -122,6 +122,7 @@
       <title>スタディプラスはKaigi on Rails 2026にRubyスポンサーとして協賛しています</title>
       <link>https://tech.studyplus.co.jp/entry/2026/10/16/172614</link>
       <guid isPermaLink="true">https://tech.studyplus.co.jp/entry/2026/10/16/172614</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/710346cb5eeb3a7cd2c0a7ed6d477bb37d7db086/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fk_oishi%2F20261017%2F20261017081025.jpg" length="None" type="image/jpeg"/>
       <pubDate>Fri, 16 Oct 2026 08:26:14 +0000</pubDate>
     </item>
     <item>
@@ -158,52 +159,52 @@
       <pubDate>Fri, 16 Oct 2026 12:40:05 +0000</pubDate>
     </item>
     <item>
-      <title>【第2部】約450ファイルの大規模リファクタリング！ Clean Architecture + MVP への移行とUT改善編</title>
-      <link>https://tech.motex.co.jp/entry/2026/10/15/170002</link>
-      <guid isPermaLink="true">https://tech.motex.co.jp/entry/2026/10/15/170002</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/9d42a3108e7900208d59faf908440c223b020b59/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmo-masuda%2F20261013%2F20261013130357.png" length="None" type="image/png"/>
-      <pubDate>Thu, 15 Oct 2026 08:27:24 +0000</pubDate>
+      <title>Kaigi on Rails 2026 参加レポート！！【Day 1】</title>
+      <link>https://link-and-motivation.hatenablog.com/entry/2026/10/17/092036</link>
+      <guid isPermaLink="true">https://link-and-motivation.hatenablog.com/entry/2026/10/17/092036</guid>
+      <pubDate>Sat, 17 Oct 2026 00:20:36 +0000</pubDate>
     </item>
     <item>
-      <title>【第3部】約450ファイルの大規模リファクタリング！ Retrofit2の導入によるネットワーク通信層の刷新編</title>
-      <link>https://tech.motex.co.jp/entry/2026/10/15/170003</link>
-      <guid isPermaLink="true">https://tech.motex.co.jp/entry/2026/10/15/170003</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/97169f1607f546bb1d7e4185688d33e8657863f3/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmo-masuda%2F20260911%2F20260911094700.png" length="None" type="image/png"/>
-      <pubDate>Thu, 15 Oct 2026 08:27:47 +0000</pubDate>
+      <title>GitHub Copilotはどう使われている？OpenTelemetryで見える組織の利用実態</title>
+      <link>https://aadojo.alterbooth.com/entry/2026/10/17/182558</link>
+      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2026/10/17/182558</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/77402ddb7586fcf969a5c5fdc47fdd324daca9ca/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FH%2FHikaru-336%2F20261017%2F20261017183126.png" length="None" type="image/png"/>
+      <pubDate>Sat, 17 Oct 2026 09:25:58 +0000</pubDate>
     </item>
     <item>
-      <title>【第4部】約450ファイルの大規模リファクタリング！ ServiceからWorkManagerへの移行編</title>
-      <link>https://tech.motex.co.jp/entry/2026/10/15/170004</link>
-      <guid isPermaLink="true">https://tech.motex.co.jp/entry/2026/10/15/170004</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/415af64e8614ea578cc5bb71ea6810fe67e86ec0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmo-masuda%2F20261013%2F20261013130244.png" length="None" type="image/png"/>
-      <pubDate>Thu, 15 Oct 2026 08:28:14 +0000</pubDate>
+      <title>AIにfeatureブランチを切ってもらったのに不意にmainにpushされてしまう問題</title>
+      <link>https://blog.serverworks.co.jp/ai-feature-branch-upstream-push-main</link>
+      <guid isPermaLink="true">https://blog.serverworks.co.jp/ai-feature-branch-upstream-push-main</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8138b599d90be5f18e0c5fb40e3ddf02805ea303/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-satoshi-kaneyasu%2F20261011%2F20261011134738.png" length="None" type="image/png"/>
+      <pubDate>Sat, 17 Oct 2026 10:01:41 +0000</pubDate>
     </item>
     <item>
-      <title>基礎から理解するMicrosoft Foundry②～Models編～</title>
-      <link>https://techblog.ap-com.co.jp/entry/2026/10/15/180000</link>
-      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/15/180000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e57ef31cb3f34d158a746f4c95b63e767e7a0e00/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fneitainzz%2F20260929%2F20260929210555.png" length="None" type="image/png"/>
-      <pubDate>Thu, 15 Oct 2026 09:00:00 +0000</pubDate>
+      <title>Chapter 6｜第61回 Zscaler導入では最初に何を決めるの？</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/10/17/213842</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/17/213842</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/61e2198a3c86dcf164c2864307b8391731ab2ae9/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20261004%2F20261004095547.png" length="None" type="image/png"/>
+      <pubDate>Sat, 17 Oct 2026 12:38:42 +0000</pubDate>
     </item>
     <item>
-      <title>インターネットゲートウェイって、構成図のどこに置けばいいの？本気出して考えてみた</title>
-      <link>https://blog.serverworks.co.jp/internet-gateway-is-doko</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/internet-gateway-is-doko</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/4a73e14b2982dc95facbe53510e6e784165665e6/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswx-yamamoto%2F20261015%2F20261015180514.png" length="None" type="image/png"/>
-      <pubDate>Thu, 15 Oct 2026 09:09:46 +0000</pubDate>
+      <title>Chapter 6｜第62回 なぜ現状調査が重要？As-Isを知らずに設計できない理由</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/10/17/213846</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/17/213846</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/bbddd79e1b987eac40c594977b94cf1730cd6a32/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20261004%2F20261004095810.png" length="None" type="image/png"/>
+      <pubDate>Sat, 17 Oct 2026 12:38:46 +0000</pubDate>
     </item>
     <item>
-      <title>Google AI概要の引用が120件→259件（2.2倍）｜法人向けECはAI検索に引用される？オフィス用品通販のLLMO・AIO事例【ダイジェスト版】</title>
-      <link>https://llmo-ai-knowledgeholdings.hatenablog.com/entry/llmo-aio-case-office-ec</link>
-      <guid isPermaLink="true">https://llmo-ai-knowledgeholdings.hatenablog.com/entry/llmo-aio-case-office-ec</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/a789fb874fd74443b27c0a7560583d5eb97b9a4d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fl%2Fllmo_ai_knowledgeholdings%2F20261015%2F20261015204933.png" length="None" type="image/png"/>
-      <pubDate>Thu, 15 Oct 2026 11:53:48 +0000</pubDate>
+      <title>Chapter 6｜第66回 Client Connectorの展開では何を考える？</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/10/17/213859</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/17/213859</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/4e8f8c273514718f6c7d0dfc0903a207e9dec171/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20261004%2F20261004100532.png" length="None" type="image/png"/>
+      <pubDate>Sat, 17 Oct 2026 12:38:59 +0000</pubDate>
     </item>
     <item>
-      <title>カンプなしで既存 UI を再現する Claude の Skill を 1 年目エンジニアが作って分かったこと</title>
-      <link>https://blog.techscore.com/entry/2026/10/16/080000</link>
-      <guid isPermaLink="true">https://blog.techscore.com/entry/2026/10/16/080000</guid>
-      <pubDate>Thu, 15 Oct 2026 23:00:00 +0000</pubDate>
+      <title>Chapter 6｜第67回 なぜ最初から全社展開しない？Pilotの意味</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/10/17/213902</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/17/213902</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/05a07192beb5192cb31ed1605da316ddfe7ebec0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20261004%2F20261004100713.png" length="None" type="image/png"/>
+      <pubDate>Sat, 17 Oct 2026 12:39:02 +0000</pubDate>
     </item>
     <item>
       <title>組織導入でClaudeとKiroをどう選ぶか考えてみた</title>

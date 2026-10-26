@@ -7,77 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 25 Oct 2026 07:53:46 +0000</lastBuildDate>
-    <item>
-      <title>The AI Conference 2026 参加レポート</title>
-      <link>https://creators.oisix.co.jp/entry/2026/10/23/114211</link>
-      <guid isPermaLink="true">https://creators.oisix.co.jp/entry/2026/10/23/114211</guid>
-      <pubDate>Fri, 23 Oct 2026 02:42:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>JSON++が問いかけるもの――IEEE Software採択に寄せて</title>
-      <link>https://tech.legalforce.co.jp/entry/2026/10/23/115939</link>
-      <guid isPermaLink="true">https://tech.legalforce.co.jp/entry/2026/10/23/115939</guid>
-      <pubDate>Fri, 23 Oct 2026 02:59:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>新卒エンジニアがAI-DLCで挑んだ工数管理ツール開発のしくじりと学び</title>
-      <link>https://tech.askul.co.jp/entry/2026/10/23/121049</link>
-      <guid isPermaLink="true">https://tech.askul.co.jp/entry/2026/10/23/121049</guid>
-      <pubDate>Fri, 23 Oct 2026 03:10:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>NRIネットコムはJAWS FESTA 2026 in AKITA の企業サポーターです</title>
-      <link>https://tech.nri-net.com/entry/corporate_supporter_jaws_festa_2026</link>
-      <guid isPermaLink="true">https://tech.nri-net.com/entry/corporate_supporter_jaws_festa_2026</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/89b316a277bc1af1223a3bf51e5e36bbbed0164f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcqwfunp%2F20261022%2F20261022091254.png" length="None" type="image/png"/>
-      <pubDate>Fri, 23 Oct 2026 04:34:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>LLM Content Moderationを支える評価・改善ループの実践</title>
-      <link>https://tech.timee.co.jp/entry/2026/10/23/140034</link>
-      <guid isPermaLink="true">https://tech.timee.co.jp/entry/2026/10/23/140034</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>EventHubのエンジニアが要件定義に携わってみた話</title>
-      <link>https://tech.eventhub.jp/entry/2026/10/23/140605</link>
-      <guid isPermaLink="true">https://tech.eventhub.jp/entry/2026/10/23/140605</guid>
-      <pubDate>Fri, 23 Oct 2026 05:06:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Datadog Live Tokyo 2026】参加レポート AI for Datadog / Datadog for AI ― 4社の実践事例まとめ</title>
-      <link>https://techblog.ap-com.co.jp/entry/2026/10/23/145533</link>
-      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/23/145533</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/78c34bf0626f08074782f89e76c03b8e7a70b2df/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Fr_katorot%2F20250311%2F20250311150020.png" length="None" type="image/png"/>
-      <pubDate>Fri, 23 Oct 2026 05:55:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>企業ニュース解析エンジン群のECSからCircuit（EKS）への移行（インターン成果報告）</title>
-      <link>https://buildersbox.corp-sansan.com/entry/2026/10/23/150000</link>
-      <guid isPermaLink="true">https://buildersbox.corp-sansan.com/entry/2026/10/23/150000</guid>
-      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>その失敗、劣化？揺らぎ？ AI Evalsの失敗トリアージをClaudeスキルにした話</title>
-      <link>https://tech.kickflow.co.jp/entry/2026/10/23/150936</link>
-      <guid isPermaLink="true">https://tech.kickflow.co.jp/entry/2026/10/23/150936</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/525271346d90c33660c4a64204935cf8302d7e9d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkickflow%2F20260723%2F20260723154329.png" length="None" type="image/png"/>
-      <pubDate>Fri, 23 Oct 2026 06:09:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>フロントエンド開発でCodexの追加レビューを試して分かったこと</title>
-      <link>https://tech.talentx.co.jp/entry/2026/10/23/152712</link>
-      <guid isPermaLink="true">https://tech.talentx.co.jp/entry/2026/10/23/152712</guid>
-      <pubDate>Fri, 23 Oct 2026 06:27:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google検索での表示が月361回→6,910回に｜開院直後のクリニックはGoogleで見つかる？矢場町ひふ形成外科クリニック様の事例【ダイジェスト版】</title>
-      <link>https://llmo-ai-knowledgeholdings.hatenablog.com/entry/clinic-meo-case-study-google-search</link>
-      <guid isPermaLink="true">https://llmo-ai-knowledgeholdings.hatenablog.com/entry/clinic-meo-case-study-google-search</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/0e6f928151e872b159a17fc8ae2ad8943230ddc8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fl%2Fllmo_ai_knowledgeholdings%2F20261023%2F20261023153840.png" length="None" type="image/png"/>
-      <pubDate>Fri, 23 Oct 2026 06:54:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Oct 2026 08:14:00 +0000</lastBuildDate>
     <item>
       <title>MySQLバージョンアップ時の動作確認に、既存ログとAIを活用した話</title>
       <link>https://tech.every.tv/entry/2026/10/23/155759</link>
@@ -207,6 +137,83 @@
       <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2026/10/24/155443</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/27d252828c4283c214d485c3ac58bc1588aa07a8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FH%2FHikaru-336%2F20261024%2F20261024155211.png" length="None" type="image/png"/>
       <pubDate>Sat, 24 Oct 2026 06:54:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chapter 7｜第71回 Zscalerは導入して終わりではない？運用でやること</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/10/25/133407</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/25/133407</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/ecb260740fb7f59a60e30250bab7641aa76ec751/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20261017%2F20261017211947.png" length="None" type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 04:34:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chapter 7｜第72回 Zscalerのログから何が分かる？</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/10/25/133411</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/25/133411</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/c7dab713a3a106d6c005c4f237670f6c752fb6cb/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20261017%2F20261017212228.png" length="None" type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 04:34:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chapter 7｜第73回 運用担当者は日々どんな変化を見ている？</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/10/25/133415</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/25/133415</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/47b7ef7167f4008a06190db8f6fc30b95e531754/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20261017%2F20261017212423.png" length="None" type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 04:34:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chapter 7｜第74回 ポリシーはなぜ増え続ける？ルールの棚卸しが必要な理由</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/10/25/133418</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/25/133418</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/d6f33f82db2ce4d9a7f59a8421a6762cd7f7bb6d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20261017%2F20261017212548.png" length="None" type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 04:34:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chapter 7｜第75回 なぜポリシー変更は慎重に行う必要がある？</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/10/25/133422</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/25/133422</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/057ef95c9cf27d2b9cd246f140696b44e148d544/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20261017%2F20261017212728.png" length="None" type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 04:34:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chapter 7｜第76回 問い合わせ対応では「事象」と「原因」をどう分けて考える？</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/10/25/133426</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/25/133426</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/c4011f671fd2f4618da17ee64adda8d7a04f3d02/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20261017%2F20261017212850.png" length="None" type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 04:34:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chapter 7｜第77回 セキュリティインシデント時にZscalerの情報はどう役立つ？</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/10/25/133429</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/25/133429</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e3ed2230a17f6541689c3f7ecab4672863e2feac/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20261017%2F20261017213038.png" length="None" type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 04:34:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chapter 7｜第78回 利用者の「使いにくい」をどう改善につなげる？</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/10/25/133432</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/25/133432</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/82ee582d10fffb4d19fc7546d3fb5ef79c4b92fc/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20261017%2F20261017213156.png" length="None" type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 04:34:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chapter 7｜第79回 Zscaler運用の定例レビューでは何を見ればよい？</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/10/25/133436</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/25/133436</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/29a8f4fb1f07f200b5754b8b20f5b6beed7b63e1/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20261017%2F20261017213344.png" length="None" type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 04:34:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chapter 7｜第80回 導入後にZero Trustを育てるとはどういうこと？</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/10/25/133439</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/10/25/133439</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/fcad86bcc7376d4ec42cfd38dd35f331ff2d5e98/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyamane-y%2F20261017%2F20261017213448.png" length="None" type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 04:34:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Copilotのローカルサンドボックスとは？VS Codeでの検証も踏まえて解説します</title>
+      <link>https://aadojo.alterbooth.com/entry/2026/10/25/191638</link>
+      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2026/10/25/191638</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/59c41f3ec20ed57452bbed980c19493a9b339af9/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FH%2FHikaru-336%2F20261025%2F20261025191512.png" length="None" type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 10:16:38 +0000</pubDate>
     </item>
   </channel>
 </rss>

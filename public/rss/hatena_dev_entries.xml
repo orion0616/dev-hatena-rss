@@ -7,34 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 Nov 2026 09:23:26 +0000</lastBuildDate>
-    <item>
-      <title>Vue Fes Japan 2026 参加レポート</title>
-      <link>https://productblog.sencorp.co.jp/entry/2026/11/06/100000</link>
-      <guid isPermaLink="true">https://productblog.sencorp.co.jp/entry/2026/11/06/100000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/1f656aed6e6d12cba8a7ee21765fd5b9764bb53d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkoutaro_buri%2F20261106%2F20261106080936.png" length="None" type="image/png"/>
-      <pubDate>Fri, 06 Nov 2026 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>要望からリリースまでを短く回す、Mackerelログ機能の開発サイクル</title>
-      <link>https://mackerel.io/ja/blog/entry/tech/logs-development-cycle</link>
-      <guid isPermaLink="true">https://mackerel.io/ja/blog/entry/tech/logs-development-cycle</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/449c91dc48b910e614b56c62b967fff0f6c05318/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmackerelio%2F20261106%2F20261106105447.png" length="None" type="image/png"/>
-      <pubDate>Fri, 06 Nov 2026 01:54:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>実装を急ぐ前に、何を作るべきか考える。RAKSUL Hack Week 2026参加レポート</title>
-      <link>https://techblog.raksul.com/entry/2026/11/06/105955</link>
-      <guid isPermaLink="true">https://techblog.raksul.com/entry/2026/11/06/105955</guid>
-      <pubDate>Fri, 06 Nov 2026 01:59:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Figmaを正解にアプリのUIを点検する、Claude Codeで作るUI差分検知</title>
-      <link>https://techblog.zozo.com/entry/detect-figma-ui-diff-with-ai</link>
-      <guid isPermaLink="true">https://techblog.zozo.com/entry/detect-figma-ui-diff-with-ai</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8b55dbc305a957550753e5916085ba499274cdf8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20261102%2F20261102162112.png" length="None" type="image/png"/>
-      <pubDate>Fri, 06 Nov 2026 02:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Nov 2026 09:40:28 +0000</lastBuildDate>
     <item>
       <title>Think! FrontEnd #10 開催レポート</title>
       <link>https://developersblog.dmm.com/entry/2026/11/06/110000</link>
@@ -133,6 +106,7 @@
       <title>AI未経験のUXデザイナーがエクストーンに入社して3ヶ月で変わったこと</title>
       <link>https://design-tech.xtone.co.jp/entry/2026/11/06/161330</link>
       <guid isPermaLink="true">https://design-tech.xtone.co.jp/entry/2026/11/06/161330</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/2e7a67648030160c7031bffdb4b0d58e14ad4cc8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fy-hoshina-xtone%2F20261106%2F20261106160625.png" length="None" type="image/png"/>
       <pubDate>Fri, 06 Nov 2026 07:13:30 +0000</pubDate>
     </item>
     <item>
@@ -208,6 +182,32 @@
       <guid isPermaLink="true">https://lovers-official.hatenablog.com/entry/2026/11/06/210614</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/312541b0db7522a915541ec12f81f2548dede53d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmomokan_lovers%2F20261005%2F20261005130255.jpg" length="None" type="image/jpeg"/>
       <pubDate>Fri, 06 Nov 2026 12:06:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Backstage】 kubernetes pluginのセキュリティが強化されました</title>
+      <link>https://techblog.ap-com.co.jp/entry/2026/11/07/000000</link>
+      <guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/11/07/000000</guid>
+      <pubDate>Fri, 06 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>json-render/chatを手元で動かしたら、カード全体の検証は最後の一回だけだった</title>
+      <link>https://tech.algomatic.jp/entry/2026/11/07/163009</link>
+      <guid isPermaLink="true">https://tech.algomatic.jp/entry/2026/11/07/163009</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/78f04bd879c46e243ac91b9ad64bbb3ed2439b4e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgotadano%2F20261107%2F20261107155331.png" length="None" type="image/png"/>
+      <pubDate>Sat, 07 Nov 2026 07:30:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>秋晴れ☀️KARAⅡ仕込み！</title>
+      <link>https://rizing-pa.hatenablog.com/entry/2026/11/07/170000</link>
+      <guid isPermaLink="true">https://rizing-pa.hatenablog.com/entry/2026/11/07/170000</guid>
+      <pubDate>Sat, 07 Nov 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Repository Insightsの使い方｜Issue・PR・コミットを分析して開発改善につなげる</title>
+      <link>https://aadojo.alterbooth.com/entry/2026/11/07/190229</link>
+      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2026/11/07/190229</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/376d4a23131f96b00010c4d65b1a2347b83e5fbc/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FH%2FHikaru-336%2F20261107%2F20261107185219.png" length="None" type="image/png"/>
+      <pubDate>Sat, 07 Nov 2026 10:02:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,55 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Nov 2026 09:40:28 +0000</lastBuildDate>
-    <item>
-      <title>Think! FrontEnd #10 開催レポート</title>
-      <link>https://developersblog.dmm.com/entry/2026/11/06/110000</link>
-      <guid isPermaLink="true">https://developersblog.dmm.com/entry/2026/11/06/110000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/9b009af0a4a8fb6ce908c96563b28929003f523c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FD%2FDMMTech%2F20260917%2F20260917102450.png" length="None" type="image/png"/>
-      <pubDate>Fri, 06 Nov 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BigQuery Remote Functionsの評価ステージを見直して、Cloud RunへのHTTPリクエストを約74%削減した話</title>
-      <link>https://buildersbox.corp-sansan.com/entry/2026/11/06/110000</link>
-      <guid isPermaLink="true">https://buildersbox.corp-sansan.com/entry/2026/11/06/110000</guid>
-      <pubDate>Fri, 06 Nov 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>360秒→13秒。RSpecの遅いテストはスタブ漏れと無駄な組み合わせテストが原因だった</title>
-      <link>https://akerun.hateblo.jp/entry/2026/11/06/112830</link>
-      <guid isPermaLink="true">https://akerun.hateblo.jp/entry/2026/11/06/112830</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/0bad644ec0ab1b2c5e0dc01f6fc843cb8b4295dc/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fp%2Fphotosynth-inc%2F20261023%2F20261023122906.webp" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 06 Nov 2026 02:28:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>学生テックイベントに参加！技術とモノ作りで広がるつながり</title>
-      <link>https://inside.pixiv.blog/2026/11/06/120000</link>
-      <guid isPermaLink="true">https://inside.pixiv.blog/2026/11/06/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/b9d15e6504389cd3b3e6e66ae60879963a4114a9/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fd%2Fdevpixiv%2F20261104%2F20261104115427.png" length="None" type="image/png"/>
-      <pubDate>Fri, 06 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIで見積を仕組み化したら、AIに「やらせないこと」を決めるのが一番大事だった</title>
-      <link>https://techblog.spiderplus.co.jp/entry/2026/11/06/120000</link>
-      <guid isPermaLink="true">https://techblog.spiderplus.co.jp/entry/2026/11/06/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/79f771fafcfe03f322436594881c4f596342e51c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fspiderplus%2F20261106%2F20261106072657.png" length="None" type="image/png"/>
-      <pubDate>Fri, 06 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>「デザインハーネス」ってなに？デザイナーの「良い」を、チームとAIで共有する話</title>
-      <link>https://techtekt.persol-career.co.jp/entry/tech/261106_01</link>
-      <guid isPermaLink="true">https://techtekt.persol-career.co.jp/entry/tech/261106_01</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/35980148998dad7650d671bc0271db4569d7ec03/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FS%2FSuperRiepon%2F20261028%2F20261028233821.png" length="None" type="image/png"/>
-      <pubDate>Fri, 06 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>音声認識モデルのロバスト化に伴うCPU推論性能低下の要因分析と回避策</title>
-      <link>https://tech.revcomm.co.jp/denormal-floats-slow-down-asr-inference</link>
-      <guid isPermaLink="true">https://tech.revcomm.co.jp/denormal-floats-slow-down-asr-inference</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/8b9fa1dd5e3ae29327632a3991b90f3134850fda/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Frevcomm-tech%2F20261105%2F20261105140551.png" length="None" type="image/png"/>
-      <pubDate>Fri, 06 Nov 2026 03:11:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Nov 2026 10:33:08 +0000</lastBuildDate>
     <item>
       <title>AI生成HTMLのレビューコメントはGoogle DriveのComments APIに任せられる</title>
       <link>https://openlogi.hatenablog.com/entry/2026/11/06/125123</link>
@@ -208,6 +160,55 @@
       <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2026/11/07/190229</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/376d4a23131f96b00010c4d65b1a2347b83e5fbc/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FH%2FHikaru-336%2F20261107%2F20261107185219.png" length="None" type="image/png"/>
       <pubDate>Sat, 07 Nov 2026 10:02:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>GA4とClaude Codeを連携しサイト改善を数字で決める</title>
+      <link>https://gscale.hatenablog.jp/entry/claude-code-ga4-data-driven-site-fix</link>
+      <guid isPermaLink="true">https://gscale.hatenablog.jp/entry/claude-code-ga4-data-driven-site-fix</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/30b3005b7ae8a897e547fb54510182849071c6a9/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgscale-george%2F20261108%2F20261108142824_original.png" length="None" type="image/png"/>
+      <pubDate>Sun, 08 Nov 2026 06:24:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>営業自動化で案件獲得をAIと人で分担する（全体像編）</title>
+      <link>https://gscale.hatenablog.jp/entry/sales-automation-ai-human-overview</link>
+      <guid isPermaLink="true">https://gscale.hatenablog.jp/entry/sales-automation-ai-human-overview</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/11de9583d32ede661ef270c5736133ef2b8c1796/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgscale-george%2F20261105%2F20261105152929_original.png" length="None" type="image/png"/>
+      <pubDate>Sun, 08 Nov 2026 06:24:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>営業自動化を7つの部品に分けて他業務にも使う（設計編）</title>
+      <link>https://gscale.hatenablog.jp/entry/sales-automation-seven-components-design</link>
+      <guid isPermaLink="true">https://gscale.hatenablog.jp/entry/sales-automation-seven-components-design</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/5c87f90a6c0bf01521c43e2b5f75c22903c55df8/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgscale-george%2F20261105%2F20261105152655_original.png" length="None" type="image/png"/>
+      <pubDate>Sun, 08 Nov 2026 06:24:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloud RunとFirestoreで作る営業自動化（実装編）</title>
+      <link>https://gscale.hatenablog.jp/entry/sales-automation-cloud-run-firestore-implementation</link>
+      <guid isPermaLink="true">https://gscale.hatenablog.jp/entry/sales-automation-cloud-run-firestore-implementation</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/5cd764ba2ea57071435f11beb058d592f73cbd58/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgscale-george%2F20261105%2F20261105152704_original.png" length="None" type="image/png"/>
+      <pubDate>Sun, 08 Nov 2026 06:25:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI採点の基準を運用でぶらさない品質管理（運用と品質編）</title>
+      <link>https://gscale.hatenablog.jp/entry/ai-scoring-quality-operations</link>
+      <guid isPermaLink="true">https://gscale.hatenablog.jp/entry/ai-scoring-quality-operations</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/e6a4641a019f331f9da3b1d4dc16e383a6b7829e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgscale-george%2F20261105%2F20261105152351_original.png" length="None" type="image/png"/>
+      <pubDate>Sun, 08 Nov 2026 06:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Actions「pull_request_target」12月2日から既定ブロック｜影響と管理者が必要な対応を解説</title>
+      <link>https://aadojo.alterbooth.com/entry/2026/11/08/174706</link>
+      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2026/11/08/174706</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/437a77c7b327c8481bada921622240896786b18a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FH%2FHikaru-336%2F20261108%2F20261108174413.png" length="None" type="image/png"/>
+      <pubDate>Sun, 08 Nov 2026 08:47:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Snowflake】CoCoによるSnowpipeの自動セットアップ（AWS編）</title>
+      <link>https://techblog.beex-inc.com/entry/2026/11/08/175618</link>
+      <guid isPermaLink="true">https://techblog.beex-inc.com/entry/2026/11/08/175618</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6a1adb955479653cfdacbbfd9ddbff0361922501/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbeextech%2F20261108%2F20261108175619.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sun, 08 Nov 2026 08:56:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

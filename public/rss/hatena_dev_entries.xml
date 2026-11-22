@@ -7,34 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 10:24:54 +0000</lastBuildDate>
-    <item>
-      <title>SQLiteを本番環境で使うための5つの設定</title>
-      <link>https://proever-tech.hatenablog.com/entry/2026/11/20/105157</link>
-      <guid isPermaLink="true">https://proever-tech.hatenablog.com/entry/2026/11/20/105157</guid>
-      <pubDate>Fri, 20 Nov 2026 01:51:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CocoaPodsからSPMへ ── 広告SDKの依存整理と、Dependabotに頼らない更新運用</title>
-      <link>https://techblog.zozo.com/entry/20261120-wear-ios-cocoapods-to-spm</link>
-      <guid isPermaLink="true">https://techblog.zozo.com/entry/20261120-wear-ios-cocoapods-to-spm</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/dc6a4b416801eb3dff75ca96b1f1de973d37163b/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20261118%2F20261118063108.png" length="None" type="image/png"/>
-      <pubDate>Fri, 20 Nov 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon Connectのフローに「バージョン＆エイリアス」機能が登場！モジュール連携や切り戻しまで試してみた</title>
-      <link>https://blog.serverworks.co.jp/call-in-amazon-connect-202611</link>
-      <guid isPermaLink="true">https://blog.serverworks.co.jp/call-in-amazon-connect-202611</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/6bbf9c328e0000ef7da201ebb8bf4a81399a9186/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155681015%2F1782273580258620" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 20 Nov 2026 02:34:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gemini APIのAgent Platform（旧Vertex AI）移行と、AIの接続先を切り替える仕組み</title>
-      <link>https://tech.willgate.co.jp/entry/2026/11/20/120000</link>
-      <guid isPermaLink="true">https://tech.willgate.co.jp/entry/2026/11/20/120000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/ab43f56f93384c9e32ee7d0be5198152e03d2370/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyoshhhy%2F20261106%2F20261106113812.png" length="None" type="image/png"/>
-      <pubDate>Fri, 20 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 22 Nov 2026 10:28:27 +0000</lastBuildDate>
     <item>
       <title>【空間トランスクリプトーム】 Xenium実践ガイド 第二回：クオリティーコントロール（QC）</title>
       <link>https://staffblog.amelieff.jp/entry/2026/11/20/120000</link>
@@ -107,6 +80,12 @@
       <link>https://developer.hatenastaff.com/entry/2026/11/20/162322</link>
       <guid isPermaLink="true">https://developer.hatenastaff.com/entry/2026/11/20/162322</guid>
       <pubDate>Fri, 20 Nov 2026 07:23:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Ignite 2026のハンズオンコンテンツまとめ</title>
+      <link>https://aadojo.alterbooth.com/entry/2026/11/20/163457</link>
+      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2026/11/20/163457</guid>
+      <pubDate>Fri, 20 Nov 2026 07:34:57 +0000</pubDate>
     </item>
     <item>
       <title>GS2-Quest にクエストのクリア状況を条件にできる検証アクションを追加しました</title>
@@ -206,6 +185,25 @@
       <guid isPermaLink="true">https://llmo-ai-knowledgeholdings.hatenablog.com/entry/dental-clinic-blog-seo-case-study</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/93c8146c179b346c38f80313342a9baa936429c0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fl%2Fllmo_ai_knowledgeholdings%2F20261120%2F20261120212242.png" length="None" type="image/png"/>
       <pubDate>Fri, 20 Nov 2026 12:27:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【SRE Kaigi 2027】チケット販売開始のお知らせ</title>
+      <link>https://blog.srekaigi.net/entry/2026/11/21/100000</link>
+      <guid isPermaLink="true">https://blog.srekaigi.net/entry/2026/11/21/100000</guid>
+      <pubDate>Sat, 21 Nov 2026 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Microsoft Ignite 2026】Day 4：最終日を終えて</title>
+      <link>https://aadojo.alterbooth.com/entry/2026/11/21/180958</link>
+      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2026/11/21/180958</guid>
+      <pubDate>Sat, 21 Nov 2026 09:09:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Ignite 2026速報：Day4(最終日)</title>
+      <link>https://blogs.networld.co.jp/entry/2026/11/21/181720</link>
+      <guid isPermaLink="true">https://blogs.networld.co.jp/entry/2026/11/21/181720</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/49ca3f772ca07de81617cba80ed3cb01915c1e6f/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnetworld-blog%2F20261121%2F20261121181721.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Sat, 21 Nov 2026 09:17:20 +0000</pubDate>
     </item>
   </channel>
 </rss>

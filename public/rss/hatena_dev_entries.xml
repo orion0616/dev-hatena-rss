@@ -7,44 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Nov 2026 11:28:19 +0000</lastBuildDate>
-    <item>
-      <title>Clean Projectしても直らない。AIエージェントが書き換えたコードがAPKに入らなかった話</title>
-      <link>https://techblog.goinc.jp/entry/2026/11/20/160402</link>
-      <guid isPermaLink="true">https://techblog.goinc.jp/entry/2026/11/20/160402</guid>
-      <pubDate>Fri, 20 Nov 2026 07:04:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>生成AIを安全に活用するために、BigQueryの権限管理にPAMを導入した話</title>
-      <link>https://techblog.goinc.jp/entry/2026/11/20/160615</link>
-      <guid isPermaLink="true">https://techblog.goinc.jp/entry/2026/11/20/160615</guid>
-      <pubDate>Fri, 20 Nov 2026 07:06:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>はてなエンジニアの自作RSSリーダーをご紹介します 2026</title>
-      <link>https://developer.hatenastaff.com/entry/2026/11/20/162322</link>
-      <guid isPermaLink="true">https://developer.hatenastaff.com/entry/2026/11/20/162322</guid>
-      <pubDate>Fri, 20 Nov 2026 07:23:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Ignite 2026のハンズオンコンテンツまとめ</title>
-      <link>https://aadojo.alterbooth.com/entry/2026/11/20/163457</link>
-      <guid isPermaLink="true">https://aadojo.alterbooth.com/entry/2026/11/20/163457</guid>
-      <pubDate>Fri, 20 Nov 2026 07:34:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>GS2-Quest にクエストのクリア状況を条件にできる検証アクションを追加しました</title>
-      <link>https://gs2.hatenablog.com/entry/2026/11/20/163615</link>
-      <guid isPermaLink="true">https://gs2.hatenablog.com/entry/2026/11/20/163615</guid>
-      <pubDate>Fri, 20 Nov 2026 07:36:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>データを「出す」から「揃える」へ —— BigQuery MCPサーバーで変わったデータエンジニアの仕事</title>
-      <link>https://tech.youtrust.co.jp/entry/2026/11/20/170000</link>
-      <guid isPermaLink="true">https://tech.youtrust.co.jp/entry/2026/11/20/170000</guid>
-      <enclosure url="https://cdn.image.st-hatena.com/image/scale/f4f64e2a0ec3d7e8c20174d34ab85d58725f0fb9/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsatopi-utr%2F20261120%2F20261120140327.png" length="None" type="image/png"/>
-      <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Nov 2026 13:01:38 +0000</lastBuildDate>
     <item>
       <title>Railsの可能性は、ブラウザで終わらない — Kaigi on Rails 2026 登壇の記録</title>
       <link>https://techblog.stadium.fan/entry/kaigi-on-rails-2026-actioncable</link>
@@ -130,6 +93,47 @@
       <guid isPermaLink="true">https://llmo-ai-knowledgeholdings.hatenablog.com/entry/dental-clinic-blog-seo-case-study</guid>
       <enclosure url="https://cdn.image.st-hatena.com/image/scale/93c8146c179b346c38f80313342a9baa936429c0/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fl%2Fllmo_ai_knowledgeholdings%2F20261120%2F20261120212242.png" length="None" type="image/png"/>
       <pubDate>Fri, 20 Nov 2026 12:27:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【React 19.3】browser APIについて</title>
+      <link>https://tech.kentem.jp/entry/2026/11/23/090000</link>
+      <guid isPermaLink="true">https://tech.kentem.jp/entry/2026/11/23/090000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/0bba4072397ede794100b4c48c3f751414dc667c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkentem_dev_yo_kobayashi%2F20261113%2F20261113152354.png" length="None" type="image/png"/>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS環境で実践する堅牢なバックアップ</title>
+      <link>https://techblog.techfirm.co.jp/entry/aws-resilient-backup-32110</link>
+      <guid isPermaLink="true">https://techblog.techfirm.co.jp/entry/aws-resilient-backup-32110</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/35d6365ddcf5d20f83f820b98b3fbd84a2dbcaf3/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F158883635%2F1666791273156818" length="None" type="image/jpeg"/>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>JPA理事で、湘南エリアのコミュニティ「湘.なんか」を主催するpapixさんにインタビュー「学び、そして出会いはこれからも活き続けるはず」</title>
+      <link>https://blog.yapcjapan.org/entry/2026/11/23/132000</link>
+      <guid isPermaLink="true">https://blog.yapcjapan.org/entry/2026/11/23/132000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/0879525a61490298d053f27748ef0ad22a480871/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftoya%2F20261119%2F20261119124159.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Mon, 23 Nov 2026 04:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EVポータブル製品価格改定（値下げ）</title>
+      <link>https://rizing-pa.hatenablog.com/entry/2026/11/23/144706</link>
+      <guid isPermaLink="true">https://rizing-pa.hatenablog.com/entry/2026/11/23/144706</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/2c759184a5057c072e0af77a61876ce208b910cd/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FR%2FRIZING-PA%2F20261123%2F20261123141706.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Mon, 23 Nov 2026 05:47:06 +0000</pubDate>
+    </item>
+    <item>
+      <title> 「作らない」と決めていた僕らが、コードを書き始めた理由</title>
+      <link>https://blog.spookies.co.jp/entry/2026/11/23/174849</link>
+      <guid isPermaLink="true">https://blog.spookies.co.jp/entry/2026/11/23/174849</guid>
+      <pubDate>Mon, 23 Nov 2026 09:20:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Device42 のかゆいところに手を届かせる ― SQL と API で作った検索ツールの活用事例</title>
+      <link>https://tech.aby3.co.jp/entry/2026/11/23/233000</link>
+      <guid isPermaLink="true">https://tech.aby3.co.jp/entry/2026/11/23/233000</guid>
+      <enclosure url="https://cdn.image.st-hatena.com/image/scale/3fad7620abf1567433fe0df432691c932ed7ed06/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fy_shibuya33%2F20261105%2F20261105174859.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Mon, 23 Nov 2026 14:30:00 +0000</pubDate>
     </item>
     <item>
       <title>【SRE Kaigi 2027】チケット販売開始のお知らせ</title>

@@ -203,7 +203,51 @@ class FakeResponse:
         return False
 
 
+class QuoteUrlTest(unittest.TestCase):
+    def test_non_ascii_path_encoded(self):
+        self.assertEqual(
+            crf.quote_url("https://example.com/entry/日本語"),
+            "https://example.com/entry/%E6%97%A5%E6%9C%AC%E8%AA%9E",
+        )
+
+    def test_already_encoded_unchanged(self):
+        url = "https://example.com/entry/%E6%97%A5"
+        self.assertEqual(crf.quote_url(url), url)
+
+    def test_ascii_with_query_and_fragment_unchanged(self):
+        url = "https://example.com/a/b?x=1&y=2#frag"
+        self.assertEqual(crf.quote_url(url), url)
+
+
 class FetchArticlesTest(unittest.TestCase):
+    def _run(self, entry_url, page_response):
+        entries = [{"id": 1, "title": "x", "url": entry_url, "created": "", "imageUrl": None}]
+        api = json.dumps({"data": {"recentEntries": {"entries": entries}}}).encode()
+        seen = []
+
+        def fake_urlopen(req, timeout=None):
+            seen.append(req.full_url)
+            if req.full_url.endswith("/api/graphql"):
+                return FakeResponse(api, "utf-8")
+            return page_response
+
+        with mock.patch("create_rss_feed.urllib.request.urlopen", side_effect=fake_urlopen):
+            return crf.fetch_articles(0, 20), seen
+
+    def test_unknown_charset_falls_back_to_utf8(self):
+        page = '<meta property="article:published_time" content="2025-06-27T05:12:40Z">'.encode()
+        result, _ = self._run("https://b/x", FakeResponse(page, "x-no-such-charset"))
+        self.assertEqual(len(result), 1)
+        self.assertEqual(result[0]["pub_date"], datetime.datetime(2025, 6, 27, 5, 12, 40, tzinfo=UTC))
+
+    def test_non_ascii_url_is_fetched_encoded_but_link_kept(self):
+        page = '<meta property="article:published_time" content="2025-06-27T05:12:40Z">'.encode()
+        url = "https://example.com/entry/日本語"
+        result, seen = self._run(url, FakeResponse(page, "utf-8"))
+        self.assertEqual(len(result), 1)
+        self.assertTrue(all(u.isascii() for u in seen))
+        self.assertEqual(result[0]["link"], url)
+        self.assertEqual(result[0]["guid"], url)
     def test_skips_404_and_other_errors(self):
         entries = [
             {"id": 1, "title": "ok", "url": "https://b/ok", "created": "", "imageUrl": "https://i/a.png"},

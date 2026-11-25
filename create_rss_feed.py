@@ -3,6 +3,7 @@ import email.utils
 import json
 import re
 import urllib.error
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from html.parser import HTMLParser
@@ -49,7 +50,17 @@ def _open(request):
     """リクエストを送り、Content-Type の charset(無ければ UTF-8)でデコードした本文を返す。"""
     with urllib.request.urlopen(request, timeout=REQUEST_TIMEOUT) as response:
         charset = response.headers.get_content_charset() or "utf-8"
-        return response.read().decode(charset, errors="replace")
+        body = response.read()
+    try:
+        return body.decode(charset, errors="replace")
+    except LookupError:
+        # 未知の charset 指定でも本文は読めるよう UTF-8 で読み直す
+        return body.decode("utf-8", errors="replace")
+
+
+def quote_url(url):
+    """取得用に URL の非 ASCII 文字をパーセントエンコードする。予約文字とエンコード済みの % は保つ。"""
+    return urllib.parse.quote(url, safe=":/?#[]@!$&'()*+,;=%~")
 
 
 def fetch_articles(skip=0, limit=20):
@@ -91,7 +102,7 @@ def fetch_articles(skip=0, limit=20):
     for entry in recent_entries:
         try:
             # 各記事のページを取得して公開日時を取得
-            html = _open(urllib.request.Request(entry['url']))
+            html = _open(urllib.request.Request(quote_url(entry['url'])))
 
             pub_date_str = extract_published_time(html)
             if pub_date_str:

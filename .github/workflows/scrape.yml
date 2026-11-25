@@ -15,15 +15,10 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: "3.12"
-      - name: Install poetry
-        uses: abatilo/actions-poetry@v2
-      - name: Install dependencies and create virtual environment
-        run: |
-          poetry install --no-root
       - name: Generate RSS Feed
         run: |
           mkdir -p output
-          poetry run python create_rss_feed.py
+          python create_rss_feed.py
           mv hatena_dev_entries.xml output/
       - name: Deploy to GitHub Pages
         env:

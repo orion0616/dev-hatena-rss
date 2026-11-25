@@ -3,6 +3,7 @@ import io
 import json
 import unittest
 import urllib.error
+import xml.etree.ElementTree as ET
 from unittest import mock
 
 import create_rss_feed as crf
@@ -51,7 +52,34 @@ class ExtractPublishedTimeTest(unittest.TestCase):
         self.assertEqual(crf.extract_published_time(html), "2025-01-02T03:04:05+09:00")
 
 
+class ExtractFirstMatchTest(unittest.TestCase):
+    def test_first_match_empty_content_returns_none(self):
+        html = (
+            '<meta property="article:published_time" content="">'
+            '<meta property="article:published_time" content="2025-06-27T05:12:40Z">'
+        )
+        self.assertIsNone(crf.extract_published_time(html))
+
+    def test_first_match_without_content_returns_none(self):
+        html = (
+            '<meta property="article:published_time">'
+            '<meta property="article:published_time" content="2025-06-27T05:12:40Z">'
+        )
+        self.assertIsNone(crf.extract_published_time(html))
+
+
 class ParseDatetimeTest(unittest.TestCase):
+    def test_naive_becomes_utc(self):
+        dt = crf.parse_published_time("2026-11-24T08:30:00")
+        self.assertEqual(dt, datetime.datetime(2026, 11, 24, 8, 30, tzinfo=UTC))
+        self.assertIsNotNone(dt.tzinfo)
+
+    def test_naive_and_aware_mix_sorts(self):
+        a = article("aware", 27)
+        b = article("naive", 28)
+        b["pub_date"] = crf.parse_published_time("2025-06-28T05:12:40")
+        self.assertEqual([x["title"] for x in crf.select_latest([a, b])], ["naive", "aware"])
+
     def test_z_suffix(self):
         dt = crf.parse_published_time("2025-06-27T05:12:40Z")
         self.assertEqual(dt, datetime.datetime(2025, 6, 27, 5, 12, 40, tzinfo=UTC))
@@ -71,7 +99,6 @@ class BuildRssTest(unittest.TestCase):
         self.assertNotIn(b"xmlns", data)
 
     def test_channel(self):
-        import xml.etree.ElementTree as ET
         root = ET.fromstring(render([article()]))
         self.assertEqual(root.tag, "rss")
         self.assertEqual(root.get("version"), "2.0")
@@ -90,7 +117,6 @@ class BuildRssTest(unittest.TestCase):
         )
 
     def test_item_order_and_values(self):
-        import xml.etree.ElementTree as ET
         root = ET.fromstring(render([article("a", thumbnail="https://img/x.png")]))
         item = root.find("channel/item")
         self.assertEqual([c.tag for c in item], ["title", "link", "guid", "enclosure", "pubDate"])
@@ -101,7 +127,6 @@ class BuildRssTest(unittest.TestCase):
         self.assertEqual(item.find("pubDate").text, "Fri, 27 Jun 2025 05:12:40 +0000")
 
     def test_enclosure_types(self):
-        import xml.etree.ElementTree as ET
         root = ET.fromstring(render([
             article("p", day=3, thumbnail="https://img/x.png"),
             article("j", day=2, thumbnail="https://img/x.jpg"),
@@ -115,7 +140,6 @@ class BuildRssTest(unittest.TestCase):
         self.assertIsNone(items[2].find("enclosure"))
 
     def test_escaping_and_japanese(self):
-        import xml.etree.ElementTree as ET
         title = "日本語 & <タグ> \"q\""
         data = render([article(title)])
         self.assertIn("日本語 &amp; &lt;タグ&gt;".encode("utf-8"), data)
@@ -123,11 +147,25 @@ class BuildRssTest(unittest.TestCase):
         self.assertEqual(root.find("channel/item/title").text, title)
 
     def test_pubdate_offset_formatting(self):
-        import xml.etree.ElementTree as ET
         a = article()
         a["pub_date"] = datetime.datetime(2025, 6, 27, 14, 12, 40, tzinfo=datetime.timezone(datetime.timedelta(hours=9)))
         root = ET.fromstring(render([a]))
         self.assertEqual(root.find("channel/item/pubDate").text, "Fri, 27 Jun 2025 14:12:40 +0900")
+
+
+class ControlCharTest(unittest.TestCase):
+    def test_title_control_chars_removed(self):
+        data = render([article("日本\x01語\x0bA\ud800B\ufffe\ufffft\tn\n")])
+        root = ET.fromstring(data)
+        self.assertEqual(root.find("channel/item/title").text, "日本語ABt\tn\n")
+
+    def test_link_guid_and_enclosure_url_sanitized(self):
+        a = article("t", link="https://e.com/a\x01b", thumbnail="https://i/x\x0c.png")
+        root = ET.fromstring(render([a]))
+        item = root.find("channel/item")
+        self.assertEqual(item.find("link").text, "https://e.com/ab")
+        self.assertEqual(item.find("guid").text, "https://e.com/ab")
+        self.assertEqual(item.find("enclosure").get("url"), "https://i/x.png")
 
 
 class SelectLatestTest(unittest.TestCase):
@@ -196,6 +234,21 @@ class FetchArticlesTest(unittest.TestCase):
         self.assertEqual(result[0]["pub_date"], datetime.datetime(2025, 6, 27, 5, 12, 40, tzinfo=UTC))
         self.assertEqual(result[0]["thumbnail"], "https://i/a.png")
         self.assertEqual(pr.call_count, 2)
+
+    def test_invalid_bytes_in_body_do_not_skip_article(self):
+        entries = [{"id": 1, "title": "x", "url": "https://b/x", "created": "", "imageUrl": None}]
+        api = json.dumps({"data": {"recentEntries": {"entries": entries}}}).encode()
+        page = b'<p>\xff\xfe</p><meta property="article:published_time" content="2025-06-27T05:12:40Z">'
+
+        def fake_urlopen(req, timeout=None):
+            if req.full_url.endswith("/api/graphql"):
+                return FakeResponse(api, "utf-8")
+            return FakeResponse(page, "utf-8")
+
+        with mock.patch("create_rss_feed.urllib.request.urlopen", side_effect=fake_urlopen):
+            result = crf.fetch_articles(0, 20)
+        self.assertEqual(len(result), 1)
+        self.assertEqual(result[0]["pub_date"], datetime.datetime(2025, 6, 27, 5, 12, 40, tzinfo=UTC))
 
     def test_non_404_http_error_propagates(self):
         # 現行実装どおり 404 以外の HTTPError は except Exception に

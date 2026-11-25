@@ -1,6 +1,7 @@
 import datetime
 import email.utils
 import json
+import re
 import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -17,13 +18,16 @@ class _PublishedTimeParser(HTMLParser):
     def __init__(self):
         super().__init__()
         self.published_time = None
+        self._matched = False
 
     def handle_starttag(self, tag, attrs):
-        if tag != "meta" or self.published_time:
+        if tag != "meta" or self._matched:
             return
         attrs = dict(attrs)
-        if attrs.get("property") == "article:published_time" and attrs.get("content"):
-            self.published_time = attrs["content"]
+        if attrs.get("property") == "article:published_time":
+            # 最初に一致した meta だけを見る。content が空なら後続は採用しない。
+            self._matched = True
+            self.published_time = attrs.get("content") or None
 
 
 def extract_published_time(html):
@@ -35,14 +39,17 @@ def extract_published_time(html):
 
 def parse_published_time(value):
     """ISO 8601 形式の日時文字列(末尾 Z 可)をタイムゾーン付き datetime に変換する。"""
-    return datetime.datetime.fromisoformat(value.replace('Z', '+00:00'))
+    dt = datetime.datetime.fromisoformat(value.replace('Z', '+00:00'))
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=datetime.timezone.utc)
+    return dt
 
 
 def _open(request):
     """リクエストを送り、Content-Type の charset(無ければ UTF-8)でデコードした本文を返す。"""
     with urllib.request.urlopen(request, timeout=REQUEST_TIMEOUT) as response:
         charset = response.headers.get_content_charset() or "utf-8"
-        return response.read().decode(charset)
+        return response.read().decode(charset, errors="replace")
 
 
 def fetch_articles(skip=0, limit=20):
@@ -117,6 +124,14 @@ def select_latest(articles):
     return sorted(articles, key=lambda x: x['pub_date'], reverse=True)[:MAX_ITEMS]
 
 
+_XML_INVALID_CHARS = re.compile('[\x00-\x08\x0b\x0c\x0e-\x1f\ud800-\udfff\ufffe\uffff]')
+
+
+def _clean(text):
+    # XML 1.0 で禁止された文字が1つでもあるとフィード全体がパース不能になるため、例外にせず取り除く。
+    return _XML_INVALID_CHARS.sub('', text)
+
+
 def build_rss(articles, now):
     """記事リストを渡された順のまま RSS 2.0 の ElementTree にする。now は lastBuildDate に使う。"""
     rss = ET.Element('rss', version='2.0')
@@ -130,15 +145,15 @@ def build_rss(articles, now):
 
     for article in articles:
         item = ET.SubElement(channel, 'item')
-        ET.SubElement(item, 'title').text = article['title']
-        ET.SubElement(item, 'link').text = article['link']
+        ET.SubElement(item, 'title').text = _clean(article['title'])
+        ET.SubElement(item, 'link').text = _clean(article['link'])
         guid = ET.SubElement(item, 'guid', isPermaLink='true')
-        guid.text = article['guid']
+        guid.text = _clean(article['guid'])
 
         # サムネイル画像の追加
         if article['thumbnail']:
             mime_type = 'image/png' if article['thumbnail'].endswith('.png') else 'image/jpeg'
-            ET.SubElement(item, 'enclosure', url=article['thumbnail'], length='0', type=mime_type)
+            ET.SubElement(item, 'enclosure', url=_clean(article['thumbnail']), length='0', type=mime_type)
 
         ET.SubElement(item, 'pubDate').text = email.utils.format_datetime(article['pub_date'])
 

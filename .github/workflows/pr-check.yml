@@ -17,16 +17,11 @@ jobs:
       with:
         python-version: '3.12'
         
-    - name: Install Poetry
-      uses: snok/install-poetry@v1
-      with:
-        version: latest
-        
-    - name: Install dependencies
-      run: poetry install --no-root
-      
+    - name: Run unit tests
+      run: python -m unittest discover -s tests -v
+
     - name: Run RSS feed creation script
-      run: poetry run python create_rss_feed.py
+      run: python create_rss_feed.py
       
     - name: Check if RSS file was generated
       run: |
